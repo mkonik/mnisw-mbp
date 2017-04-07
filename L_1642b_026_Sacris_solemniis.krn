@@ -1,0 +1,100 @@
+!!!COM: Anonymous
+!!!OTL@@LAT: Sacris solemnis juncta sunt gaudia
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook L 1642
+!!!ARL: Biblioteka Diecezjalna w Sandomierzu 
+!!!voices:	4
+**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Canto III	*	*I"Canto II	*	*I"Canto I	*
+=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
+*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
+*M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
+1G	Sa-	1g	Sa-	1b-	Sa-	1dd	Sa-
+1G	-cris	1g	-cris	1b-	-cris	1dd	-cris
+1F	so-	1a	so-	1a	so-	1dd	so-
+=2	=2	=2	=2	=2	=2	=2	=2
+0E-	-lem-	0b-	-lem-	0g	-lem-	0ee-	-lem-
+1C	-ni-	1cc	-ni-	1g	-ni-	1ee-	-ni-
+=3	=3	=3	=3	=3	=3	=3	=3
+0.D	-is	0.a	-is	0.f#	-is	0.dd	-is
+=4	=4	=4	=4	=4	=4	=4	=4
+1BB-	jun-	1b-	jun-	1dd	jun-	1ff	jun-
+1FF	-cta	1a	-cta	1cc	-cta	1ff	-cta
+1GG	sint	1g	sint	1b-	sint	1dd	sint
+=5	=5	=5	=5	=5	=5	=5	=5
+0C	gau-	0g	gau-	0g	gau-	0ee-	gau-
+1D	-di-	1f#	-di-	1a	-di-	1dd	-di-
+=6	=6	=6	=6	=6	=6	=6	=6
+0.GG	-a	0.g	-a	0.b-	-a	0.dd	-a
+=7	=7	=7	=7	=7	=7	=7	=7
+1GG	Et	1b-	Et	1dd	Et	1gg	Et
+1GG	ex	1b-	ex	1dd	ex	1gg	ex
+1BB-	prae-	1b-	prae-	1dd	prae-	1ff	prae-
+=8	=8	=8	=8	=8	=8	=8	=8
+1.F	-cor-	1.a	-cor-	1.cc	-cor-	1.ff	-cor-
+2F\	-di-	2a/	-di-	2cc\	-di-	2ff\	-di-
+1D	-is	1dd	-is	1dd	-is	1ff	-is
+=9	=9	=9	=9	=9	=9	=9	=9
+1E-	so-	1b-	so-	1ee-	so-	1gg	so-
+1E-	-nent	1g	-nent	1ee-	-nent	1gg	-nent
+1BB-	prae-	1b-	prae-	1dd	prae-	1ff	prae-
+=10	=10	=10	=10	=10	=10	=10	=10
+0FF	-co-	0a	-co-	0cc	-co-	0ff	-co-
+1FF	-ni-	1a	-ni-	1cc	-ni-	1ff	-ni-
+=11	=11	=11	=11	=11	=11	=11	=11
+0.BB-	-a	0.b-	-a	0.dd	-a	0.ff	-a
+=12	=12	=12	=12	=12	=12	=12	=12
+1D	Re-	1f#	Re-	1a	Re-	1dd	Re-
+1D	-ce-	1f#	-ce-	1a	-ce-	1dd	-ce-
+1G	-dant	1g	-dant	1b-	-dant	1dd	-dant
+=13	=13	=13	=13	=13	=13	=13	=13
+1.F	ve-	1.a	ve-	1.cc	ve-	1.ff	ve-
+2F\	-te-	2a/	-te-	2cc\	-te-	2ff\	-te-
+1F	-ra	1a	-ra	1cc	-ra	1ff	-ra
+=14	=14	=14	=14	=14	=14	=14	=14
+1BB-	no-	1b-	no-	1dd	no-	1ff	no-
+1F	-va	1a	-va	1cc	-va	1ff	-va
+1G	sint	1g	sint	1b-	sint	1dd	sint
+=15	=15	=15	=15	=15	=15	=15	=15
+2D\	o-	2f/	o-	1.ff	o-	1.aa	o-
+2E\	.	2g/	.	.	.	.	.
+2F\	.	2a/	.	.	.	.	.
+2G\	.	2b-\	.	4ee\	.	4gg\	.
+.	.	.	.	4dd\	.	4ff\	.
+1A	.	1a	.	1cc#	.	1ee	.
+=16	=16	=16	=16	=16	=16	=16	=16
+1D	.	1f	.	0dd	.	1ff	.
+1.AA	.	1.a	.	.	.	1.ee	.
+.	.	.	.	1cc#	-mni-	.	.
+2AA/	-mni-	2a/	-mni-	.	.	2ee\	-mni-
+=17	=17	=17	=17	=17	=17	=17	=17
+0.D	-a	0.a	-a	0.dd	-a	0.ff	-a
+=18	=18	=18	=18	=18	=18	=18	=18
+0G	Cor-	0g	Cor-	0b-	Cor-	0dd	Cor-
+1F	-da	1a	-da	1a	-da	1dd	-da
+=19	=19	=19	=19	=19	=19	=19	=19
+0E-	vo-	0b-	vo-	0g	vo-	0gg	vo-
+1C	-ces	1cc	-ces	1g	-ces	1ee-	-ces
+=20	=20	=20	=20	=20	=20	=20	=20
+1GG	et	1b-	et	1g	et	1dd	et
+1.D	o-	1.a	o-	1.a	o-	1.dd	o-
+2D\	-pe-	2a/	-pe-	2a/	-pe-	2dd\	-pe-
+=21	=21	=21	=21	=21	=21	=21	=21
+0.GG	-ra.	0.g	-ra.	0.bni	-ra.	0.dd	-ra.
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!GTL: Hymnbook L 1642
+!!!EFL: 26/39
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-02-20 
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Translated from MusicXML and edited by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}

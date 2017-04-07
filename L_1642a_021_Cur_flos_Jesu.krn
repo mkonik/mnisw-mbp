@@ -1,0 +1,145 @@
+!!!COM: Anonymous
+!!!OTL@@LAT: Cur flos Jesu dulcis
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook L 1642(a)
+!!!ARL: Biblioteka Diecezjalna w Sandomierzu 
+!!!voices:	4
+**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Canto III	*	*I"Canto II	*	*I"Canto I	*
+=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
+*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
+*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*
+*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
+1r	.	1r	.	1r	.	1g	Cur
+=2	=2	=2	=2	=2	=2	=2	=2
+1r	.	1r	.	1r	.	2b-\	flos
+.	.	.	.	.	.	[2b-\	Je-
+=3	=3	=3	=3	=3	=3	=3	=3
+1r	.	1r	.	1r	.	2b-\]	.
+.	.	.	.	.	.	2b-\	-su
+=4	=4	=4	=4	=4	=4	=4	=4
+1r	.	1r	.	1r	.	1cc	dul-
+=5	=5	=5	=5	=5	=5	=5	=5
+1r	.	1r	.	1r	.	1dd	-cis
+=6	=6	=6	=6	=6	=6	=6	=6
+1GG	Cur	1b-	Cur	1b-	Cur	1dd	Cur
+=7	=7	=7	=7	=7	=7	=7	=7
+2BB-/	flos	2b-\	flos	2dd\	flos	2ff\	flos
+[2BB-/	Je-	[2b-\	Je-	[2dd\	Je-	[2ff\	Je-
+=8	=8	=8	=8	=8	=8	=8	=8
+2BB-/]	.	2b-\]	.	2dd\]	.	2ff\]	.
+2BB-/	-su	2b-\	-su	2dd\	-su	2ff\	-su
+=9	=9	=9	=9	=9	=9	=9	=9
+1C	dul-	1g	dul-	2.cc\	dul-	1ee-	dul-
+.	.	.	.	4b-\	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10
+1D	-cis	1f#	-cis	1a	-cis	1dd	-cis
+=11	=11	=11	=11	=11	=11	=11	=11
+1r	.	1r	.	1r	.	1ff	Non-
+=12	=12	=12	=12	=12	=12	=12	=12
+1r	.	1r	.	1r	.	2dd\	-ne
+.	.	.	.	.	.	[2dd\	fri-
+=13	=13	=13	=13	=13	=13	=13	=13
+1r	.	1r	.	1r	.	2dd\]	.
+.	.	.	.	.	.	2b-\	-gus
+=14	=14	=14	=14	=14	=14	=14	=14
+1r	.	1r	.	1r	.	1a	fer-
+=15	=15	=15	=15	=15	=15	=15	=15
+1r	.	1r	.	1r	.	1g	-tis
+=16	=16	=16	=16	=16	=16	=16	=16
+1F	Non-	1f	Non-	2a/	Non-	1cc	Non-
+.	.	.	.	2a/	-ne	.	.
+=17	=17	=17	=17	=17	=17	=17	=17
+2D\	-ne	2f/	-ne	1a	fri-	2dd\	-ne
+[2D\	fri-	[2f/	fri-	.	.	[2dd\	fri-
+=18	=18	=18	=18	=18	=18	=18	=18
+2D\]	.	2f/]	.	1b-	-gus	2dd\]	.
+2BB-/	-gus	2f/	-gus	.	.	2dd\	-gus
+=19	=19	=19	=19	=19	=19	=19	=19
+1AA	fer-	2e/	fer-	1cc	fer-	1cc	fer-
+.	.	2f#/	.	.	.	.	.
+=20	=20	=20	=20	=20	=20	=20	=20
+1GG	-tis	1g	-tis	1dd	-tis	1b-	-tis
+=21||	=21||	=21||	=21||	=21||	=21||	=21||	=21||
+1r	.	1r	.	1r	.	2dd\	Gre-
+.	.	.	.	.	.	2cc\	-mi-
+=22	=22	=22	=22	=22	=22	=22	=22
+1r	.	1r	.	1r	.	2b-\	-o
+.	.	.	.	.	.	2cc\	te
+=23	=23	=23	=23	=23	=23	=23	=23
+1r	.	1r	.	1r	.	2dd\	ma-
+.	.	.	.	.	.	2cc\	-ter
+=24	=24	=24	=24	=24	=24	=24	=24
+1r	.	1r	.	1r	.	2b-\	re-
+.	.	.	.	.	.	2b-\	-fo-
+=25	=25	=25	=25	=25	=25	=25	=25
+1r	.	1r	.	1r	.	1a	-ve-
+=26	=26	=26	=26	=26	=26	=26	=26
+1r	.	1r	.	1r	.	1g	-at
+=27	=27	=27	=27	=27	=27	=27	=27
+2GG/	Gre-	2g/	Gre-	2b-\	Gre-	2dd\	Gre-
+2FF/	-mi-	2a/	-mi-	2a/	-mi-	2cc\	-mi-
+=28	=28	=28	=28	=28	=28	=28	=28
+2BB-/	-o	2f/	-o	2dd\	-o	2b-\	-o
+2FF/	te	2a/	te	2cc\	te	2cc\	te
+=29	=29	=29	=29	=29	=29	=29	=29
+2BB-/	cas-	2f/	cas-	2b-\	cas-	2dd\	cas-
+2C/	-ta	2e/	-ta	4g/	-ta	2cc\	-ta
+.	.	.	.	4a/	.	.	.
+=30	=30	=30	=30	=30	=30	=30	=30
+2GG/	su-	2g/	su-	2b-\	su-	2b-\	su-
+2GG/	-sci-	2g/	-sci-	2dd\	-sci-	2b-\	-sci-
+=31	=31	=31	=31	=31	=31	=31	=31
+1D	-pi-	1f#	-pi-	1dd	-pi-	1a	-pi-
+=32	=32	=32	=32	=32	=32	=32	=32
+1GG	-at	1g	-at	1b-	-at	1g	-at
+=33	=33	=33	=33	=33	=33	=33	=33
+*M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
+1.r	.	1.r	.	1.r	.	1dd	Gre-
+.	.	.	.	.	.	2cc\	-mi-
+=34	=34	=34	=34	=34	=34	=34	=34
+1.r	.	1.r	.	1.r	.	1dd	-o
+.	.	.	.	.	.	2b-\	te
+=35	=35	=35	=35	=35	=35	=35	=35
+1.r	.	1.r	.	1.r	.	1dd	ca-
+.	.	.	.	.	.	2ee\	-ra
+=36	=36	=36	=36	=36	=36	=36	=36
+1.r	.	1.r	.	1.r	.	1ff	con-
+.	.	.	.	.	.	2gg\	-sti-
+=37	=37	=37	=37	=37	=37	=37	=37
+1.r	.	1.r	.	1.r	.	1.ee	-tu-
+=38	=38	=38	=38	=38	=38	=38	=38
+1.r	.	1.r	.	1.r	.	1.dd	-at
+=39	=39	=39	=39	=39	=39	=39	=39
+1GG	Gre-	1g	Gre-	1b-	Gre-	1dd	Gre-
+2C/	-mi-	2g/	-mi-	2cc\	-mi-	2ee-\	-mi-
+=40	=40	=40	=40	=40	=40	=40	=40
+1D	-o	1f#	-o	1a	-o	1dd	-o
+2GG/	te	2g/	te	2g/	te	2b-\	te
+=41	=41	=41	=41	=41	=41	=41	=41
+1D	dul-	1f#i	dul-	1a	dul-	1dd	dul-
+2C#/	-cis	2g/	-cis	2a/	-cis	2ee\	-cis
+=42	=42	=42	=42	=42	=42	=42	=42
+1D	con-	1a	con-	1dd	con-	1ff	con-
+2GG/	-ca-	2b-\	-ca-	2dd\	-ca-	2gg\	-ca-
+=43	=43	=43	=43	=43	=43	=43	=43
+1.AA	-le-	1.a	-le-	1.cc#	-le-	1.ee	-le-
+=44	=44	=44	=44	=44	=44	=44	=44
+1.D	-at.	1.f#	-at.	1.dd	-at.	1.dd	-at.
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!GTL: Hymnbook L 1642(a)
+!!!EFL: 21/34
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-01-14 
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Translated from MusicXML and edited by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}

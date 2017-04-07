@@ -1,0 +1,117 @@
+!!!COM: Anonymous
+!!!OTL@@LAT: Surrexit Christus hodie
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook L 1642
+!!!ARL: Biblioteka Diecezjalna w Sandomierzu 
+!!!voices:	4
+**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Canto III	*	*I"Canto II	*	*I"Canto I	*
+=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
+*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
+*M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
+1r	.	1r	.	1r	.	1r	.
+1r	.	1r	.	1r	.	1r	.
+1GG	Sur-	1g	Sur-	1g	Sur-	1g	Sur-
+=2	=2	=2	=2	=2	=2	=2	=2
+0GG	-re-	0g	-re-	0b-	-re-	0dd	-re-
+1GG	-xit	1b-	-xit	1b-	-xit	1gg	-xit
+=3	=3	=3	=3	=3	=3	=3	=3
+1D	Chri-	0a	Chri-	0dd	Chri-	0ff	Chri-
+1F	.	.	.	.	.	.	.
+1C#	-stus	1g	-stus	1cc#	-stus	1ee	-stus
+=4	=4	=4	=4	=4	=4	=4	=4
+1D	ho-	1a	ho-	0dd	ho-	0dd	ho-
+1GG	.	1b-	.	.	.	.	.
+1AA	-di-	1a	-di-	1cc#	-di-	1cc#i	-di-
+=5	=5	=5	=5	=5	=5	=5	=5
+0.D	-e	0.a	-e	0.dd	-e	0.dd	-e
+=6	=6	=6	=6	=6	=6	=6	=6
+1D	al-	1a	al-	1dd	al-	1ff	al-
+1AA	-le-	1a	-le-	1cc	-le-	1ee	-le-
+1BB-	-lu-	1f	-lu-	1b-	-lu-	1dd	-lu-
+=7	=7	=7	=7	=7	=7	=7	=7
+0.FF	-ia	0.f	-ia	0.a	-ia	0.cc	-ia
+=8	=8	=8	=8	=8	=8	=8	=8
+1BB-	al-	1f	al-	1b-	al-	1dd	al-
+1FF	-le-	1a	-le-	1a	-le-	1cc	-le-
+1GG	-lu-	1g	-lu-	1g	-lu-	1b-	-lu-
+=9	=9	=9	=9	=9	=9	=9	=9
+0.D	-ia	0.f#i	-ia	0.f#	-ia	0.a	-ia
+=10	=10	=10	=10	=10	=10	=10	=10
+*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*
+*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
+2G\	al-	2b-\	al-	2b-\	al-	2gg\	al-
+2C/	-le-	2g/	-le-	2b-\	-le-	[2gg\	-le-
+=11	=11	=11	=11	=11	=11	=11	=11
+1D	-lu-	8cc/L	.	1a	-lu-	4gg\]	.
+.	.	8b-/	.	.	.	.	.
+.	.	8a/	.	.	.	8ff#i\L	.
+.	.	8g/J	.	.	.	8ee\J	.
+.	.	2a/	-lu-	.	.	2ff#\	-lu-
+=12	=12	=12	=12	=12	=12	=12	=12
+[1GG	-ia	[1g	-ia	[1g	-ia	[1gg	-ia
+=13	=13	=13	=13	=13	=13	=13	=13
+1GG]	.	1g]	.	1g]	.	1gg]	.
+=14	=14	=14	=14	=14	=14	=14	=14
+*M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
+1r	.	1r	.	1r	.	1r	.
+1r	.	1r	.	1r	.	1r	.
+1GG	Hu-	1b-	Hu-	1dd	Hu-	1gg	Hu-
+=15	=15	=15	=15	=15	=15	=15	=15
+1D	-ma-	1a	-ma-	0dd	-ma-	1ff	-ma-
+1GG	.	1b-	.	.	.	1gg	.
+1AA	-no	1g	-no	1cc#	-no	1ee	-no
+=16	=16	=16	=16	=16	=16	=16	=16
+1D	pro	1a	pro	0dd	pro	1ff	pro
+1GG	.	1b-	.	.	.	1gg	.
+1AA	so-	1g	so-	1cc#	so-	1ee	so-
+=17	=17	=17	=17	=17	=17	=17	=17
+1D	-la-	1a	-la-	0dd	-la-	1ff	-la-
+1GG	.	1b-	.	.	.	1gg	.
+1AA	-mi-	1a	-mi-	1cc#	-mi-	1ee	-mi-
+=18	=18	=18	=18	=18	=18	=18	=18
+0.D	-ne	0.a	-ne	0.dd	-ne	0.dd	-ne
+=19	=19	=19	=19	=19	=19	=19	=19
+1D	al-	1a	al-	1dd	al-	1ff	al-
+1AA	-le-	1a	-le-	1cc	-le-	1ee	-le-
+1BB-	-lu-	1f	-lu-	1b-	-lu-	1dd	-lu-
+=20	=20	=20	=20	=20	=20	=20	=20
+0.FF	-ia	0.f	-ia	0.a	-ia	0.cc	-ia
+=21	=21	=21	=21	=21	=21	=21	=21
+1BB-	al-	1f	al-	1b-	al-	1dd	al-
+1FF	-le-	1a	-le-	1a	-le-	1cc	-le-
+1GG	-lu-	1g	-lu-	1g	-lu-	1b-	-lu-
+=22	=22	=22	=22	=22	=22	=22	=22
+0.D	-ia	0.f#i	-ia	0.f#	-ia	0.a	-ia
+=23	=23	=23	=23	=23	=23	=23	=23
+*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*
+*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
+2G\	al-	2b-\	al-	2b-\	al-	2gg\	al-
+2C/	-le-	2g/	-le-	2b-\	-le-	2gg\	-le-
+=24	=24	=24	=24	=24	=24	=24	=24
+1D	-lu-	8cc/L	.	1a	-lu-	4ff#\	.
+.	.	8b-/	.	.	.	.	.
+.	.	8a/	.	.	.	4ee\	.
+.	.	8g/J	.	.	.	.	.
+.	.	2a/	-lu-	.	.	2ff#\	-lu-
+=25	=25	=25	=25	=25	=25	=25	=25
+[1GG	-ia.	[1g	-ia.	[1g	-ia.	[1gg	-ia.
+=26	=26	=26	=26	=26	=26	=26	=26
+1GG]	.	1g]	.	1g]	.	1gg]	.
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!GTL: Hymnbook L 1642
+!!!EFL: 16/39
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-02-17 
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Translated from MusicXML and edited by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}

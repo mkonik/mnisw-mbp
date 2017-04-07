@@ -1,0 +1,102 @@
+!!!COM: Anonymous
+!!!OTL@@POL: Rusz się stworzenie
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook L 1642
+!!!ARL: Biblioteka Diecezjalna w Sandomierzu 
+!!!voices:	4
+**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Canto III	*	*I"Canto II	*	*I"Canto I	*
+=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
+*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
+*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*
+*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
+1D	Rusz	1a	Rusz	1dd	Rusz	1dd	Rusz
+=2	=2	=2	=2	=2	=2	=2	=2
+2D\	się	2a/	się	2dd\	się	2dd\	się
+2C/	stwo-	2cc\	stwo-	2ee\	stwo-	2ee\	stwo-
+=3	=3	=3	=3	=3	=3	=3	=3
+1F	-rze-	1cc	-rze-	1ff	-rze-	1ff	-rze-
+=4	=4	=4	=4	=4	=4	=4	=4
+2C/	-nie	2cc\	-nie	2ee\	-nie	2ee\	-nie
+2D\	z~grun-	2a/	z~grun-	2dd\	z~grun-	2dd\	z~grun-
+=5	=5	=5	=5	=5	=5	=5	=5
+2GG/	-tu	2b-\	-tu	2ee\	-tu	2ee\	-tu
+2BB-/	swo-	2b-\	swo-	2ee\	swo-	2ee\	swo-
+=6	=6	=6	=6	=6	=6	=6	=6
+1AA	-je-	1a	-je-	1cc#	-je-	1cc#	-je-
+=7	=7	=7	=7	=7	=7	=7	=7
+1D	-go	1a	-go	1dd	-go	1dd	-go
+=8	=8	=8	=8	=8	=8	=8	=8
+1D	Gdy	1f	Gdy	1a	Gdy	1a	Gdy
+=9	=9	=9	=9	=9	=9	=9	=9
+2BB-/	Bo-	2f/	Bo-	2b-\	Bo-	4b-\	Bo-
+.	.	.	.	.	.	4cc\	.
+2D\	-ga	2f/	-ga	2dd\	-ga	2dd\	-ga
+=10	=10	=10	=10	=10	=10	=10	=10
+1C	wi-	1g	wi-	1cc	wi-	4cc\	wi-
+.	.	.	.	.	.	4b-\	.
+.	.	.	.	.	.	2cc\	.
+=11	=11	=11	=11	=11	=11	=11	=11
+2FF/	-dzisz	2a/	-dzisz	2cc\	-dzisz	2cc\	-dzisz
+2FF/	na	2cc\	na	2ff\	na	2ff\	na
+=12	=12	=12	=12	=12	=12	=12	=12
+2GG/	krzyż	2b-\	krzyż	2ee\	krzyż	2ee\	krzyż
+2AA/	wbi-	2a/	wbi-	2cc#\	wbi-	2cc#i\	wbi-
+=13	=13	=13	=13	=13	=13	=13	=13
+1BB-	-te-	1g	-te-	1dd	-te-	1dd	-te-
+=14	=14	=14	=14	=14	=14	=14	=14
+1AA	-go	1a	-go	1cc#	-go	1cc#	-go
+=15	=15	=15	=15	=15	=15	=15	=15
+1AA	Więc	1a	Więc	1cc#	Więc	1cc#i	Więc
+=16	=16	=16	=16	=16	=16	=16	=16
+2D\	byś	2a/	byś	2dd\	byś	2dd\	byś
+2F\	o	2f/	o	2b-\	o	2b-\	o
+=17	=17	=17	=17	=17	=17	=17	=17
+1E	słoń-	1g	słoń-	1cc#	słoń-	1cc#i	słoń-
+=18	=18	=18	=18	=18	=18	=18	=18
+2AA/	-ce	2a/	-ce	2cc#i\	-ce	2cc#i\	-ce
+2A\	świe-	2a/	świe-	2cc#\	świe-	2cc#\	świe-
+=19	=19	=19	=19	=19	=19	=19	=19
+2D\	-cić	2a/	-cić	2dd\	-cić	2dd\	-cić
+2C#/	dziś	2a/	dziś	2cc#\	dziś	2cc#i\	dziś
+=20	=20	=20	=20	=20	=20	=20	=20
+1D	mia-	1a	mia-	1dd	mia-	1dd	mia-
+=21	=21	=21	=21	=21	=21	=21	=21
+1AA	-ło	1a	-ło	1cc#	-ło	1cc#i	-ło
+=22	=22	=22	=22	=22	=22	=22	=22
+1AA	Gdy	1a	Gdy	1cc#	Gdy	1cc#i	Gdy
+=23	=23	=23	=23	=23	=23	=23	=23
+2D\	wie-	2a/	wie-	2dd\	wie-	2dd\	wie-
+2BB-/	-czne	4a/	-czne	4cc\	-czne	4cc\	-czne
+.	.	4b-\	.	4dd\	.	4dd\	.
+=24	=24	=24	=24	=24	=24	=24	=24
+2C/	słoń-	2cc\	słoń-	2ee\	słoń-	2ee\	słoń-
+2C/	-ce	2cc\	-ce	2ee\	-ce	2ee\	-ce
+=25	=25	=25	=25	=25	=25	=25	=25
+1FF	cie-	1cc	cie-	1ff	cie-	1ff	cie-
+=26	=26	=26	=26	=26	=26	=26	=26
+2GG/	-mne	2b-\	-mne	4ee\	-mne	4ee\	-mne
+.	.	.	.	4dd\	.	4dd\	.
+2BB-/	zos-	2b-\	zos-	4cc#\	zos-	4cc#i\	zos-
+.	.	.	.	4dd\	.	4b-\	.
+=27	=27	=27	=27	=27	=27	=27	=27
+1AA	-ta-	1a	-ta-	1cc#	-ta-	1cc#i	-ta-
+=28	=28	=28	=28	=28	=28	=28	=28
+1D	-ło.	1a	-ło.	1dd	-ło.	1dd	-ło.
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!GTL: Hymnbook L 1642
+!!!EFL: 2/39
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-02-12 
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Translated from MusicXML and edited by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}

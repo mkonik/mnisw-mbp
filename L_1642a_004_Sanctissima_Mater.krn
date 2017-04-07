@@ -1,0 +1,82 @@
+!!!COM: Anonymous
+!!!OTL@@LAT: Sanctissima Mater Dei
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook L 1642(a)
+!!!ARL: Biblioteka Diecezjalna w Sandomierzu 
+!!!voices:	4
+**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Canto III	*	*I"Canto II	*	*I"Canto I	*
+=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
+*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
+*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*
+*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
+2r	.	2r	.	2r	.	2r	.
+2G\	San-	2g/	San-	2g/	San-	2g/	San-
+=2	=2	=2	=2	=2	=2	=2	=2
+2G\	-ctis-	2d/	-ctis-	2g/	-ctis-	2b-\	-ctis-
+2F\	-si-	2f/	-si-	2a/	-si-	2cc\	-si-
+=3	=3	=3	=3	=3	=3	=3	=3
+1BB-	-ma	1f	-ma	1b-	-ma	1dd	-ma
+=4	=4	=4	=4	=4	=4	=4	=4
+2r	.	2r	.	2r	.	2r	.
+2BB-/	san-	2f/	san-	2b-\	san-	2dd\	san-
+=5	=5	=5	=5	=5	=5	=5	=5
+2F\	-ctis-	2f/	-ctis-	2a/	-ctis-	2cc\	-ctis-
+2G\	-si-	2d/	-si-	2g/	-si-	2b-\	-si-
+=6	=6	=6	=6	=6	=6	=6	=6
+1D	-ma	1d	-ma	1f#	-ma	1a	-ma
+=7	=7	=7	=7	=7	=7	=7	=7
+2r	.	2r	.	2r	.	2r	.
+2BB-/	Ma-	2f/	Ma-	2b-\	Ma-	2dd\	Ma-
+=8	=8	=8	=8	=8	=8	=8	=8
+2F\	-ter	2f/	-ter	2a/	-ter	2cc\	-ter
+2G\	De-	2d/	De-	2g/	De-	2b-\	De-
+=9	=9	=9	=9	=9	=9	=9	=9
+1D	-i	1d	-i	1f#	-i	1a	-i
+=10	=10	=10	=10	=10	=10	=10	=10
+2r	.	2r	.	2r	.	2r	.
+2D\	A-	2d/	A-	2f#i/	A-	2a/	A-
+=11	=11	=11	=11	=11	=11	=11	=11
+2G\	-ve	4d/	-ve	2g/	-ve	2b-\	-ve
+.	.	4e/	.	.	.	.	.
+2F\	ful-	2f/	ful-	2a/	ful-	2cc\	ful-
+=12	=12	=12	=12	=12	=12	=12	=12
+1BB-	-gens	1f	-gens	1b-	-gens	1dd	-gens
+=13	=13	=13	=13	=13	=13	=13	=13
+2r	.	2r	.	2r	.	2r	.
+2BB-/	a-	2f/	a-	2b-\	a-	2dd\	a-
+=14	=14	=14	=14	=14	=14	=14	=14
+2F\	-ve	2f/	-ve	2a/	-ve	2cc\	-ve
+2G\	ful-	2d/	ful-	2g/	ful-	2b-\	ful-
+=15	=15	=15	=15	=15	=15	=15	=15
+1D	-gens	1d	-gens	1f#	-gens	1a	-gens
+=16	=16	=16	=16	=16	=16	=16	=16
+1BB-	in	1d	in	1g	in	1b-	in
+=17	=17	=17	=17	=17	=17	=17	=17
+[1F	ar-	[1f	ar-	[1a	ar-	[1cc	ar-
+=18	=18	=18	=18	=18	=18	=18	=18
+2F\]	.	2f/]	.	2a/]	.	2cc\]	.
+2G\	-ca	2e-i/	-ca	2g/	-ca	2b-\	-ca
+=19	=19	=19	=19	=19	=19	=19	=19
+1D	De-	1d	De-	1f#	De-	1a	De-
+=20	=20	=20	=20	=20	=20	=20	=20
+[1GG	-i.	[1d	-i.	[1g	-i.	[1g	-i.
+=21	=21	=21	=21	=21	=21	=21	=21
+1GG]	.	1d]	.	1g]	.	1g]	.
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!GTL: Hymnbook L 1642(a)
+!!!EFL: 4/34
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-01-06 
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Translated from MusicXML and edited by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}

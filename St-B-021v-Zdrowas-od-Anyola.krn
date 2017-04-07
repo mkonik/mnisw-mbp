@@ -1,0 +1,63 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL: Zdrowaś od Anyoła
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook B
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+!!!RDF*pag: 21v-22r
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: dr Marcin Konik
+!!!END: 2015-04/2015-05
+!!!EED: dr Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!title: @{OTL}, @{GTL}: p. @{RDF*pag}, ed. @{ENC}
+!!muse2ps: z14jc180F
+**kern
+*staff1
+*I"[Canto]
+*oclefC1
+*clefG2
+*M2/1
+=-
+!LO:TX:a:t=no meter indication
+1d
+1d
+1e
+1.f
+2e
+1d
+0c
+1e
+1e
+2c
+2d
+2e
+2f
+1e
+0d
+1c
+0d
+1f
+1e
+1f
+=-
+!!Original pagebreak
+0a
+1g
+0a
+0f
+0e
+1e
+0d
+0c
+!LO:TX:a:t=longa
+0d
+==
+*-

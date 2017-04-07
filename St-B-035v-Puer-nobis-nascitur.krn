@@ -1,0 +1,63 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL: Puer nobis nascitur de pura virgine
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook B
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+!!!RDF*pag: 35v-36r
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: dr Marcin Konik
+!!!END: 2015-04/2015-05
+!!!EED: dr Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!title: @{OTL}, @{GTL}: p. @{RDF*pag}, ed. @{ENC}
+!!muse2ps: z14jc180F
+**kern
+*staff1
+*I"[Canto]
+*oclefC1
+*clefG2
+*k[b-]
+*M3/1
+=-
+0cc
+1cc
+1.b-
+2a
+1g
+0a
+1a
+0a
+1a
+0g
+1cc
+0cc
+1b-
+0cc
+0cc
+0a
+=-
+!!Original pagebreak
+1a
+0a
+1b-
+0a
+1a
+0g
+1g
+0f
+1f
+0e
+1e
+0f
+!LO:TX:a:t=longa
+0f
+==
+*-

@@ -1,0 +1,77 @@
+**kern	**kern	**text
+*staff2	*staff1	*staff1
+=1-	=1-	=1-
+*clefF4	*clefG2	*
+*I"Organo-m.s.	*I"Organo-m.d.	*
+*k[f#]	*k[f#]	*
+*met(c)	*met(c)	*
+*M4/4	*M4/4	*
+4B	4b	Jam
+4E	4e	lu-
+4BB	4d# 4f#	-cis
+8DL	8f#L 8a	or-
+8GJ	8gJ 8b	.
+=2	=2	=2
+4GG	4g 4b	-to
+4A	4a 4cc	si-
+4D	4f# 4a	-de-
+4G	4g 4b	-re
+=3	=3	=3
+4D	4f# 4a	[De-
+4G	4g 4b	-um
+4A	4a 4cc	pre-
+4B	4b 4dd	-ce-
+=4	=4	=4
+16ALL	16ccLL	-mur
+16GJ	16bJ	.
+8DJ	8aJ	.
+4G	4g 4b	sup-
+8AL	4a 4cc	-pli-
+8DJ	.	.
+4GG 4G	4g 4b	-ces
+=5	=5	=5
+!!linebreak:original
+4G	4g 4b	ut
+4GG	4g 4b	in
+4G	4g 4b	di-
+4D	4f# 4a	-ur-
+=6	=6	=6
+12D#L	12f#L	-nis]
+12E	12g	.
+12F#J	12aJ	.
+4E	4e 4g	ac-
+4BB	4d# 4f#	-ti-
+4EE 4E	4e	-bus
+=7	=7	=7
+4F#	4f#	[nos
+4E	4e	ser-
+4BB	4d# 4f#	-vet
+8.DL	8.f#L 8.a	a
+16GJk	16gJk 16b	.
+=8	=8	=8
+4B	4b	no-
+2F#	4a# 4cc#	-cen-
+.	4f# 4a#	-ti-
+4BB 4B	4d# 4b	-bus.]
+==	==	==
+*-	*-	*-
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@@LAT: Jam lucis orto sidere
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Przemyśl Organ Book
+!!!ARL: Przemyśl Benedictine Monastery 
+!!title: @{OTL}, @{GTL}, ed. @{ENC}
+!!!pag:
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-03-01
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

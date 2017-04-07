@@ -1,0 +1,64 @@
+!!!COM: Anonymous
+!!!OTL@@LAT: Puer nobis nascitur
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook L 1642(a)
+!!!ARL: Biblioteka Diecezjalna w Sandomierzu 
+!!!voices:	3
+**kern	**text	**kern	**text	**kern	**text
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Canto II	*	*I"Canto I	*
+=1-	=1-	=1-	=1-	=1-	=1-
+*clefF4	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*
+*M3/1	*	*M3/1	*	*M3/1	*
+0G	Pu-	0b	Pu-	0dd	Pu-
+1G	-er	1b	-er	1dd	-er
+=2	=2	=2	=2	=2	=2
+0C	no-	0cc	no-	0ee	no-
+1AA	-bis	1a	-bis	1ff#i	-bis
+=3	=3	=3	=3	=3	=3
+1.GG	na-	1.b	na-	1.gg	na-
+2GG/	-sci-	2b\	-sci-	2gg\	-sci-
+1GG	-tur	1b	-tur	1gg	-tur
+=4	=4	=4	=4	=4	=4
+1GG	de	1b	de	1gg	de
+1D	pu-	1a	pu-	1ff#	pu-
+1D	-ra	1dd	-ra	1dd	-ra
+=5	=5	=5	=5	=5	=5
+0AA	Vir-	0cc#	Vir-	0ee	Vir-
+1AA	-gi-	1cc#	-gi-	1ee	-gi-
+=6	=6	=6	=6	=6	=6
+0.D	-ne	0.dd	-ne	0.dd	-ne
+=7	=7	=7	=7	=7	=7
+=	=	=	=	=	=
+0GG	Quaem	0b	Quaem	0dd	Quaem
+1GG	an-	1b	an-	1dd	an-
+=8	=8	=8	=8	=8	=8
+0GG	-ge-	0b	-ge-	0dd	-ge-
+1C	-li	1cc	-li	1ee	-li
+=9	=9	=9	=9	=9	=9
+0GG	lau-	0b	lau-	0dd	lau-
+1AA	-dant	1a	-dant	1cc	-dant
+=10	=10	=10	=10	=10	=10
+0BB	si-	0g	si-	0b	si-
+1C	-ne	1a	-ne	1cc	-ne
+=11	=11	=11	=11	=11	=11
+0D	ter-	0f#	ter-	0a	ter-
+1D	-mi-	1f#	-mi-	1a	-mi-
+=12	=12	=12	=12	=12	=12
+0.GG	-ne.	0.g	-ne.	0.b	-ne.
+==:|!	==:|!	==:|!	==:|!	==:|!	==:|!
+*-	*-	*-	*-	*-	*-
+!!!GTL: Hymnbook L 1642(a)
+!!!EFL: 23/34
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-01-17 
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Translated from MusicXML and edited by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}

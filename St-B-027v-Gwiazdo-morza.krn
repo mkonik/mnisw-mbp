@@ -1,0 +1,69 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL: Gwiazdo morza głębokiego
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook B
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+!!!RDF*pag: 27v-28r
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: dr Marcin Konik
+!!!END: 2015-04/2015-05
+!!!EED: dr Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!title: @{OTL}, @{GTL}: p. @{RDF*pag}, ed. @{ENC}
+!!muse2ps: z14jc180F
+**kern
+*staff1
+*I"[Canto]
+*oclefG2
+*clefG2
+*M2/1
+=-
+!LO:TX:a:t=no meter indication
+1g
+4cc
+4b
+4cc
+4dd
+2ee
+2cc
+2dd
+1ee
+1dd
+1ee
+1cc
+2a
+2b
+1cc
+2b
+1a
+1g
+2a
+=-
+!!Original pagebreak
+1a
+2a
+2b
+1cc
+2.dd
+1cc
+1.b
+1cc
+1g
+2a
+2b
+1cc
+1b
+1a
+2g
+!LO:TX:a:t=longa
+0a
+==
+*-

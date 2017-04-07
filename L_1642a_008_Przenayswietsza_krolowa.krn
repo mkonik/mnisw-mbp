@@ -1,0 +1,96 @@
+!!!COM: Anonymous
+!!!OTL@@POL: Przenajświętsza Królowa
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook L 1642(a)
+!!!ARL: Biblioteka Diecezjalna w Sandomierzu 
+!!!voices:	4
+**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Canto III	*	*I"Canto II	*	*I"Canto I	*
+=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
+*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
+*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*
+*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
+2.G\	Prze-	2.g/	Prze-	2.b-\	Prze-	2.dd\	Prze-
+4G\	-naj-	4g/	-naj-	4b-\	-naj-	4dd\	-naj-
+=2	=2	=2	=2	=2	=2	=2	=2
+2D\	-świę-	2f#/	-świę-	2a/	-świę-	2dd\	-świę-
+2G\	-tsza	2g/	-tsza	2b-\	-tsza	2dd\	-tsza
+=3	=3	=3	=3	=3	=3	=3	=3
+2F\	Kr&oacute;-	2a/	Kr&oacute;-	2cc\	Kr&oacute;-	2ee-\	Kr&oacute;-
+2E-\	-lo-	2g/	-lo-	2b-\	-lo-	2ee-\	-lo-
+=4	=4	=4	=4	=4	=4	=4	=4
+1D	-wa	1f#	-wa	1a	-wa	1dd	-wa
+=5	=5	=5	=5	=5	=5	=5	=5
+2.BB-/	Prze-	2.b-\	Prze-	2.dd\	Prze-	2.ff\	Prze-
+4BB-/	-naj-	4b-\	-naj-	4dd\	-naj-	4ff\	-naj-
+=6	=6	=6	=6	=6	=6	=6	=6
+2F\	-świę-	2a/	-świę-	2cc\	-świę-	2ff\	-świę-
+2BB-/	-tsza	2b-\	-tsza	2dd\	-tsza	2ff\	-tsza
+=7	=7	=7	=7	=7	=7	=7	=7
+2E-\	Kr&oacute;-	2b-\	Kr&oacute;-	2ee-\	Kr&oacute;-	2gg\	Kr&oacute;-
+2F\	-lo-	2a/	-lo-	2cc\	-lo-	2ff\	-lo-
+=8	=8	=8	=8	=8	=8	=8	=8
+1BB-	-wa	1b-	-wa	1dd	-wa	1ff	-wa
+=9	=9	=9	=9	=9	=9	=9	=9
+2.B-\	Ma-	2.b-\	Ma-	2.dd\	Ma-	2.ff\	Ma-
+4B-\	-tko	4b-\	-tko	4dd\	-tko	4ff\	-tko
+=10	=10	=10	=10	=10	=10	=10	=10
+2F\	Zba-	2a/	Zba-	2cc\	Zba-	2ee-\	Zba-
+2G\	-wi-	2g/	-wi-	2b-\	-wi-	2dd\	-wi-
+=11	=11	=11	=11	=11	=11	=11	=11
+2D\	-cie-	2f#/	-cie-	2a/	-cie-	2dd\	-cie-
+2E-\	-lo-	2g/	-lo-	2g/	-lo-	2cc\	-lo-
+=12	=12	=12	=12	=12	=12	=12	=12
+1D	-wa	1f#i	-wa	1a	-wa	1dd	-wa
+=13||	=13||	=13||	=13||	=13||	=13||	=13||	=13||
+2r	.	2r	.	2r	.	2r	.
+2BB-/	Ma-	2b-\	Ma-	2dd\	Ma-	2ff\	Ma-
+=14	=14	=14	=14	=14	=14	=14	=14
+1F	-ry-	1a	-ry-	1cc	-ry-	1ff	-ry-
+=15	=15	=15	=15	=15	=15	=15	=15
+1BB-	-ja	1b-	-ja	1dd	-ja	1ff	-ja
+=16	=16	=16	=16	=16	=16	=16	=16
+2r	.	2r	.	2r	.	2r	.
+2BB-/	Ma-	2b-\	Ma-	2dd\	Ma-	2ff\	Ma-
+=17	=17	=17	=17	=17	=17	=17	=17
+1F	-ry-	1a	-ry-	1cc	-ry-	1ff	-ry-
+=18	=18	=18	=18	=18	=18	=18	=18
+1BB-	-ja	1b-	-ja	1dd	-ja	1ff	-ja
+=19	=19	=19	=19	=19	=19	=19	=19
+2B-\	od	2b-\	od	2dd\	od	2ff\	od
+4F\	wie-	4a/	wie-	4cc\	wie-	4ee-i\	wie-
+4B-\	-ku	4b-\	-ku	4dd\	-ku	4ff\	-ku
+=20	=20	=20	=20	=20	=20	=20	=20
+2E-\	przej-	2g/	przej-	2ee-\	przej-	2gg\	przej-
+2F\	-rza-	2a/	-rza-	2cc\	-rza-	2ff\	-rza-
+=21	=21	=21	=21	=21	=21	=21	=21
+1BB-	-na	1b-	-na	1dd	-na	1ff	-na
+=22	=22	=22	=22	=22	=22	=22	=22
+2BB-/	Mat-	2b-\	Mat-	2dd\	Mat-	2ff\	Mat-
+4F\	-ką	4a/	-ką	4cc\	-ką	4ee-i\	-ką
+4G\	Bo-	4g/	Bo-	4b-\	Bo-	4dd\	Bo-
+=23	=23	=23	=23	=23	=23	=23	=23
+2F\	-żą	2a/	-żą	2cc\	-żą	2ee-\	-żą
+4G\	mia-	4g/	mia-	4b-\	mia-	4dd\	mia-
+4C/	-no-	4g/	-no-	4b-\	-no-	4dd\	-no-
+=24	=24	=24	=24	=24	=24	=24	=24
+1D	-wa-	1f#	-wa-	1a	-wa-	1dd	-wa-
+=25	=25	=25	=25	=25	=25	=25	=25
+1GG	-na.	1g	-na.	1bni	-na.	1dd	-na.
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!GTL: Hymnbook L 1642(a)
+!!!EFL: 8/34
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-01-07
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Translated from MusicXML and edited by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}

@@ -1,0 +1,94 @@
+!!!COM: Anonymous
+!!!OTL@@LAT: Rex virtutum gloriae
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook L 1642
+!!!ARL: Biblioteka Diecezjalna w Sandomierzu 
+!!!voices:	3
+**kern	**text	**kern	**text	**kern	**text
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Canto II	*	*I"Canto I	*
+=1-	=1-	=1-	=1-	=1-	=1-
+*clefF4	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*
+*met(c|)	*	*met(c|)	*	*met(c|)	*
+*M2/2	*	*M2/2	*	*M2/2	*
+2C/	Rex	2e/	Rex	2g/	Rex
+2E\	vir-	2g/	vir-	2cc\	vir-
+=2	=2	=2	=2	=2	=2
+2F\	-tu-	2f/	-tu-	4a/	-tu-
+.	.	.	.	4b\	.
+2C/	-tum	2e/	-tum	2cc\	-tum
+=3	=3	=3	=3	=3	=3
+2.GG/	glo-	2.d/	glo-	2.b\	glo-
+4GG/	-ri-	4d/	-ri-	4b\	-ri-
+=4	=4	=4	=4	=4	=4
+1C	-ae	1c	-ae	1cc	-ae
+=5	=5	=5	=5	=5	=5
+2.C/	In-	2.cc\	In-	2.ee\	In-
+4C/	-si-	4cc\	-si-	4ee\	-si-
+=6	=6	=6	=6	=6	=6
+2D\	-gnis	2b\	-gnis	2dd\	-gnis
+2AA/	vic-	2a/	vic-	2cc\	vic-
+=7	=7	=7	=7	=7	=7
+2.E\	-to-	2.g#/	-to-	2.b\	-to-
+4E\	-ri-	4g#/	-ri-	4b\	-ri-
+=8	=8	=8	=8	=8	=8
+1AA	-ae	1a	-ae	1a	-ae
+=9||	=9||	=9||	=9||	=9||	=9||
+*M3/1	*	*M3/1	*	*M3/1	*
+1C	Ve-	1cc	Ve-	1ee	Ve-
+1C	-ni	1cc	-ni	1ee	-ni
+1C	ve-	1cc	ve-	1ee	ve-
+=10	=10	=10	=10	=10	=10
+0G	-ni	0b	-ni	0dd	-ni
+1E	Rex	1cc	Rex	1ee	Rex
+=11	=11	=11	=11	=11	=11
+0F	op-	0a	op-	0cc	op-
+1D	-ti-	1a	-ti-	1dd	-ti-
+=12	=12	=12	=12	=12	=12
+0E	-me	0g#	-me	0b	-me
+2C/	Pa-	2gni/	Pa-	2cc\	Pa-
+2C/	-ter	2g/	-ter	2cc\	-ter
+=13	=13	=13	=13	=13	=13
+1.F	im-	1.a	im-	1.ff	im-
+2C/	-men-	2g/	-men-	2ee\	-men-
+1D	-sae	1f	-sae	1dd	-sae
+=14	=14	=14	=14	=14	=14
+2E\	glo-	0e	glo-	0cc	glo-
+2F\	.	.	.	.	.
+1.G	.	.	.	.	.
+.	.	1d	-ri-	1b	-ri-
+2G\	-ri-	.	.	.	.
+=15	=15	=15	=15	=15	=15
+0.C	-ae	0.e	-ae	0.cc	-ae
+=16	=16	=16	=16	=16	=16
+*met(c|)	*	*met(c|)	*	*met(c|)	*
+*M2/2	*	*M2/2	*	*M2/2	*
+1C	O	1cc	O	1ee	O
+=17	=17	=17	=17	=17	=17
+1GG	Je-	1b	Je-	1dd	Je-
+=18	=18	=18	=18	=18	=18
+2AA/	-su	2a/	-su	2cc\	-su
+2D\	au-	4b\	au-	4dd\	au-
+.	.	4a/	.	4cc\	.
+=19	=19	=19	=19	=19	=19
+1E	-di	1g#	-di	1b	-di
+=20	=20	=20	=20	=20	=20
+[1AA	nos.	[1a	nos.	[1a	nos.
+=21	=21	=21	=21	=21	=21
+1AA]	.	1a]	.	1a]	.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!GTL: Hymnbook L 1642
+!!!EFL: 33/39
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-02-22 
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Translated from MusicXML and edited by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}

@@ -1,0 +1,68 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL: Nobis est natus hodie
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook B
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+!!!RDF*pag:
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: dr Marcin Konik
+!!!END: 2015-04/2015-05
+!!!EED: dr Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!title: @{OTL}, @{GTL}: p. @{RDF*pag}, ed. @{ENC}
+!!muse2ps: z14jc180F
+**kern
+*staff1
+*I"[Canto]
+*oclefC1
+*clefG2
+*met(c|)
+*M2/1
+=-
+1g
+2g
+2g
+2d
+2d
+2f
+2f
+1g
+2g
+2a
+2b
+2b
+2f
+2g
+2a
+2b
+=-
+!!Original pagebreak
+1a
+2b
+2a
+2g
+2f
+0g
+2.d
+4e
+2f
+2g
+2a
+2cc
+1a
+2b
+2a
+2g
+2f
+!LO:TX:a:t=longa
+0g
+==
+*-

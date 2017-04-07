@@ -1,0 +1,108 @@
+!!!COM: Anonymous
+!!!OTL@@LAT: Ave manus dextra Christi
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook L 1642
+!!!ARL: Biblioteka Diecezjalna w Sandomierzu 
+!!!voices:	4
+**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Canto III	*	*I"Canto II	*	*I"Canto I	*
+=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
+*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
+*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*
+*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
+1G	A-	1g	A-	1b-	A-	1dd	A-
+=2	=2	=2	=2	=2	=2	=2	=2
+2G\	-ve	2b-\	-ve	2g/	-ve	2b-\	-ve
+2F\	ma-	4a/	ma-	2a/	ma-	2cc\	ma-
+.	.	4g/	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3
+1BB-	-nus	1f	-nus	1b-	-nus	1dd	-nus
+=4	=4	=4	=4	=4	=4	=4	=4
+2E-\	dex-	4g/	dex-	2b-\	dex-	2ee-\	dex-
+.	.	4a/	.	.	.	.	.
+2BB-/	-tra	2b-\	-tra	2b-\	-tra	4dd\	-tra
+.	.	.	.	.	.	4ee-\	.
+=5	=5	=5	=5	=5	=5	=5	=5
+4F\	Chri-	4b-\	Chri-	1cc	Chri-	1ff	Chri-
+4E\	.	8a/L	.	.	.	.	.
+.	.	8g/J	.	.	.	.	.
+4D\	.	2a/	.	.	.	.	.
+4C/	.	.	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6
+1BB-	-sti	1b-	-sti	1dd	-sti	1ff	-sti
+=7	=7	=7	=7	=7	=7	=7	=7
+2r	.	2r	.	2r	.	2r	.
+[2F\	Per-	[2f/	Per-	[2a/	Per-	[2cc\	Per-
+=8	=8	=8	=8	=8	=8	=8	=8
+2F\]	.	2f/]	.	2a/]	.	2cc\]	.
+2D\	-fo-	2f/	-fo-	4a/	-fo-	2dd\	-fo-
+.	.	.	.	4b-\	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9
+1C	-ra-	2.g/	-ra-	1cc	-ra-	1ee-i	-ra-
+.	.	4a/	.	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10
+1BB-	-ta	1b-	-ta	1dd	-ta	2.dd\	-ta
+.	.	.	.	.	.	4ee-i\	.
+=11	=11	=11	=11	=11	=11	=11	=11
+2F\	pla-	2a/	pla-	2cc\	pla-	2ff\	pla-
+2BB-/	-ga	4b-\	-ga	2dd\	-ga	2ff\	-ga
+.	.	4a/	.	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12
+1C	Chri-	1g	Chri-	2.cc\	Chri-	1ee-i	Chri-
+.	.	.	.	4b-\	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13
+1D	-sti	1f	-sti	1a	-sti	1dd	-sti
+=14	=14	=14	=14	=14	=14	=14	=14
+*M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
+1BB-	Nos	1b-	Nos	1dd	Nos	1ff	Nos
+1BB-	ad	1b-	ad	1dd	ad	1ff	ad
+1E-	dex-	1b-	dex-	1ee-i	dex-	1gg	dex-
+=15	=15	=15	=15	=15	=15	=15	=15
+0BB-	-tram	0b-	-tram	0dd	-tram	0ff	-tram
+1F	iu-	1a	iu-	1cc	iu-	1ff	iu-
+=16	=16	=16	=16	=16	=16	=16	=16
+1G	-be	1g	-be	1b-	-be	2dd\	-be
+.	.	.	.	.	.	2ee-i\	.
+0F	sis-	0a	sis-	0cc	sis-	0ff	sis-
+=17	=17	=17	=17	=17	=17	=17	=17
+0.BB-	-ti	0.b-	-ti	0.dd	-ti	0.ff	-ti
+=18	=18	=18	=18	=18	=18	=18	=18
+*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*
+*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
+2r	.	2r	.	2r	.	2r	.
+2BB-/	Quos	2b-\	Quos	2dd\	Quos	2ff\	Quos
+=19	=19	=19	=19	=19	=19	=19	=19
+2F\	per	2a/	per	2cc\	per	2ff\	per
+2G\	cru-	2g/	cru-	2b-\	cru-	2dd\	cru-
+=20	=20	=20	=20	=20	=20	=20	=20
+1D	-cem	1f#	-cem	1a	-cem	1dd	-cem
+=21	=21	=21	=21	=21	=21	=21	=21
+2E-\	re-	2g/	re-	2g/	re-	2ee-\	re-
+2C/	-de-	[2g/	-de-	4cc\	-de-	2ee-\	-de-
+.	.	.	.	4b-\	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22
+1D	-mi-	4g/]	.	4a/	.	1dd	-mi-
+.	.	8f#i/L	.	4g/	.	.	.
+.	.	8e/J	.	.	.	.	.
+.	.	2f#/	-mi-	2a/	-mi-	.	.
+=23	=23	=23	=23	=23	=23	=23	=23
+[1GG	-sti.	[1g	-sti.	[1bni	-sti.	[1dd	-sti.
+=24	=24	=24	=24	=24	=24	=24	=24
+1GG]	.	1g]	.	1b]	.	1dd]	.
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!GTL: Hymnbook L 1642
+!!!EFL: 8/39
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-02-13 
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Translated from MusicXML and edited by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}

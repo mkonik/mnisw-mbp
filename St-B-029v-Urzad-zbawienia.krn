@@ -1,0 +1,69 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL: Vrzad zbawienia luczkiego
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook B
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+!!!RDF*pag: 29v-30r
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: dr Marcin Konik
+!!!END: 2015-04/2015-05
+!!!EED: dr Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!title: @{OTL}, @{GTL}: p. @{RDF*pag}, ed. @{ENC}
+!!muse2ps: z14jc180F
+**kern
+*staff1
+*I"[Canto]
+*oclefC1
+*clefG2
+*M2/1
+=-
+!LO:TX:a:t=no meter indication
+1c
+1e
+2g
+2g
+2a
+1g
+2f
+1g
+2e
+2e
+1f
+1e
+4d
+1c
+2B
+=-
+!!Original pagebreak
+1c
+2d
+2e
+1f
+1d
+2e
+1g
+2f
+1g
+4a
+2g
+1f
+1e
+2.f
+4e
+4d
+2d
+1c
+2B
+!LO:TX:a:t=longa
+0c
+==
+*-

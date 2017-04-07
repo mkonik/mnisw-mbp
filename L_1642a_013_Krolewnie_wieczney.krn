@@ -1,0 +1,92 @@
+!!!COM: Anonymous
+!!!OTL@@POL: Królewnie wiecznej
+!!!OTL@@LAT: Maria Mater nostri
+!!!TXO: Polish/Latin
+!!!ODT: 
+!!!GTL: Hymnbook L 1642(a)
+!!!ARL: Biblioteka Diecezjalna w Sandomierzu 
+!!!voices:	4
+**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Canto III	*	*I"Canto II	*	*I"Canto I	*
+=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
+*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*
+*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
+2C/	Kr&oacute;-	2c/	Kr&oacute;-	2e/	Kr&oacute;-	2g/	Kr&oacute;-
+4C/	-lew-	4c/	-lew-	4e/	-lew-	4g/	-lew-
+4C/	-nie	4c/	-nie	4e/	-nie	4g/	-nie
+=2	=2	=2	=2	=2	=2	=2	=2
+2F\	wie-	2d/	wie-	2f/	wie-	2a/	wie-
+2D\	-cznej	2d/	-cznej	2f/	-cznej	2a/	-cznej
+=3	=3	=3	=3	=3	=3	=3	=3
+2GG/	nie-	2d/	nie-	2g/	nie-	2b\	nie-
+2C/	-ba	2e/	-ba	2a/	-ba	2cc\	-ba
+=4	=4	=4	=4	=4	=4	=4	=4
+2AA/	wy-	2f/	wy-	2a/	wy-	2cc\	wy-
+2D\	-so-	2f/	-so-	2b\	-so-	2dd\	-so-
+=5	=5	=5	=5	=5	=5	=5	=5
+1C	-kie-	1g	-kie-	1cc	-kie-	1ee	-kie-
+=6	=6	=6	=6	=6	=6	=6	=6
+1GG	-go	1g	-go	1b	-go	1dd	-go
+=7	=7	=7	=7	=7	=7	=7	=7
+2AA/	I	2e/	I	2a/	I	2cc\	I
+4C/	po-	4e/	po-	4g/	po-	4cc\	po-
+4C/	-śred-	4e/	-śred-	4g/	-śred-	4cc\	-śred-
+=8	=8	=8	=8	=8	=8	=8	=8
+2GG/	-ni-	2d/	-ni-	2g/	-ni-	2b\	-ni-
+2D\	-czce	2d/	-czce	2f#/	-czce	2a/	-czce
+=9	=9	=9	=9	=9	=9	=9	=9
+2GG/	świa-	2d/	świa-	2g/	świa-	2b\	świa-
+2C/	-ta	2e/	-ta	2g/	-ta	2cc\	-ta
+=10	=10	=10	=10	=10	=10	=10	=10
+2FF/	u-	2f/	u-	2a/	u-	2cc\	u-
+2GG/	-pa-	2d/	-pa-	2g/	-pa-	2b\	-pa-
+=11	=11	=11	=11	=11	=11	=11	=11
+1D	-dłe-	1d	-dłe-	1f#i	-dłe-	1a	-dłe-
+=12	=12	=12	=12	=12	=12	=12	=12
+1GG	-go	1d	-go	1g	-go	1b	-go
+=13||	=13||	=13||	=13||	=13||	=13||	=13||	=13||
+2C/	Śpie-	2e/	Śpie-	2g/	Śpie-	2cc\	Śpie-
+4C/	-waj-	4e/	-waj-	4g/	-waj-	4cc\	-waj-
+4BB/	-my	4d/	-my	4g/	-my	4dd\	-my
+=14	=14	=14	=14	=14	=14	=14	=14
+2C/	chwa-	2e/	chwa-	2a/	chwa-	2cc\	chwa-
+4GG/	-łę	4d/	-łę	4g/	-łę	4b\	-łę
+4GG/	od-	4d/	od-	4g/	od-	4b\	od-
+=15	=15	=15	=15	=15	=15	=15	=15
+2D\	-da-	2d/	-da-	2f#i/	-da-	2a/	-da-
+2GG/	-jąc	2d/	-jąc	2d/	-jąc	2b\	-jąc
+=16	=16	=16	=16	=16	=16	=16	=16
+2C/	sa-	2e/	sa-	2g/	sa-	2cc\	sa-
+2AA/	-me-	4d/	-me-	2f#/	-me-	2cc\	-me-
+.	.	4c/	.	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17
+1GG	-mu	1d	-mu	1g	-mu	1b	-mu
+=18	=18	=18	=18	=18	=18	=18	=18
+2FF/	Bo-	2f/	Bo-	2a/	Bo-	2cc\	Bo-
+2GG/	-gu	2d/	-gu	2g/	-gu	2b\	-gu
+=19	=19	=19	=19	=19	=19	=19	=19
+2D\	wie-	2d/	wie-	4g/	wie-	2a/	wie-
+.	.	.	.	8f#i/L	.	.	.
+.	.	.	.	8e/J	.	.	.
+2D\	-czne-	2d/	-czne-	2f#/	-czne-	2a/	-czne-
+=20	=20	=20	=20	=20	=20	=20	=20
+[1GG	-mu.	[1d	-mu.	[1g	-mu.	[1b	-mu.
+=21	=21	=21	=21	=21	=21	=21	=21
+1GG]	.	1d]	.	1g]	.	1b]	.
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!GTL: Hymnbook L 1642(a)
+!!!EFL: 13/34
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-01-09 
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Translated from MusicXML and edited by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}

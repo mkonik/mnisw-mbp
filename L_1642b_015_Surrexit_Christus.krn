@@ -1,0 +1,79 @@
+!!!COM: Anonymous
+!!!OTL@@LAT: Surrexit Christus hodie
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook L 1642
+!!!ARL: Biblioteka Diecezjalna w Sandomierzu 
+!!!voices:	4
+**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Canto III	*	*I"Canto II	*	*I"Canto I	*
+=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
+*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
+*M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
+1F	Sur-	1a	Sur-	1cc	Sur-	1ff	Sur-
+1F	-re-	1a	-re-	1cc	-re-	1ff	-re-
+1F	-xit	1a	-xit	1cc	-xit	1ff	-xit
+=2	=2	=2	=2	=2	=2	=2	=2
+0C	Chri-	0g	Chri-	0cc	Chri-	0ee	Chri-
+1AA	-stus	1a	-stus	1cc	-stus	1ff	-stus
+=3	=3	=3	=3	=3	=3	=3	=3
+0BB-	ho-	0f	ho-	0b-	ho-	0dd	ho-
+1GG	-di-	1g	-di-	1b-	-di-	1ee	-di-
+=4	=4	=4	=4	=4	=4	=4	=4
+0FF	-e	0a	-e	0cc	-e	0ff	-e
+1F	al-	1a	al-	1cc	al-	1cc	al-
+=5	=5	=5	=5	=5	=5	=5	=5
+1BB-	-le-	0f	-le-	0b-	-le-	1dd	-le-
+1C	.	.	.	.	.	1ee	.
+1D	-lu-	1f	-lu-	1a	-lu-	1ff	-lu-
+=6	=6	=6	=6	=6	=6	=6	=6
+0C	-ia	0g	-ia	0cc	-ia	0ee	-ia
+1F	al-	1a	al-	1cc	al-	1cc	al-
+=7	=7	=7	=7	=7	=7	=7	=7
+1BB-	-le-	0f	-le-	0b-	-le-	1dd	-le-
+1C	.	.	.	.	.	1ee	.
+1D	-lu-	1f	-lu-	1a	-lu-	1ff	-lu-
+=8	=8	=8	=8	=8	=8	=8	=8
+0.C	-ia	0.g	-ia	0.cc	-ia	0.ee	-ia
+=9	=9	=9	=9	=9	=9	=9	=9
+1F	Hu-	1a	Hu-	1cc	Hu-	1ff	Hu-
+1F	-ma-	1a	-ma-	1cc	-ma-	1ff	-ma-
+1F	-no	1a	-no	1cc	-no	1ff	-no
+=10	=10	=10	=10	=10	=10	=10	=10
+0BB-	pro	0f	pro	0b-	pro	0dd	pro
+1D	so-	1f	so-	1a	so-	1dd	so-
+=11	=11	=11	=11	=11	=11	=11	=11
+0C	-la-	0g	-la-	0cc	-la-	0ee	-la-
+1C	-mi-	1g	-mi-	1cc	-mi-	1ee	-mi-
+=12	=12	=12	=12	=12	=12	=12	=12
+0FF	-ne	0a	-ne	0cc	-ne	0ff	-ne
+1FF	al-	1a	al-	1cc	al-	1ff	al-
+=13	=13	=13	=13	=13	=13	=13	=13
+0BB-	-le-	0b-	-le-	0dd	-le-	0ff	-le-
+1C	-lu-	1g	-lu-	1cc	-lu-	1ee-	-lu-
+=14	=14	=14	=14	=14	=14	=14	=14
+0D	-ia	0f	-ia	0a	-ia	0dd	-ia
+1GG	al-	1g	al-	1b-	al-	1dd	al-
+=15	=15	=15	=15	=15	=15	=15	=15
+1.AA	-le-	1c	-le-	0a	-le-	0cc	-le-
+.	.	1f	.	.	.	.	.
+2BB-/	.	.	.	.	.	.	.
+1C	-lu-	1e	-lu-	1g	-lu-	1cc	-lu-
+=16	=16	=16	=16	=16	=16	=16	=16
+0.F	-ia.	0.f	-ia.	0.a	-ia.	0.cc	-ia.
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!GTL: Hymnbook L 1642
+!!!EFL: 15/39
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-02-15 
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Translated from MusicXML and edited by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}

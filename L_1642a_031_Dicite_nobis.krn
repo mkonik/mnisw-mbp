@@ -1,0 +1,82 @@
+!!!COM: Anonymous
+!!!OTL@@LAT: Dicite nobis pastores
+!!!OTL@@POL: Powiedzcie nam pastuszkowie
+!!!TXO: Polish/Latin
+!!!ODT: 
+!!!GTL: Hymnbook L 1642(a)
+!!!ARL: Biblioteka Diecezjalna w Sandomierzu 
+!!!voices:	3
+**kern	**text	**kern	**text	**kern	**text
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Canto II	*	*I"Canto I	*
+=1-	=1-	=1-	=1-	=1-	=1-
+*clefF4	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*
+*met(c|)	*	*met(c|)	*	*met(c|)	*
+*M2/2	*	*M2/2	*	*M2/2	*
+1G	Di-	1g	Di-	1g	Di-
+=2	=2	=2	=2	=2	=2
+2G\	-ci-	2b\	-ci-	2dd\	-ci-
+2G\	-te	2b\	-te	2dd\	-te
+=3	=3	=3	=3	=3	=3
+2C/	no-	2cc\	no-	2ee\	no-
+2GG/	-bis	2b\	-bis	2dd\	-bis
+=4	=4	=4	=4	=4	=4
+2C/	Pa-	4cc\	Pa-	4ee\	Pa-
+.	.	4b\	.	4dd\	.
+2C/	-sto-	4cc\	-sto-	4ee\	-sto-
+.	.	4a/	.	4cc\	.
+=5	=5	=5	=5	=5	=5
+1G	-res	1b	-res	1dd	-res
+=6	=6	=6	=6	=6	=6
+2r	.	2r	.	2r	.
+2G\	Qui	2b\	Qui	2dd\	Qui
+=7	=7	=7	=7	=7	=7
+2.C/	fer-	2.ee\	fer-	2.gg\	fer-
+4D\	-tis	4dd\	-tis	4ff\	-tis
+=8	=8	=8	=8	=8	=8
+4E\	no-	4cc\	no-	4ee\	no-
+4F\	-vos	4b\	-vos	4dd\	-vos
+4G\	ho-	4cc\	ho-	4ee\	ho-
+4C/	-no-	4a/	-no-	4cc\	-no-
+=9	=9	=9	=9	=9	=9
+1G	-res	1b	-res	1dd	-res
+=10	=10	=10	=10	=10	=10
+*M3/1	*	*M3/1	*	*M3/1	*
+0G	Cin-	0b	Cin-	0dd	Cin-
+1E	-cti	1cc	-cti	1ee	-cti
+=11	=11	=11	=11	=11	=11
+0F	co-	0a	co-	0cc	co-
+1D	-ro-	1b	-ro-	1dd	-ro-
+=12	=12	=12	=12	=12	=12
+0E	-na	0g	-na	0b	-na
+1C	fron-	1a	fron-	1cc	fron-
+=13	=13	=13	=13	=13	=13
+0D	-den-	0f#	-den-	0a	-den-
+1GG	-ti	1g	-ti	1b	-ti
+=14	=14	=14	=14	=14	=14
+0G	gau-	0b	gau-	0dd	gau-
+1E	-den-	1cc	-den-	1ee	-den-
+=15	=15	=15	=15	=15	=15
+0F	-tes	0a	-tes	0cc	-tes
+1D	no-	1b	no-	1dd	no-
+=16	=16	=16	=16	=16	=16
+0E	-cte	0g	-cte	0b	-cte
+1C	si-	1a	si-	1cc	si-
+=17	=17	=17	=17	=17	=17
+0D	-len-	0f#	-len-	0a	-len-
+1GG	-ti.	1g	-ti.	1b	-ti.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!GTL: Hymnbook L 1642(a)
+!!!EFL: 31/34
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-01-19 
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Translated from MusicXML and edited by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}

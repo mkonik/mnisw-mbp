@@ -1,0 +1,193 @@
+!!!COM: Anonymous
+!!!OTL@@LAT: Quem vidistis pastores
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook L 1642(a)
+!!!ARL: Biblioteka Diecezjalna w Sandomierzu 
+!!!voices:	4
+**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Canto III	*	*I"Canto II	*	*I"Canto I	*
+=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
+*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
+*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*
+*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
+[1G	Quem	[1g	Quem	[1b-	Quem	[1dd	Quem
+=2	=2	=2	=2	=2	=2	=2	=2
+2G\]	.	2g/]	.	2b-\]	.	2dd\]	.
+2G\	vi-	2g/	vi-	2b-\	vi-	2dd\	vi-
+=3	=3	=3	=3	=3	=3	=3	=3
+1F	-di-	1a	-di-	1cc	-di-	1ff	-di-
+=4	=4	=4	=4	=4	=4	=4	=4
+2F\	-stis	2a/	-stis	2cc\	-stis	2ff\	-stis
+2G\	pa-	2g/	pa-	2b-\	pa-	2dd\	pa-
+=5	=5	=5	=5	=5	=5	=5	=5
+2D\	-sto-	2f#/	-sto-	2a/	-sto-	2dd\	-sto-
+2D\	-res	2f#/	-res	2a/	-res	2dd\	-res
+=6	=6	=6	=6	=6	=6	=6	=6
+2r	.	2r	.	2r	.	2r	.
+[2BB-/	di-	[2b-\	di-	[2dd\	di-	[2ff\	di-
+=7	=7	=7	=7	=7	=7	=7	=7
+2BB-/]	.	2b-\]	.	2dd\]	.	2ff\]	.
+2BB-/	-ci-	2b-\	-ci-	2dd\	-ci-	2ff\	-ci-
+=8	=8	=8	=8	=8	=8	=8	=8
+1F	-te	1a	-te	1cc	-te	1ff	-te
+=9	=9	=9	=9	=9	=9	=9	=9
+2r	.	2r	.	2r	.	2r	.
+[2F\	et	[2a/	et	[2cc\	et	[2ff\	et
+=10	=10	=10	=10	=10	=10	=10	=10
+2F\]	.	2a/]	.	2cc\]	.	2ff\]	.
+2BB-/	an-	2b-\	an-	2dd\	an-	2ff\	an-
+=11	=11	=11	=11	=11	=11	=11	=11
+2.F\	-nun-	2.a/	-nun-	2.cc\	-nun-	2.ff\	-nun-
+4BB-/	-ti-	4b-\	-ti-	4dd\	-ti-	4ff\	-ti-
+=12	=12	=12	=12	=12	=12	=12	=12
+2F\	-a-	2a/	-a-	2cc\	-a-	2ff\	-a-
+2G\	-te	2g/	-te	2b-\	-te	2dd\	-te
+=13	=13	=13	=13	=13	=13	=13	=13
+1D	no-	1f#	no-	1a	no-	1dd	no-
+=14	=14	=14	=14	=14	=14	=14	=14
+1D	-bis	1f#	-bis	1a	-bis	1dd	-bis
+=15	=15	=15	=15	=15	=15	=15	=15
+[1GG	in	[1g	in	2.b-\	in	2.dd\	in
+.	.	.	.	4a/	.	4cc\	.
+=16	=16	=16	=16	=16	=16	=16	=16
+1GG]	.	1g]	.	4b-\	.	4dd\	.
+.	.	.	.	4cc\	.	4ee\	.
+.	.	.	.	4dd\	.	4ff\	.
+.	.	.	.	4b-\	.	4dd\	.
+=17	=17	=17	=17	=17	=17	=17	=17
+[1AA	ter-	2r	.	[1a	ter-	2cc#\	ter-
+.	.	2f/	ter-	.	.	[2dd\	.
+=18	=18	=18	=18	=18	=18	=18	=18
+1AA]	.	1e	.	1a]	.	2dd\]	.
+.	.	.	.	.	.	2cc#i\	.
+=19	=19	=19	=19	=19	=19	=19	=19
+[1D	-ris	[1f#	-ris	[1a	-ris	[1dd	-ris
+=20	=20	=20	=20	=20	=20	=20	=20
+1D]	.	1f#]	.	1a]	.	1dd]	.
+=21	=21	=21	=21	=21	=21	=21	=21
+1E-	quis	1g	quis	1b-	quis	1gg	quis
+=22	=22	=22	=22	=22	=22	=22	=22
+1E-	quis	1g	quis	1b-	quis	1gg	quis
+=23	=23	=23	=23	=23	=23	=23	=23
+2.E-i\	quis	2g/	quis	2.b-\	quis	2.cc\	quis
+.	.	2g/	ap-	.	.	.	.
+4D\	ap-	.	.	4b-\	ap-	4dd\	ap-
+=24	=24	=24	=24	=24	=24	=24	=24
+2C/	-pa-	2.g/	-pa-	2.cc\	-pa-	2ee-\	-pa-
+2C/	-ru-	.	.	.	.	2ee-\	-ru-
+.	.	4g/	-ru-	4b-\	-ru-	.	.
+=25	=25	=25	=25	=25	=25	=25	=25
+1D	-it	1f#	-it	1a	-it	1dd	-it
+=26!|:	=26!|:	=26!|:	=26!|:	=26!|:	=26!|:	=26!|:	=26!|:
+2.G\	Na-	2.g/	Na-	2.b-\	Na-	2.dd\	Na-
+4D\	-tum	4f#/	-tum	4a/	-tum	4dd\	-tum
+=27	=27	=27	=27	=27	=27	=27	=27
+2G\	vi-	2g/	vi-	2b-\	vi-	2dd\	vi-
+2C/	-di-	2g/	-di-	2cc\	-di-	2ee-\	-di-
+=28	=28	=28	=28	=28	=28	=28	=28
+1D	-mus	1f#	-mus	1a	-mus	1dd	-mus
+=29	=29	=29	=29	=29	=29	=29	=29
+2r	.	2r	.	2r	.	2r	.
+2BB-/	et	2b-\	et	2dd\	et	2ff\	et
+=30	=30	=30	=30	=30	=30	=30	=30
+2BB-/	cho-	2b-\	cho-	2dd\	cho-	2ff\	cho-
+2BB-/	-ros	2b-\	-ros	2dd\	-ros	2ff\	-ros
+=31	=31	=31	=31	=31	=31	=31	=31
+2E-\	an-	2g/	an-	2ee-\	an-	2gg\	an-
+2BB-/	-ge-	[2b-\	-ge-	2dd\	-ge-	2ff\	-ge-
+=32	=32	=32	=32	=32	=32	=32	=32
+1F	-lo-	2b-\]	.	1cc	-lo-	1ff	-lo-
+.	.	2a/	-lo-	.	.	.	.
+=33	=33	=33	=33	=33	=33	=33	=33
+1BB-	-rum	1b-	-rum	1b-	-rum	1dd	-rum
+=34	=34	=34	=34	=34	=34	=34	=34
+*M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
+1G	col-	1g	col-	1b-	col-	1dd	col-
+2D\	-lau-	2f#/	-lau-	2a/	-lau-	2dd\	-lau-
+=35	=35	=35	=35	=35	=35	=35	=35
+1G	-dan-	1g	-dan-	1b-	-dan-	1dd	-dan-
+2C/	-tes	2g/	-tes	2cc\	-tes	2ee-\	-tes
+=36	=36	=36	=36	=36	=36	=36	=36
+1E-	Do-	1g	Do-	1b-	Do-	1ee-i	Do-
+2E-\	-mi-	2g/	-mi-	2g/	-mi-	2ee-\	-mi-
+=37	=37	=37	=37	=37	=37	=37	=37
+1.D	-num	1.f#	-num	1.a	-num	1.dd	-num
+=38	=38	=38	=38	=38	=38	=38	=38
+1BB-	col-	1b-	col-	1dd	col-	1ff	col-
+2BB-/	-lau-	2b-\	-lau-	2dd\	-lau-	2ff\	-lau-
+=39	=39	=39	=39	=39	=39	=39	=39
+1F	-dan-	1a	-dan-	1cc	-dan-	1ff	-dan-
+2G\	-tes	2g/	-tes	2b-\	-tes	2dd\	-tes
+=40	=40	=40	=40	=40	=40	=40	=40
+1C	Do-	1g	Do-	1cc	Do-	1ee-	Do-
+2D\	-mi-	2f#/	-mi-	2a/	-mi-	2dd\	-mi-
+=41	=41	=41	=41	=41	=41	=41	=41
+1.GG	-num	1.g	-num	1.b-	-num	1.dd	-num
+=42	=42	=42	=42	=42	=42	=42	=42
+*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*
+*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
+[1G	Di-	[1g	Di-	[1b-	Di-	[1dd	Di-
+=43	=43	=43	=43	=43	=43	=43	=43
+2G\]	.	2g/]	.	2b-\]	.	2dd\]	.
+2G\	-ci-	2g/	-ci-	2b-\	-ci-	2dd\	-ci-
+=44	=44	=44	=44	=44	=44	=44	=44
+2D\	-te	2f#i/	-te	2a/	-te	2dd\	-te
+2E-i\	quid-	2g/	quid-	2dd\	quid-	2dd\	quid-
+=45	=45	=45	=45	=45	=45	=45	=45
+2F\	-nam	2a/	-nam	2cc\	-nam	2a/	-nam
+2G\	vi-	2g/	vi-	2b-\	vi-	4b-\	vi-
+.	.	.	.	.	.	4cc\	.
+=46	=46	=46	=46	=46	=46	=46	=46
+2D\	-di-	2f#/	-di-	2a/	-di-	2dd\	-di-
+2D\	-stis	2f#/	-stis	2a/	-stis	2dd\	-stis
+=47	=47	=47	=47	=47	=47	=47	=47
+2r	.	2r	.	2r	.	2r	.
+[2BB-/	et	[2b-\	et	[2dd\	et	[2ff\	et
+=48	=48	=48	=48	=48	=48	=48	=48
+2BB-/]	.	2b-\]	.	2dd\]	.	2ff\]	.
+2BB-/	an-	2b-\	an-	2dd\	an-	2ff\	an-
+=49	=49	=49	=49	=49	=49	=49	=49
+2.F\	-nun-	2.a/	-nun-	2.cc\	-nun-	2.ff\	-nun-
+4BB-/	-ti-	4b-\	-ti-	4dd\	-ti-	4ff\	-ti-
+=50	=50	=50	=50	=50	=50	=50	=50
+2F\	-a-	2a/	-a-	2cc\	-a-	2ff\	-a-
+2G\	-te	2g/	-te	2b-\	-te	2dd\	-te
+=51	=51	=51	=51	=51	=51	=51	=51
+2D\	no-	2f#/	no-	2a/	no-	2dd\	no-
+2D\	-bis	2f#/	-bis	2a/	-bis	2dd\	-bis
+=52	=52	=52	=52	=52	=52	=52	=52
+1GG	Chri-	1g	Chri-	1b-	Chri-	1dd	Chri-
+=53	=53	=53	=53	=53	=53	=53	=53
+2.C/	-sti	2.e-i/	-sti	2.cc\	-sti	2.ee-i\	-sti
+4C/	na-	4e-/	na-	4b-\	na-	4ee-\	na-
+=54	=54	=54	=54	=54	=54	=54	=54
+2D\	-ti-	2f#/	-ti-	2a/	-ti-	2dd\	-ti-
+2E-\	-vi-	[2g/	-vi-	2g/	-vi-	4cc\	-vi-
+.	.	.	.	.	.	4b-\	.
+=55	=55	=55	=55	=55	=55	=55	=55
+[1D	-ta-	2g/]	-ta-	[1a	-ta-	[1a	-ta-
+.	.	4f#i/	.	.	.	.	.
+.	.	4e/	.	.	.	.	.
+=56	=56	=56	=56	=56	=56	=56	=56
+1D]	.	1f#	.	1a]	.	1a]	.
+=57	=57	=57	=57	=57	=57	=57	=57
+[1GG	-tem.	[1g	-tem.	[1g	-tem.	[1bni	-tem.
+=58	=58	=58	=58	=58	=58	=58	=58
+1GG]	.	1g]	.	1g]	.	1b]	.
+==:|!	==:|!	==:|!	==:|!	==:|!	==:|!	==:|!	==:|!
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!GTL: Hymnbook L 1642(a)
+!!!EFL: 27/34
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-01-17 
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Translated from MusicXML and edited by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}

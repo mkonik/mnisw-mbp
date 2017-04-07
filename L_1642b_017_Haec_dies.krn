@@ -1,0 +1,143 @@
+!!!COM: Anonymous
+!!!OTL@@LAT: Haec dies quam fecit Dominus
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook L 1642
+!!!ARL: Biblioteka Diecezjalna w Sandomierzu 
+!!!voices:	4
+**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Canto III	*	*I"Canto II	*	*I"Canto I	*
+=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
+*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
+*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*
+*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
+1F	Haec	[1f	Haec	[1a	Haec	1cc	Haec
+=2	=2	=2	=2	=2	=2	=2	=2
+1F	di-	1f]	.	1a]	.	1a	di-
+=3	=3	=3	=3	=3	=3	=3	=3
+1D	-es	1f	di-	1f	di-	2a/	-es
+.	.	.	.	.	.	2b-\	quam
+=4	=4	=4	=4	=4	=4	=4	=4
+1C	quam	1e	-es	1g	.	1cc	fe-
+=5	=5	=5	=5	=5	=5	=5	=5
+1F	fe-	[1f	quam	2a/	-es	1cc	-cit
+.	.	.	.	2a/	quam	.	.
+=6	=6	=6	=6	=6	=6	=6	=6
+1BB-	-cit	1f]	.	1b-	fe-	1dd	fe-
+=7	=7	=7	=7	=7	=7	=7	=7
+1F	fe-	1f	fe-	[1a	-cit	2cc\	-cit
+.	.	.	.	.	.	[2cc\	Do-
+=8	=8	=8	=8	=8	=8	=8	=8
+1F	-cit	1f	-cit	1a]	.	2cc\]	.
+.	.	.	.	.	.	4b-\	.
+.	.	.	.	.	.	4a/	.
+=9	=9	=9	=9	=9	=9	=9	=9
+2.C/	Do-	2.e/	Do-	2.g/	Do-	2.b-\	.
+4C/	-mi-	4e/	-mi-	4g/	-mi-	4b-\	-mi-
+=10	=10	=10	=10	=10	=10	=10	=10
+1FF	-nus	1f	-nus	1a	-nus	1cc	-nus
+=11	=11	=11	=11	=11	=11	=11	=11
+1BB-	quam	1f	quam	1b-	quam	1dd	quam
+=12	=12	=12	=12	=12	=12	=12	=12
+2BB-/	fe-	2f/	fe-	2b-\	fe-	2dd\	fe-
+2BB-/	-cit	2f/	-cit	4b-\	-cit	2dd\	-cit
+.	.	.	.	4a/	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13
+2.C/	Do-	2.e/	Do-	2.g/	Do-	2.cc\	Do-
+4C/	-mi-	4e/	-mi-	4g/	-mi-	4cc\	-mi-
+=14	=14	=14	=14	=14	=14	=14	=14
+[1FF	-nus	[1f	-nus	[1a	-nus	[1cc	-nus
+=15	=15	=15	=15	=15	=15	=15	=15
+1FF]	.	1f]	.	1a]	.	1cc]	.
+=16	=16	=16	=16	=16	=16	=16	=16
+*M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
+0F	Ex-	0f	Ex-	0a	Ex-	0cc	Ex-
+1C	-ul-	1e	-ul-	1g	-ul-	1cc	-ul-
+=17	=17	=17	=17	=17	=17	=17	=17
+0D	-te-	0f	-te-	0f	-te-	0b-	-te-
+1G	-mus	1g	-mus	1b-	-mus	1b-	-mus
+=18	=18	=18	=18	=18	=18	=18	=18
+0F	et	0a	et	0a	et	0cc	et
+1BB-	lae-	1f	lae-	1b-	lae-	1dd	lae-
+=19	=19	=19	=19	=19	=19	=19	=19
+0F	-te-	0a	-te-	0a	-te-	0cc	-te-
+1G	-mur	1g	-mur	1b-	-mur	1b-	-mur
+=20	=20	=20	=20	=20	=20	=20	=20
+1A	in	1f	in	1a	in	1cc	in
+0G	e-	0g	e-	1b-	e-	0dd	e-
+.	.	.	.	1g	.	.	.
+=21	=21	=21	=21	=21	=21	=21	=21
+0.C	-a	0.e	-a	0.g	-a	0.cc	-a
+=22	=22	=22	=22	=22	=22	=22	=22
+0F	ex-	0f	ex-	0a	ex-	0cc	ex-
+1C	-ul-	1e	-ul-	1g	-ul-	1cc	-ul-
+=23	=23	=23	=23	=23	=23	=23	=23
+0FF	-te-	0a	-te-	0f	-te-	0cc	-te-
+1C	-mus	1g	-mus	1g	-mus	1cc	-mus
+=24	=24	=24	=24	=24	=24	=24	=24
+0F	et	0f	et	0a	et	0cc	et
+1C	lae-	1e	lae-	1g	lae-	1cc	lae-
+=25	=25	=25	=25	=25	=25	=25	=25
+0FF	-te-	0a	-te-	0f	-te-	0cc	-te-
+1C	-mur	1g	-mur	1g	-mur	1cc	-mur
+=26	=26	=26	=26	=26	=26	=26	=26
+1F	in	1f	in	1f	in	0cc	in
+0C	e-	0g	e-	0g	e-	.	.
+.	.	.	.	.	.	1cc	e-
+=27	=27	=27	=27	=27	=27	=27	=27
+0.FF	-a	0.f	-a	0.a	-a	0.cc	-a
+=28	=28	=28	=28	=28	=28	=28	=28
+*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*
+*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
+1F	Al-	1f	Al-	1a	Al-	1cc	Al-
+=29	=29	=29	=29	=29	=29	=29	=29
+2D\	-le-	2f/	-le-	2a/	-le-	2dd\	-le-
+2G\	-lu-	2g/	-lu-	2b-\	-lu-	2b-\	-lu-
+=30	=30	=30	=30	=30	=30	=30	=30
+2F\	-ia	2a/	-ia	2a/	-ia	2cc\	-ia
+2F\	al-	2f/	al-	2a/	al-	2cc\	al-
+=31	=31	=31	=31	=31	=31	=31	=31
+2BB-/	-le-	2f/	-le-	4b-\	-le-	2dd\	-le-
+.	.	.	.	4a/	.	.	.
+2C/	-lu-	2e/	-lu-	2g/	-lu-	2cc\	-lu-
+=32	=32	=32	=32	=32	=32	=32	=32
+1FF	-ia	1f	-ia	1a	-ia	1cc	-ia
+=33	=33	=33	=33	=33	=33	=33	=33
+1r	.	2.f/	al-	2.a/	al-	2.cc\	al-
+.	.	4g/	-le-	4g/	-le-	4b-\	-le-
+=34	=34	=34	=34	=34	=34	=34	=34
+2.F\	al-	2.a/	-lu-	2.f/	-lu-	2.a/	-lu-
+4E\	-le-	4e/	.	4g/	.	4g/	.
+=35	=35	=35	=35	=35	=35	=35	=35
+2.D\	-lu-	1f	-ia	1a	-ia	2f/	-ia
+.	.	.	.	.	.	4ff\	al-
+4C/	-ia	.	.	.	.	4ee\	-le-
+=36	=36	=36	=36	=36	=36	=36	=36
+2BB-/	al-	2f/	al-	2b-\	al-	2dd\	-lu-
+2AA/	.	[2f/	-le-	2cc\	.	2cc\	-ia
+=37	=37	=37	=37	=37	=37	=37	=37
+2BB-/	.	2f/]	.	2b-\	.	2dd\	al-
+2FF/	-le-	4f/	.	2a/	-le-	2cc\	-le-
+.	.	4d/	.	.	.	.	.
+=38	=38	=38	=38	=38	=38	=38	=38
+1C	-lu-	1e	-lu-	1g	-lu-	1cc	-lu-
+=39	=39	=39	=39	=39	=39	=39	=39
+[1FF	-ia.	[1f	-ia.	[1a	-ia.	[1cc	-ia.
+=40	=40	=40	=40	=40	=40	=40	=40
+1FF]	.	1f]	.	1a]	.	1cc]	.
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!GTL: Hymnbook L 1642
+!!!EFL: 17/39
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-02-17 
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Translated from MusicXML and edited by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}

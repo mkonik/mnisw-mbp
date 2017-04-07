@@ -1,0 +1,96 @@
+!!!COM: Anonymous
+!!!OTL@@LAT: Annuntio vobis
+!!!OTL@@POL: W Betlejem tej nocy
+!!!TXO: Polish/Latin
+!!!ODT: 
+!!!GTL: Hymnbook L 1642(a)
+!!!ARL: Biblioteka Diecezjalna w Sandomierzu 
+!!!voices:	4
+**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Canto III	*	*I"Canto II	*	*I"Canto I	*
+=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
+*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*
+*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
+2C/	An-	2c/	An-	2c/	An-	2c/	An-
+2C/	-nun-	2c/	-nun-	2c/	-nun-	2c/	-nun-
+=2	=2	=2	=2	=2	=2	=2	=2
+2C/	-ti-	2c/	-ti-	2e/	-ti-	2g/	-ti-
+2AA/	-o	2c/	-o	2f/	-o	2a/	-o
+=3	=3	=3	=3	=3	=3	=3	=3
+1C	vo-	1e	vo-	1g	vo-	1cc	vo-
+=4	=4	=4	=4	=4	=4	=4	=4
+1GG	-bis	1d	-bis	1g	-bis	1b	-bis
+=5	=5	=5	=5	=5	=5	=5	=5
+2G\	quod	2d/	quod	2g/	quod	2b\	quod
+2G\	na-	2d/	na-	2g/	na-	2b\	na-
+=6	=6	=6	=6	=6	=6	=6	=6
+2D\	-tus	2c/	-tus	2f#i/	-tus	2a/	-tus
+2G\	est	2d/	est	2g/	est	2b\	est
+=7	=7	=7	=7	=7	=7	=7	=7
+1D	no-	1f#	no-	1a	no-	1dd	no-
+=8	=8	=8	=8	=8	=8	=8	=8
+1GG	-bis	1d	-bis	1g	-bis	1b	-bis
+=9	=9	=9	=9	=9	=9	=9	=9
+2.C/	Do-	2.e/	Do-	2.e/	Do-	2.cc\	Do-
+4C/	-mi-	4e/	-mi-	4e/	-mi-	4cc\	-mi-
+=10	=10	=10	=10	=10	=10	=10	=10
+2GG/	-nus	4d/	-nus	2g/	-nus	4b\	-nus
+.	.	4c/	.	.	.	4a/	.
+2GG/	rex	2d/	rex	2g/	rex	2b\	rex
+=11	=11	=11	=11	=11	=11	=11	=11
+1C	cae-	1e	cae-	1e	cae-	1cc	cae-
+=12	=12	=12	=12	=12	=12	=12	=12
+2BB/	-li	2f/	-li	2f/	-li	2dd\	-li
+2C/	et	4e/	et	2e/	et	4cc\	et
+.	.	8d/L	ter-	.	.	8b/L	ter-
+.	.	8c/J	.	.	.	8a/J	.
+=13	=13	=13	=13	=13	=13	=13	=13
+1GG	ter-	1d	.	1d	ter-	1b	.
+=14	=14	=14	=14	=14	=14	=14	=14
+1C	-rae	1e	-rae	1c	-rae	1cc	-rae
+=15||	=15||	=15||	=15||	=15||	=15||	=15||	=15||
+*M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
+0C	Lae-	0c	Lae-	0c	Lae-	0g	Lae-
+1GG	-te-	1B	-te-	1d	-te-	1g	-te-
+=16	=16	=16	=16	=16	=16	=16	=16
+0.C	-mur	0.c	-mur	0.e	-mur	0.e	-mur
+=17	=17	=17	=17	=17	=17	=17	=17
+0C	cum	0e	cum	0e	cum	0g	cum
+1D	An-	1d	An-	1f	An-	1a	An-
+=18	=18	=18	=18	=18	=18	=18	=18
+0C	-ge-	0e	-ge-	0g	-ge-	0cc	-ge-
+1FF	-lis	1f	-lis	1a	-lis	1cc	-lis
+=19	=19	=19	=19	=19	=19	=19	=19
+0C	psal-	0e	psal-	0g	psal-	0cc	psal-
+1GG	-len-	1d	-len-	1f	-len-	1b	-len-
+=20	=20	=20	=20	=20	=20	=20	=20
+0.C	-tes	0.e	-tes	0.e	-tes	0.cc	-tes
+=21	=21	=21	=21	=21	=21	=21	=21
+0C	De-	0e	De-	0g	De-	0cc	De-
+1C	-um	1e	-um	1g	-um	1cc	-um
+=22	=22	=22	=22	=22	=22	=22	=22
+0E	ve-	0c	ve-	0e	ve-	0g	ve-
+1F	-rum	1c	-rum	1f	-rum	1a	-rum
+=23	=23	=23	=23	=23	=23	=23	=23
+2E\	lau-	1c	lau-	1e	lau-	1g	lau-
+2F\	.	.	.	.	.	.	.
+0G	-den-	0B	-den-	0d	-den-	0g	-den-
+=24	=24	=24	=24	=24	=24	=24	=24
+0.C	-tes.	0.c	-tes.	0.c	-tes.	0.e	-tes.
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!GTL: Hymnbook L 1642(a)
+!!!EFL: 18/34
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-01-11 
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Translated from MusicXML and edited by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}

@@ -1,0 +1,146 @@
+!!!COM: Anonymous
+!!!OTL@@LAT: Omni die dic Mariae
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook L 1642(a)
+!!!ARL: Biblioteka Diecezjalna w Sandomierzu 
+!!!voices:	4
+**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Canto III	*	*I"Canto II	*	*I"Canto I	*
+=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
+*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*
+*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
+1C	Om-	1e	Om-	1g	Om-	1cc	Om-
+=2	=2	=2	=2	=2	=2	=2	=2
+2GG/	-ni	2g/	-ni	2b\	-ni	2dd\	-ni
+2GG/	di-	2g/	di-	2b\	di-	2dd\	di-
+=3	=3	=3	=3	=3	=3	=3	=3
+1C	-e	1g	-e	1cc	-e	1ee	-e
+=4	=4	=4	=4	=4	=4	=4	=4
+2r	.	2r	.	2r	.	2r	.
+2E\	dic	2g/	dic	2ee\	dic	2gg\	dic
+=5	=5	=5	=5	=5	=5	=5	=5
+2F\	Ma-	2a/	Ma-	2dd\	Ma-	2ff\	Ma-
+2G\	-ri-	2g/	-ri-	2b\	-ri-	2dd\	-ri-
+=6	=6	=6	=6	=6	=6	=6	=6
+1C	-ae	1g	-ae	1cc	-ae	1ee	-ae
+=7	=7	=7	=7	=7	=7	=7	=7
+2r	.	2r	.	2r	.	2r	.
+2C/	me-	2g/	me-	2cc\	me-	2ee\	me-
+=8	=8	=8	=8	=8	=8	=8	=8
+1G	-a	1g	-a	4b\	.	4dd\	.
+.	.	.	.	4a/	.	4cc\	.
+.	.	.	.	4b\	-a	4dd\	-a
+.	.	.	.	4cc\	.	4ee\	.
+=9	=9	=9	=9	=9	=9	=9	=9
+2F\	lau-	2a/	lau-	2dd\	lau-	2ff\	lau-
+2C/	-des	2g/	-des	2cc\	-des	2ee\	-des
+=10	=10	=10	=10	=10	=10	=10	=10
+2.G\	a-	2g/	a-	2.b\	a-	2.dd\	a-
+.	.	2g/	-ni-	.	.	.	.
+4G\	-ni-	.	.	4b\	-ni-	4dd\	-ni-
+=11	=11	=11	=11	=11	=11	=11	=11
+1C	-ma	1e	-ma	1cc	-ma	1cc	-ma
+=12	=12	=12	=12	=12	=12	=12	=12
+2r	.	2r	.	2r	.	2r	.
+2C/	ma-	2g/	me-	2cc\	me-	2ee\	me-
+=13	=13	=13	=13	=13	=13	=13	=13
+1G	-e	1g	-a	4b\	.	4dd\	.
+.	.	.	.	4a/	.	4cc\	.
+.	.	.	.	4b\	-a	4dd\	-a
+.	.	.	.	4cc\	.	4ee\	.
+=14	=14	=14	=14	=14	=14	=14	=14
+2F\	lau-	2a/	lau-	2dd\	lau-	2ff\	lau-
+2C/	-des	2g/	-des	2cc\	-des	2ee\	-des
+=15	=15	=15	=15	=15	=15	=15	=15
+2.G\	a-	2.g/	a-	2.b\	a-	2.dd\	a-
+4G\	-ni-	4f/	-ni-	4b\	-ni-	4dd\	-ni-
+=16	=16	=16	=16	=16	=16	=16	=16
+1C	-ma	1e	-ma	1cc	-ma	1cc	-ma
+=17	=17	=17	=17	=17	=17	=17	=17
+2r	.	2r	.	2r	.	2r	.
+[2C/	E-	[2g/	E-	[2ee\	E-	[2gg\	E-
+=18	=18	=18	=18	=18	=18	=18	=18
+2C/]	.	2g/]	.	2ee\]	.	2gg\]	.
+2F\	-ius	2a/	-ius	2dd\	-ius	2ff\	-ius
+=19	=19	=19	=19	=19	=19	=19	=19
+2C/	fes-	2g/	fes-	2cc\	fes-	2ee\	fes-
+2G\	-ta	2g/	-ta	2b\	-ta	2dd\	-ta
+=20	=20	=20	=20	=20	=20	=20	=20
+2r	.	2r	.	2r	.	2r	.
+2G\	e-	2g/	e-	2b\	e-	2dd\	e-
+=21	=21	=21	=21	=21	=21	=21	=21
+2D\	-ius	2f/	-ius	2b\	-ius	2dd\	-ius
+2G\	ges-	2g/	ges-	2b\	ges-	2dd\	ges-
+=22	=22	=22	=22	=22	=22	=22	=22
+1C	-ta	1g	-ta	1cc	-ta	1ee	-ta
+=23	=23	=23	=23	=23	=23	=23	=23
+2r	.	2r	.	2r	.	2r	.
+2C/	co-	2g/	co-	2cc\	co-	2ee\	co-
+=24	=24	=24	=24	=24	=24	=24	=24
+1GG	-le	1g	-le	4b\	.	4dd\	.
+.	.	.	.	4a/	.	4cc\	.
+.	.	.	.	4b\	-le	4dd\	-le
+.	.	.	.	4cc\	.	4ee\	.
+=25	=25	=25	=25	=25	=25	=25	=25
+2D\	de-	2a/	de-	2dd\	de-	2ff\	de-
+2C/	-vo-	2g/	-vo-	2cc\	-vo-	2ee\	-vo-
+=26	=26	=26	=26	=26	=26	=26	=26
+2.GG/	-tis-	2.g/	-tis-	2.b\	-tis-	2.dd\	-tis-
+4GG/	-si-	4g/	-si-	4b\	-si-	4dd\	-si-
+=27	=27	=27	=27	=27	=27	=27	=27
+1C	-ma	1e	-ma	1cc	-ma	1cc	-ma
+=28	=28	=28	=28	=28	=28	=28	=28
+2r	.	2r	.	2r	.	2r	.
+2C/	co-	2g/	co-	2cc\	co-	2ee\	co-
+=29	=29	=29	=29	=29	=29	=29	=29
+1GG	-le	1g	-le	4b\	.	4dd\	.
+.	.	.	.	4a/	.	4cc\	.
+.	.	.	.	4b\	-le	4dd\	-le
+.	.	.	.	4cc\	.	4ee\	.
+=30	=30	=30	=30	=30	=30	=30	=30
+2D\	de-	2a/	de-	2dd\	de-	2ff\	de-
+2C/	-vo-	2g/	-vo-	2cc\	-vo-	2ee\	-vo-
+=31	=31	=31	=31	=31	=31	=31	=31
+2.GG/	-tis-	2.g/	-tis-	2.b\	-tis-	2.dd\	-tis-
+4GG/	-si-	4f/	-si-	4b\	-si-	4dd\	-si-
+=32	=32	=32	=32	=32	=32	=32	=32
+1C	-ma	1e	-ma	1cc	-ma	1cc	-ma
+=33	=33	=33	=33	=33	=33	=33	=33
+2r	.	2r	.	2r	.	2r	.
+2C/	co-	2cc\	co-	2cc\	co-	2ee\	co-
+=34	=34	=34	=34	=34	=34	=34	=34
+1G	-le	1b	-le	1dd	-le	1gg	-le
+=35	=35	=35	=35	=35	=35	=35	=35
+2D\	de-	4a/	de-	2ff\	de-	2aa\	de-
+.	.	4b\	.	.	.	.	.
+2E\	-vo-	2cc\	-vo-	2ee\	-vo-	2gg\	-vo-
+=36	=36	=36	=36	=36	=36	=36	=36
+2F\	-tis-	2b\	-tis-	4dd\	-tis-	4ff\	-tis-
+.	.	.	.	4cc\	.	4gg\	.
+2G\	.	2g/	.	4b\	.	4ff\	.
+.	.	.	.	4cc\	.	4ee\	.
+=37	=37	=37	=37	=37	=37	=37	=37
+1G	-si-	2.b\	.	1dd	-si-	2.dd\	.
+.	.	4b\	-si-	.	.	4dd\	-si-
+=38	=38	=38	=38	=38	=38	=38	=38
+[1C	-ma.	[1g	-ma.	[1cc	-ma.	[1cc	-ma.
+=39	=39	=39	=39	=39	=39	=39	=39
+1C]	.	1g]	.	1cc]	.	1cc]	.
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!GTL: Hymnbook L 1642(a)
+!!!EFL: 1/34
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-01-05 
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Translated from MusicXML and edited by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}

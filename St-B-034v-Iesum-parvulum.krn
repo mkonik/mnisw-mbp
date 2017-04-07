@@ -1,0 +1,65 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL: Iesum paruulum christum
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook B
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+!!!RDF*pag: 34v-35r
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: dr Marcin Konik
+!!!END: 2015-04/2015-05
+!!!EED: dr Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!title: @{OTL}, @{GTL}: p. @{RDF*pag}, ed. @{ENC}
+!!muse2ps: z14jc180F
+**kern
+*staff1
+*I"[Canto]
+*oclefC1
+*clefG2
+*M2/1
+=-
+!LO:TX:a:t=no meter indication
+!LO:TX:t=on the bottom of the page
+1f
+1f
+1f
+2e
+2d
+1.e
+2f
+1g
+1a
+1b
+1a
+1g
+1f
+0e
+1f
+1a
+1a
+=-
+!!Original pagebreak
+1a
+1.g
+1f
+2e
+1f
+2.c
+4d
+2e
+2f
+2g
+1f
+2e
+!LO:TX:a:t=longa
+0f
+==
+*-

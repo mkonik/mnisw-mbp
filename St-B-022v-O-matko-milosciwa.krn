@@ -1,0 +1,64 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL: O matko miłościwa
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook B
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+!!!RDF*pag: 22v-23r
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: dr Marcin Konik
+!!!END: 2015-04/2015-05
+!!!EED: dr Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!title: @{OTL}, @{GTL}: p. @{RDF*pag}, ed. @{ENC}
+!!muse2ps: z14jc180F
+**kern
+*staff1
+*I"[Canto]
+*oclefC1
+*clefG2
+*met(c|)
+*M2/1
+=-
+1d
+1d
+2.c
+4d
+2e
+1d
+2c
+1d
+2d
+1e
+2f
+2d
+1d
+2c
+1d
+1d
+2f
+=-
+!!Original pagebreak
+1e
+1d
+2c
+1d
+2f
+1f
+2f
+1f
+2f
+1e
+1d
+2c
+!LO:TX:a:t=longa
+0d
+==
+*-

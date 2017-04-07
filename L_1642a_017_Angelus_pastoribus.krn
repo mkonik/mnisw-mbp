@@ -1,0 +1,91 @@
+!!!COM: Anonymous
+!!!OTL@@LAT: Angelus pastoribus dixit
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook L 1642(a)
+!!!ARL: Biblioteka Diecezjalna w Sandomierzu 
+!!!voices:	4
+**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Canto III	*	*I"Canto II	*	*I"Canto I	*
+=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
+*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
+*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*
+*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
+2F\	An-	2f/	An-	2f/	An-	2f/	An-
+2F\	-ge-	2f/	-ge-	2f/	-ge-	2f/	-ge-
+=2	=2	=2	=2	=2	=2	=2	=2
+2C/	-lus	2e/	-lus	2g/	-lus	2cc\	-lus
+2C/	pa-	2e/	pa-	2g/	pa-	2cc\	pa-
+=3	=3	=3	=3	=3	=3	=3	=3
+2F\	-sto-	2f/	-sto-	2a/	-sto-	2cc\	-sto-
+2C/	-ri-	2e/	-ri-	2g/	-ri-	2b-\	-ri-
+=4	=4	=4	=4	=4	=4	=4	=4
+1FF	-bus	1f	-bus	1f	-bus	1cc	-bus
+=5	=5	=5	=5	=5	=5	=5	=5
+2F\	Di-	2a/	Di-	2cc\	Di-	2cc\	Di-
+2F\	-xit	2a/	-xit	2cc\	-xit	2cc\	-xit
+=6	=6	=6	=6	=6	=6	=6	=6
+2BB-/	vi-	2b-\	vi-	2dd\	vi-	2ff\	vi-
+2BB-/	-gi-	2b-\	-gi-	2dd\	-gi-	2ff\	-gi-
+=7	=7	=7	=7	=7	=7	=7	=7
+2F\	-lan-	2a/	-lan-	2cc\	-lan-	2ff\	-lan-
+2G\	-ti-	2g/	-ti-	2bn\	-ti-	2ee\	-ti-
+=8	=8	=8	=8	=8	=8	=8	=8
+1F	-bus	1a	-bus	1cc	-bus	1ff	-bus
+=9	=9	=9	=9	=9	=9	=9	=9
+2F\	Nun-	2a/	Nun-	2cc\	Nun-	2ff\	Nun-
+2F\	-ti-	2a/	-ti-	2cc\	-ti-	2ff\	-ti-
+=10	=10	=10	=10	=10	=10	=10	=10
+1BB-	-o	1b-	-o	1dd	-o	1dd	-o
+=11	=11	=11	=11	=11	=11	=11	=11
+2F\	vo-	2a/	vo-	2cc\	vo-	2cc\	vo-
+2F\	-bis	2a/	-bis	2cc\	-bis	2cc\	-bis
+=12	=12	=12	=12	=12	=12	=12	=12
+2G\	ma-	2g/	ma-	2b-\	ma-	2dd\	ma-
+2E\	-gnum	2g/	-gnum	2b-\	-gnum	2ee\	-gnum
+=13	=13	=13	=13	=13	=13	=13	=13
+2F\	gau-	2f/	gau-	2a/	gau-	2ff\	gau-
+2F\	-di-	2f/	-di-	2a/	-di-	2ff\	-di-
+=14	=14	=14	=14	=14	=14	=14	=14
+1C	-um	1e	-um	1g	-um	1ee	-um
+=15	=15	=15	=15	=15	=15	=15	=15
+2F\	Sal-	2a/	Sal-	2cc\	Sal-	2ff\	Sal-
+2F\	-va-	2a/	-va-	2cc\	-va-	2ff\	-va-
+=16	=16	=16	=16	=16	=16	=16	=16
+2G\	-to-	2g/	-to-	2b-\	-to-	2dd\	-to-
+2E\	-rem	2g/	-rem	2b-\	-rem	2dd\	-rem
+=17	=17	=17	=17	=17	=17	=17	=17
+2.F\	ho-	2f/	ho-	2a/	ho-	2ff\	ho-
+.	.	2f/	-mi-	2a/	-mi-	2ff\	-mi-
+4F\	.	.	.	.	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18
+1C	-num	1e	-num	1g	-num	1ee	-num
+=19	=19	=19	=19	=19	=19	=19	=19
+1FF	in	1a	in	1cc	in	1ff	in
+=20	=20	=20	=20	=20	=20	=20	=20
+2GG/	ter-	2g/	ter-	2b-\	ter-	2dd\	ter-
+4AA/	-ris	2f/	-ris	2a/	-ris	2dd\	-ris
+4BB-/	.	.	.	.	.	.	.
+=21	=21	=21	=21	=21	=21	=21	=21
+2.C/	ge-	2.e/	ge-	2.g/	ge-	2.cc\	ge-
+4C/	-ni-	4e/	-ni-	4g/	-ni-	4b-\	-ni-
+=22	=22	=22	=22	=22	=22	=22	=22
+[1FF	-tum.	[1f	-tum.	[1f	-tum.	[1a	-tum.
+=23	=23	=23	=23	=23	=23	=23	=23
+1FF]	.	1f]	.	1f]	.	1a]	.
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!GTL: Hymnbook L 1642(a)
+!!!EFL: 17/34
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-01-10 
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Translated from MusicXML and edited by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}

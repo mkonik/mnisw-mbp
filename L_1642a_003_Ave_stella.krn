@@ -1,0 +1,101 @@
+!!!COM: Anonymous
+!!!OTL@@LAT: Ave stella matutina
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook L 1642(a)
+!!!ARL: Biblioteka Diecezjalna w Sandomierzu 
+!!!voices:	4
+**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Canto III	*	*I"Canto II	*	*I"Canto I	*
+=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
+*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
+*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*
+*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
+1G	A-	1d	A-	1g	A-	1g	A-
+=2	=2	=2	=2	=2	=2	=2	=2
+2G\	-ve	2d/	-ve	2g/	-ve	2b-\	-ve
+2C/	stel-	2e-/	stel-	2a/	stel-	2cc\	stel-
+=3	=3	=3	=3	=3	=3	=3	=3
+1D	-la	1d	-la	1f#	-la	1a	-la
+=4	=4	=4	=4	=4	=4	=4	=4
+2r	.	2r	.	2r	.	2r	.
+4G\	ma-	2g/	ma-	4g/	ma-	4b-\	ma-
+4A\	.	.	.	4a/	.	4cc\	.
+=5	=5	=5	=5	=5	=5	=5	=5
+2B-\	-tu-	2f/	-tu-	2b-\	-tu-	2dd\	-tu-
+2F\	-ti-	2f/	-ti-	2a/	-ti-	2cc\	-ti-
+=6	=6	=6	=6	=6	=6	=6	=6
+1BB-	-na	1f	-na	1b-	-na	1b-	-na
+=7	=7	=7	=7	=7	=7	=7	=7
+2BB-/	Pec-	2f/	Pec-	2b-\	Pec-	2dd\	Pec-
+2BB-/	-ca-	2f/	-ca-	2b-\	-ca-	2dd\	-ca-
+=8	=8	=8	=8	=8	=8	=8	=8
+2F\	-to-	1f	-to-	4a/	-to-	4cc\	-to-
+.	.	.	.	4g/	.	4b-\	.
+4E-i\	-rum	.	.	4a/	-rum	4cc\	-rum
+4D\	.	.	.	4b-\	.	4dd\	.
+=9	=9	=9	=9	=9	=9	=9	=9
+1C	me-	1g	-rum	1cc	me-	1ee-	me-
+=10	=10	=10	=10	=10	=10	=10	=10
+2D\	-di-	2g/	me-	2b-\	-di-	2dd\	-di-
+2E-\	.	2f/	-di-	2b-\	-ci-	2dd\	-ci-
+=11	=11	=11	=11	=11	=11	=11	=11
+1F	-ci-	1f	-ci-	1a	.	1cc	.
+=12	=12	=12	=12	=12	=12	=12	=12
+1BB-	-na	1f	-na	1b-	-na	1b-	-na
+=13||	=13||	=13||	=13||	=13||	=13||	=13||	=13||
+1B-	Mun-	1f	Mun-	1b-	Mun-	1dd	Mun-
+=14	=14	=14	=14	=14	=14	=14	=14
+2F\	-di	2f/	-di	2a/	-di	2cc\	-di
+2G\	est	2d/	est	2g/	est	2b-\	est
+=15	=15	=15	=15	=15	=15	=15	=15
+4C/	prin-	1e-	prin-	1a	prin-	1cc	prin-
+4D\	.	.	.	.	.	.	.
+2E-\	.	.	.	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16
+1D	-ceps	1d	-ceps	1f#	-ceps	1a	-ceps
+=17	=17	=17	=17	=17	=17	=17	=17
+1BB-	et	1f	et	1b-	et	1dd	et
+=18	=18	=18	=18	=18	=18	=18	=18
+2FF/	Re-	2f/	Re-	2a/	Re-	2cc\	Re-
+2GG/	.	2d/	.	2g/	.	2b-\	.
+=19	=19	=19	=19	=19	=19	=19	=19
+1C	-gi-	1e-	-gi-	1a	-gi-	1cc	-gi-
+=20	=20	=20	=20	=20	=20	=20	=20
+1D	-na	1d	-na	1f#	-na	1a	-na
+=21	=21	=21	=21	=21	=21	=21	=21
+1F	An-	1f	An-	1a	An-	1cc	An-
+=22	=22	=22	=22	=22	=22	=22	=22
+2G\	-ge-	2e-i/	-ge-	2g/	-ge-	2b-\	-ge-
+2F\	-lo-	2f/	-lo-	2a/	-lo-	2cc\	-lo-
+=23	=23	=23	=23	=23	=23	=23	=23
+2.BB-/	-rum-	1f	-rum-	2.b-\	-rum-	2.dd\	-rum-
+4AA/	.	.	.	4a/	.	4cc\	.
+=24	=24	=24	=24	=24	=24	=24	=24
+2GG/	-que	2e-/	-que	2g/	-que	2b-\	-que
+4C/	Do-	2e-/	Do-	4a/	Do-	4cc\	Do-
+8D\L	.	.	.	4g/	.	4b-\	.
+8E-i\J	.	.	.	.	.	.	.
+=25	=25	=25	=25	=25	=25	=25	=25
+2.D\	.	2.d/	.	1f#	-mi-	1a	-mi-
+4D\	-mi-	4d/	-mi-	.	.	.	.
+=26	=26	=26	=26	=26	=26	=26	=26
+[1GG	-na.	[1d	-na.	[1g	-na.	[1bni	-na.
+=27	=27	=27	=27	=27	=27	=27	=27
+1GG]	.	1d]	.	1g]	.	1b]	.
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!GTL: Hymnbook L 1642(a)
+!!!EFL: 3/34
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-01-05
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Translated from MusicXML and edited by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}

@@ -1,0 +1,122 @@
+!!!COM: Anonymous
+!!!OTL@@LAT: Ecce Dominus veniet
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook L 1642(a)
+!!!ARL: Biblioteka Diecezjalna w Sandomierzu 
+!!!voices:	4
+**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Canto III	*	*I"Canto II	*	*I"Canto I	*
+=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
+*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
+*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*
+*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
+1r	.	1r	.	1cc	Ec-	1r	.
+=2	=2	=2	=2	=2	=2	=2	=2
+1r	.	1r	.	1a	-ce	1r	.
+=3	=3	=3	=3	=3	=3	=3	=3
+1F	Ec-	1a	Ec-	1f	ec-	1cc	Ec-
+=4	=4	=4	=4	=4	=4	=4	=4
+1D	-ce	1f	-ce	1a	-ce	1dd	-ce
+=5	=5	=5	=5	=5	=5	=5	=5
+2.C/	Do-	2.g/	Do-	2.cc\	Do-	2.ee\	Do-
+4C/	-mi-	4g/	-mi-	4cc\	-mi-	4ee\	-mi-
+=6	=6	=6	=6	=6	=6	=6	=6
+1F	-nus	1a	-nus	1cc	-nus	1ff	-nus
+=7	=7	=7	=7	=7	=7	=7	=7
+2BB-/	ve-	2f/	ve-	2b-\	ve-	2dd\	ve-
+2C/	-ni-	2cc\	-ni-	2g/	-ni-	2ee\	-ni-
+=8	=8	=8	=8	=8	=8	=8	=8
+2FF/	-et	2cc\	-et	2a/	-et	2ff\	-et
+[2BB-/	ve-	[2f/	ve-	[2b-\	ve-	[2dd\	ve-
+=9	=9	=9	=9	=9	=9	=9	=9
+2BB-/]	.	2f/]	.	2b-\]	.	2dd\]	.
+2BB-/	-ni-	2f/	-ni-	2b-\	-ni-	2dd\	-ni-
+=10	=10	=10	=10	=10	=10	=10	=10
+[1FF	-et	[1f	-et	[1a	-et	[1cc	-et
+=11	=11	=11	=11	=11	=11	=11	=11
+1FF]	.	1f]	.	1a]	.	1cc]	.
+=12:|!	=12:|!	=12:|!	=12:|!	=12:|!	=12:|!	=12:|!	=12:|!
+1C	Et	1e	Et	1g	Et	1cc	Et
+=13	=13	=13	=13	=13	=13	=13	=13
+2GG/	om-	2d/	om-	2g/	om-	2bni\	om-
+2C/	-nes	2e/	-nes	2g/	-nes	2cc\	-nes
+=14	=14	=14	=14	=14	=14	=14	=14
+2F\	san-	2f/	san-	2a/	san-	2cc\	san-
+2D\	-cti	2f/	-cti	2a/	-cti	2dd\	-cti
+=15	=15	=15	=15	=15	=15	=15	=15
+1C	e-	1g	e-	1cc	e-	1ee	e-
+=16	=16	=16	=16	=16	=16	=16	=16
+1F	-ius	1a	-ius	1cc	-ius	1ff	-ius
+=17	=17	=17	=17	=17	=17	=17	=17
+1F	cum	1f	cum	1cc	cum	1ff	cum
+=18	=18	=18	=18	=18	=18	=18	=18
+1C	e-	1g	e-	1b-	e-	1ee	e-
+=19	=19	=19	=19	=19	=19	=19	=19
+2F\	-o	2a/	-o	2cc\	-o	2ff\	-o
+2C/	cum	2g/	cum	[2cc\	cum	[2ee\	cum
+=20	=20	=20	=20	=20	=20	=20	=20
+4FF/	e-	1a	e-	2cc\]	.	2ee\]	.
+4GG/	.	.	.	.	.	.	.
+4AA/	.	.	.	2b-\	e-	2ff\	e-
+4BB-/	.	.	.	.	.	.	.
+=21	=21	=21	=21	=21	=21	=21	=21
+[1C	-o	[1g	-o	[1cc	-o	[1ee	-o
+=22	=22	=22	=22	=22	=22	=22	=22
+1C]	.	1g]	.	1cc]	.	1ee]	.
+=23||	=23||	=23||	=23||	=23||	=23||	=23||	=23||
+1F	Et	1f	Et	1a	Et	1cc	Et
+=24	=24	=24	=24	=24	=24	=24	=24
+1C	e-	1e	e-	1cc	e-	1cc	e-
+=25	=25	=25	=25	=25	=25	=25	=25
+2FF/	-rit	2f/	-rit	2cc\	-rit	2a/	-rit
+2C/	in	2e/	in	2cc\	in	2g/	in
+=26	=26	=26	=26	=26	=26	=26	=26
+2BB-/	di-	2f/	di-	2dd\	di-	2b-\	di-
+2GG/	-e	2g/	-e	2b-\	-e	2b-\	-e
+=27	=27	=27	=27	=27	=27	=27	=27
+1AA	il-	1e	il-	1cc	il-	1a	il-
+=28	=28	=28	=28	=28	=28	=28	=28
+2FF/	-la	2f/	-la	2a/	-la	2a/	-la
+2F\	lux	2f/	lux	2f/	lux	2a/	lux
+=29	=29	=29	=29	=29	=29	=29	=29
+1D	ma-	1f	ma-	1f	ma-	2.a/	ma-
+.	.	.	.	.	.	4b-\	.
+=30	=30	=30	=30	=30	=30	=30	=30
+1C	-gna	1e	-gna	1g	-gna	1cc	-gna
+=31	=31	=31	=31	=31	=31	=31	=31
+2AA/	al-	2e/	al-	2a/	al-	2cc\	al-
+2BB-/	-le-	2f/	-le-	2g/	-le-	[2ff\	-le-
+=32	=32	=32	=32	=32	=32	=32	=32
+1C	-lu-	1cc	-lu-	1g	-lu-	4ff\]	.
+.	.	.	.	.	.	8ee\L	.
+.	.	.	.	.	.	8dd\J	.
+.	.	.	.	.	.	2ee\	-lu-
+=33	=33	=33	=33	=33	=33	=33	=33
+1FF	-ia	1a	-ia	1a	-ia	1ff	-ia
+=34	=34	=34	=34	=34	=34	=34	=34
+2FF/	al-	2a/	al-	2a/	al-	2cc\	al-
+2FF/	-le-	4dd\	-le-	2g/	-le-	4ff\	-le-
+.	.	4cc\	.	.	.	4ee\	.
+=35	=35	=35	=35	=35	=35	=35	=35
+1BB-	-lu-	1b-	-lu-	1f	-lu-	1dd	-lu-
+=36	=36	=36	=36	=36	=36	=36	=36
+[1FF	-ia.	[1a	-ia.	[1f	-ia.	[1cc	-ia.
+=37	=37	=37	=37	=37	=37	=37	=37
+1FF]	.	1a]	.	1f]	.	1cc]	.
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!GTL: Hymnbook L 1642(a)
+!!!EFL: 15/34
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-01-10 
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Translated from MusicXML and edited by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}

@@ -1,0 +1,91 @@
+!!!COM: Anonymous
+!!!OTL@@LAT: Ave maris stella
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook L 1642(a)
+!!!ARL: Biblioteka Diecezjalna w Sandomierzu 
+!!!voices:	3
+**kern	**text	**text	**kern	**text	**text	**kern	**text	**text
+*staff3	*staff3	*staff3	*staff2	*staff2	*staff2	*staff1	*staff1	*staff1
+*I"Basso	*	*	*I"Canto II	*	*	*I"Canto I	*	*
+=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
+*clefF4	*	*	*clefG2	*	*	*clefG2	*	*
+*k[]	*	*	*k[]	*	*	*k[]	*	*
+*met(c|)	*	*	*met(c|)	*	*	*met(c|)	*	*
+*M2/2	*	*	*M2/2	*	*	*M2/2	*	*
+2C/	A-	At-	2e/	A-	At-	2g/	A-	At-
+2C/	-ve	-que	2g/	-ve	-que	2cc\	-ve	-que
+=2	=2	=2	=2	=2	=2	=2	=2	=2
+2F\	ma-	sem-	2f/	ma-	sem-	4a/	ma-	sem-
+.	.	.	.	.	.	4b\	.	.
+2C/	-ris	-per	2e/	-ris	-per	2cc\	-ris	-per
+=3	=3	=3	=3	=3	=3	=3	=3	=3
+1G	stel-	vir-	1d	stel-	vir-	1b	stel-	vir-
+=4	=4	=4	=4	=4	=4	=4	=4	=4
+1C	-la	-go	1e	-la	-go	1cc	-la	-go
+=5	=5	=5	=5	=5	=5	=5	=5	=5
+2.C/	De-	Fe-	2.cc\	De-	Fe-	2.ee\	De-	Fe-
+4C/	-i	-lix	4cc\	-i	-lix	4ee\	-i	-lix
+=6	=6	=6	=6	=6	=6	=6	=6	=6
+2D\	Ma-	cae-	2b\	Ma-	cae-	2dd\	Ma-	cae-
+2AA/	-ter	-li	2a/	-ter	-li	2cc\	-ter	-li
+=7	=7	=7	=7	=7	=7	=7	=7	=7
+1E	al-	por-	1g#	al-	por-	1b	al-	por-
+=8	=8	=8	=8	=8	=8	=8	=8	=8
+1AA	-ma	-ta	1a	-ma	-ta	1a	-ma	-ta
+=9:|!	=9:|!	=9:|!	=9:|!	=9:|!	=9:|!	=9:|!	=9:|!	=9:|!
+*M3/1	*	*	*M3/1	*	*	*M3/1	*	*
+1C	Te	.	1cc	Te	.	1ee	Te	.
+1C	de-	.	1cc	de-	.	1ee	de-	.
+1C	-pre-	.	1cc	-pre-	.	1ee	-pre-	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10
+0G	-ca-	.	0b	-ca-	.	0dd	-ca-	.
+1E	-mur	.	1cc	-mur	.	1ee	-mur	.
+=11	=11	=11	=11	=11	=11	=11	=11	=11
+0F	au-	.	0a	au-	.	0cc	au-	.
+1D	-di	.	1a	-di	.	1dd	-di	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12
+0E	nos	.	0g#	nos	.	0b	nos	.
+2C/	tu-	.	2gni/	tu-	.	2cc\	tu-	.
+2C/	-o	.	2g/	-o	.	2cc\	-o	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13
+1.F	fi-	.	1.a	fi-	.	1.ff	fi-	.
+2C/	-li-	.	2g/	-li-	.	2ee\	-li-	.
+1D	-o	.	2f/	-o	.	2dd\	-o	.
+.	.	.	2e/	com-	.	2cc\	com-	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14
+1E	com-	.	0e	-men-	.	0cc	-men-	.
+1F	-men-	.	.	.	.	.	.	.
+1G	-da	.	1d	-da	.	1b	-da	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15
+0.C	nos	.	0.e	nos	.	0.cc	nos	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16
+*met(c|)	*	*	*met(c|)	*	*	*met(c|)	*	*
+*M2/2	*	*	*M2/2	*	*	*M2/2	*	*
+1C	O	.	1cc	O	.	1ee	O	.
+=17	=17	=17	=17	=17	=17	=17	=17	=17
+1GG	vir-	.	1b	vir-	.	1dd	vir-	.
+=18	=18	=18	=18	=18	=18	=18	=18	=18
+2AA/	-go	.	2a/	-go	.	2cc\	-go	.
+2D\	Ma-	.	4b\	Ma-	.	4dd\	Ma-	.
+.	.	.	4a/	.	.	4cc\	.	.
+=19	=19	=19	=19	=19	=19	=19	=19	=19
+1E	-ri-	.	1g#	-ri-	.	1b	-ri-	.
+=20	=20	=20	=20	=20	=20	=20	=20	=20
+[1AA	-a.	.	[1a	-a.	.	[1a	-a.	.
+=21	=21	=21	=21	=21	=21	=21	=21	=21
+1AA]	.	.	1a]	.	.	1a]	.	.
+==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!GTL: Hymnbook L 1642(a)
+!!!EFL: 2/34
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-01-05 
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Translated from MusicXML and edited by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}

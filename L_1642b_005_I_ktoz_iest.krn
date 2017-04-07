@@ -1,0 +1,120 @@
+!!!COM: Anonymous
+!!!OTL@@POL: I któż jest tak serca kamiennego
+!!!OTL@LAT: Quis mestis oculos
+!!!TXO: Polish/Latin
+!!!ODT: 
+!!!GTL: Hymnbook L 1642
+!!!ARL: Biblioteka Diecezjalna w Sandomierzu 
+!!!voices:	4
+**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Canto III	*	*I"Canto II	*	*I"Canto I	*
+=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
+*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*
+*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
+1c	I	1e	I	1g	I	1cc	I
+=2	=2	=2	=2	=2	=2	=2	=2
+2A\	kt&oacute;ż	2e/	kt&oacute;ż	2a/	kt&oacute;ż	2cc\	kt&oacute;ż
+2F\	jest	2f/	jest	2cc\	jest	2a/	jest
+=3	=3	=3	=3	=3	=3	=3	=3
+2G\	tak	2d/	tak	2b\	tak	2b\	tak
+2A\	bar-	2e/	bar-	2a/	bar-	2cc\	bar-
+=4	=4	=4	=4	=4	=4	=4	=4
+1d	-dzo	1f	-dzo	1a	-dzo	1dd	-dzo
+=5	=5	=5	=5	=5	=5	=5	=5
+2r	.	2r	.	2r	.	2r	.
+2G\	ser-	2d/	ser-	2g/	ser-	2b\	ser-
+=6	=6	=6	=6	=6	=6	=6	=6
+1c	-ca	1e	-ca	1g	-ca	1cc	-ca
+=7	=7	=7	=7	=7	=7	=7	=7
+2F\	ka-	2c/	ka-	2f/	ka-	2a/	ka-
+2c\	-mien-	[2c/	-mien-	2e/	-mien-	2g/	-mien-
+=8	=8	=8	=8	=8	=8	=8	=8
+1F	-ne-	2c/]	.	1f	-ne-	1a	-ne-
+.	.	2c/	-ne-	.	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9
+1c	-go	1c	-go	1e	-go	1g	-go
+=10	=10	=10	=10	=10	=10	=10	=10
+2r	.	2r	.	2r	.	2r	.
+2c\	Kt&oacute;-	2c/	Kt&oacute;-	2e/	Kt&oacute;-	2g/	Kt&oacute;-
+=11	=11	=11	=11	=11	=11	=11	=11
+2A\	-ry-	2c/	-ry-	2e/	-ry-	2a/	-ry-
+2G\	-by	2d/	-by	2g/	-by	2b\	-by
+=12	=12	=12	=12	=12	=12	=12	=12
+2.c\	nie	2.e/	nie	2.g/	nie	2.cc\	nie
+4G\	skro-	4d/	skro-	4f/	skro-	4b\	skro-
+=13	=13	=13	=13	=13	=13	=13	=13
+2A\	-pił	2c/	-pił	2e/	-pił	2a/	-pił
+2c\	łza-	2c/	łza-	2e/	łza-	2g/	łza-
+=14	=14	=14	=14	=14	=14	=14	=14
+1F	-mi	1c	-mi	1f	-mi	1a	-mi
+=15	=15	=15	=15	=15	=15	=15	=15
+2d\	li-	2d/	li-	2a/	li-	2f/	li-
+2A\	-ca	[2c#/	-ca	2a/	-ca	2e/	-ca
+=16	=16	=16	=16	=16	=16	=16	=16
+1B-	swe-	2c#/]	.	1g	swe-	1d	swe-
+.	.	2d/	swe-	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17
+1A	-go	1c#	-go	1a	-go	1e	-go
+=18	=18	=18	=18	=18	=18	=18	=18
+2r	.	2r	.	2r	.	2r	.
+2c\	Płacz-	2e/	Płacz-	2cc\	Płacz-	2g/	Płacz-
+=19	=19	=19	=19	=19	=19	=19	=19
+2c\	-cież	2e/	-cież	2cc\	-cież	2g/	-cież
+2F\	dzia-	2f/	dzia-	2cc\	dzia-	2a/	dzia-
+=20	=20	=20	=20	=20	=20	=20	=20
+2.B-\	-te-	2.d/	-te-	2.b-\	-te-	2.f/	-te-
+4c\	-czki	4c/	-czki	4a/	-czki	4e/	-czki
+=21	=21	=21	=21	=21	=21	=21	=21
+2G\	płacz-	2B-i/	płacz-	2g/	płacz-	2d/	płacz-
+2A\	-cie	2c/	-cie	2f/	-cie	2c/	-cie
+=22	=22	=22	=22	=22	=22	=22	=22
+1G	i	1B-i	i	1g	i	1d	i
+=23	=23	=23	=23	=23	=23	=23	=23
+2A\	wy	2c/	wy	2e/	wy	2c/	wy
+[2F\	mę-	[2f/	mę-	[2a/	mę-	[2cc\	mę-
+=24	=24	=24	=24	=24	=24	=24	=24
+2F\]	.	2f/]	.	2a/]	.	2cc\]	.
+2G\	-żo-	2d/	-żo-	2g/	-żo-	2b\	-żo-
+=25	=25	=25	=25	=25	=25	=25	=25
+1c	-wie	1e	-wie	1g	-wie	1cc	-wie
+=26	=26	=26	=26	=26	=26	=26	=26
+2r	.	2r	.	2r	.	2r	.
+2c\	Zmar-	2c/	Zmar-	2e/	Zmar-	2g/	Zmar-
+=27	=27	=27	=27	=27	=27	=27	=27
+2A\	-łe-	2c/	-łe-	2e/	-łe-	2a/	-łe-
+2G\	-go	2d/	-go	2g/	-go	2b\	-go
+=28	=28	=28	=28	=28	=28	=28	=28
+2.c\	Pa-	2.e/	Pa-	2.g/	Pa-	2.cc\	Pa-
+4G\	-na	4d/	-na	4f/	-na	4b\	-na
+=29	=29	=29	=29	=29	=29	=29	=29
+2A\	ża-	2c/	ża-	2e/	ża-	2a/	ża-
+2c\	-łuj-	2c/	-łuj-	2e/	-łuj-	2g/	-łuj-
+=30	=30	=30	=30	=30	=30	=30	=30
+1F	-cie	1c	-cie	1f	-cie	1a	-cie
+=31	=31	=31	=31	=31	=31	=31	=31
+2d\	a-	2d/	a-	2a/	a-	2f/	a-
+2A\	-nio-	[2c#/	-ni-	2a/	-nio-	2e/	-nio-
+=32	=32	=32	=32	=32	=32	=32	=32
+1B-	-ło-	2c#/]	.	1g	-ło-	1d	-ło-
+.	.	2d/	-ło-	.	.	.	.
+=33	=33	=33	=33	=33	=33	=33	=33
+[1A	-wie.	[1c#	-wie.	[1a	-wie.	[1e	-wie.
+=34	=34	=34	=34	=34	=34	=34	=34
+1A]	.	1c#]	.	1a]	.	1e]	.
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!GTL: Hymnbook L 1642
+!!!EFL: 5/39
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-02-13 
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Translated from MusicXML and edited by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}

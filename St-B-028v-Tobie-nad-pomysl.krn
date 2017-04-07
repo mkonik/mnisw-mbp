@@ -1,0 +1,66 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL: Tobie na pomÿsł
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook B
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+!!!RDF*pag: 28v-29r
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: dr Marcin Konik
+!!!END: 2015-04/2015-05
+!!!EED: dr Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!title: @{OTL}, @{GTL}: p. @{RDF*pag}, ed. @{ENC}
+!!muse2ps: z14jc180F
+**kern
+*staff1
+*I"[Canto]
+*oclefC1
+*clefG2
+*M2/1
+=-
+!LO:TX:a:t=no meter indication
+1f
+2g
+2a
+2f
+2a
+4g
+4f
+2e
+1f
+2e
+2e
+1f
+1f
+1g
+1f
+1d;
+=-
+!!Original pagebreak
+1f
+2a
+2a
+1b
+1b
+1f
+1f
+2g
+1f
+2e
+1f
+1e
+1g
+2e
+1f
+!LO:TX:a:t=longa
+0d
+==
+*-

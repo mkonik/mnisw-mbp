@@ -1,0 +1,169 @@
+**kern	**kern	**text
+*staff1	*staff1	*staff1
+*I"Organo-m.s.	*I"Organo-m.d.	*
+=1-	=1-	=1-
+*clefF4	*clefG2	*
+*k[b-e-]	*k[b-e-]	*
+*met(c|)	*met(c|)	*
+*M2/2	*M2/2	*
+4.G	4g	Ky-
+.	4b-	.
+8E-	.	.
+4F	4a 4cc	.
+4B-	4b- 4dd	.
+=2	=2	=2
+8AL	4a 4cc	-ri-
+8DJ	.	.
+4G	4g 4b-	-e
+4D	4f# 4a	.
+4GG	4g	.
+=3	=3	=3
+8GL	2b-	e-
+8F	.	.
+8En	.	.
+8DJ	.	.
+4C	4en 4g	.
+8DL	4f	.
+8BB-J	.	.
+=4	=4	=4
+4C	4en 4g	.
+4FF	4f	.
+8CL	4e 4g	.
+16BB-L	.	.
+16AAJJ	.	.
+4G	4g 4b-	.
+=5	=5	=5
+4D	4f# 4a	.
+8E-L	4g 4b-	.
+8CJ	.	.
+8FL	4a 4cc	.
+8F#	.	.
+8G	4g 4b-	.
+8CJ	.	.
+=6	=6	=6
+4D	4f# 4a	-ley-
+4GG	4g	-son
+2r	2r	.
+!!linebreak:original
+=7||	=7||	=7||
+!	!LO:TX:Y=0:t=Preludium	!
+4G	8gL	.
+.	16aL	.
+.	16b-J	.
+8dL	8a	.
+8f#J	8ccJ	.
+4g	8b-L	.
+.	16ccL	.
+.	16ddJ	.
+8fnL	8cc	.
+8AJ	8ee-J	.
+=8	=8	=8
+8e-L	16ddLL	.
+.	16a	.
+8cJ	16b-	.
+.	16gJJ	.
+4d	4f# 4a	.
+4D	8r	.
+.	16dLL	.
+.	16f#JJ	.
+4GG 4G	4g	.
+=9||	=9||	=9||
+!!linebreak:original
+2BB-	4b- 4dd	Chri-
+.	4b- 4dd	-ste
+4F	4a 4cc	.
+8CL	4cc 4ee-	.
+8AAJ	.	.
+=10	=10	=10
+4BB-	4b- 4dd	.
+4F	4a 4cc	.
+4BB-	4b- 4dd	.
+4F	4a 4cc	.
+=11	=11	=11
+4BB-	4b-	.
+8E-L	4g 4b-	e-
+8CJ	.	.
+4F	4a 4cc	.
+8BB-L	4b- 4dd	.
+8FFJ	.	.
+=12	=12	=12
+4C	4cc 4ee-	.
+8DL	4b- 4dd	.
+8E-J	.	.
+8FL	4a 4cc	-ley-
+8FFJ	.	.
+4BB-	4b- 4dd	-son
+=13||	=13||	=13||
+!!linebreak:original
+!	!LO:TX:Y=0:t=[Preludium]	!
+8FL	8ffL	.
+8G	8een	.
+8A	8ee-	.
+8B-J	8ddJ	.
+8cL	8ccL	.
+8d	8b-	.
+8e-	8a	.
+8c#J	8gJ	.
+=14	=14	=14
+8dL	4f#	.
+8D	.	.
+8A	8cL	.
+8DJ	8f#J	.
+4G	4g	.
+4r	4r	.
+!!linebreak:original
+=15||	=15||	=15||
+4BB-	4b- 4dd	Ky-
+8AL	4a 4cc	.
+8F#J	.	.
+4G	4g 4b-	.
+8AL	4a 4cc	-ri-
+8F#J	.	.
+=16	=16	=16
+8GL	4g 4b-	.
+8D	.	.
+8F	4f 4a	-e
+8BB-J	.	.
+4C	4en 4g	.
+4GG	4b-	[e]-
+=17	=17	=17
+4C	4g	.
+8DL	4f	.
+8BB-J	.	.
+4C	4eni 4g	.
+4FF	4f	.
+=18	=18	=18
+4C	4eni 4g	.
+8GL	8b-L	.
+8DJ	8aJ	.
+8E-L	4b-	.
+8C	.	.
+8F	4a 4cc	.
+8F#J	.	.
+=19	=19	=19
+8GL	4g 4b-	.
+8CJ	.	.
+4D	4f# 4a	-ley-
+4GG 4G	4g	-son
+4r	4r	.
+==	==	==
+*-	*-	*-
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@@LAT: Kyrie eleison
+!!!ODT: 
+!!!GTL: Przemyśl Organ Book
+!!!ARL: Przemyśl Benedictine Monastery 
+!!title: @{OTL}, @{GTL}, ed. @{ENC}
+!!!pag:
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-03-01
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

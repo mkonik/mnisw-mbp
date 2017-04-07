@@ -1,0 +1,106 @@
+**recip	**kern	**text	**text	**text	**text	**text	**kern	**text	**text	**text	**text	**text	**kern	**text	**text	**text	**text	**text	**kern	**text	**text	**text	**text	**text
+*	*part4	*part4	*part4	*part4	*part4	*part4	*part3	*part3	*part3	*part3	*part3	*part3	*part2	*part2	*part2	*part2	*part2	*part2	*part1	*part1	*part1	*part1	*part1	*part1
+*	*staff4	*staff4	*staff4	*staff4	*staff4	*staff4	*staff3	*staff3	*staff3	*staff3	*staff3	*staff3	*staff2	*staff2	*staff2	*staff2	*staff2	*staff2	*staff1	*staff1	*staff1	*staff1	*staff1	*staff1
+*	*clefF4	*	*	*	*	*	*clefGv2	*	*	*	*	*	*clefG2	*	*	*	*	*	*clefG2	*	*	*	*	*
+*	*k[]	*	*	*	*	*	*k[]	*	*	*	*	*	*k[]	*	*	*	*	*	*k[]	*	*	*	*	*
+*	*M3/1	*	*	*	*	*	*M3/1	*	*	*	*	*	*M3/1	*	*	*	*	*	*M3/1	*	*	*	*	*
+=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
+2	[0D	1.A-	2.Su-	3.Mon-	4.Vi-	5.Sit	2A/	1.A-	2.Su-	3.Mon-	4.Vi-	5.Sit	0f	1.A-	2.Su-	3.Mon-	4.Vi-	5.Sit	0d	1.A-	2.Su-	3.Mon-	4.Vi-	5.Sit
+2	.	.	.	.	.	.	2G/	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+2	.	.	.	.	.	.	2F/	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+2	.	.	.	.	.	.	2E/	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+2	2D\]	.	.	.	.	.	[1F#	-ve	-mens	-stra	-tam	la-	1d	-ve	-mens	-stra	-tam	la-	1a	-ve	-mens	-stra	-tam	la-
+2	2C/	-ve	-mens	-stra	-tam	la-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+1	1BB	ma-	il-	te	prae-	-us	1F#]	.	.	.	.	.	0d	ma-	il-	te	prae-	-us	0b	ma-	il-	te	prae-	-us
+1	1GG	.	.	.	.	.	1G	.	.	te	.	-us	.	.	.	.	.	.	.	.	.	.	.	.
+1	1C	-ris	-lud	es-	-sta	De-	1E	ma-	il-	es-	prae-	De-	1e	-ris	-lud	es-	-sta	De-	1g	-ris	-lud	es-	-sta	De-
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+2	2F\	stel-	A-	.	pu-	.	2A/	.	.	.	.	.	0.f	stel-	A-	-se	pu-	-o	1.a	stel-	A-	-se	pu-	-o
+2	2G\	.	.	.	.	.	2B\	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+2	2F\	.	.	.	.	.	2A/	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4	2E\	.	.	.	.	.	2G/	.	.	.	.	.	.	.	.	.	.	.	4b\	.	.	.	.	.
+4	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4cc\	.	.	.	.	.
+2	1D	.	.	-se	.	-o	2F/	-ris	-lud	-se	-sta	-o	.	.	.	.	.	.	1dd	.	.	.	.	.
+2	.	.	.	.	.	.	2G/	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+1	1A	.	.	ma-	.	Pa-	0A	stel-	A-	ma-	pu-	Pa-	1e	.	.	ma-	.	Pa-	1cc	.	.	ma-	.	Pa-
+1	1D	.	.	.	.	.	.	.	.	.	.	.	1f	.	.	.	.	.	0b	.	.	.	.	.
+1	1E	.	.	.	.	.	1G#	.	.	.	.	.	1e	.	.	.	.	.	.	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+0.	0.AA	-la,	-ve	-trem:	-ram,	-tri,	0.A	-la,	-ve	-trem:	-ram,	-tri,	0.e	-la,	-ve	-trem:	-ram,	-tri,	0.a	-la,	-ve	-trem:	-ram,	-tri,
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+1	0D	De-	Ga-	su-	i-	sum-	1c	De-	Ga-	su-	i-	sum-	0f	De-	Ga-	su-	i-	sum-	0a	De-	Ga-	su-	i-	sum-
+1	.	.	.	.	.	.	1A	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+1	1BB	-i	-bri-	-mat	-ter	-mo	1B	-i	-bri-	-mat	-ter	-mo	1d	-i	-bri-	-mat	-ter	-mo	1d	-i	-bri-	-mat	-ter	-mo
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+2	1.AA	Ma-	-e-	per	pa-	Chri-	2c\	Ma-	-e-	per	pa-	Chri-	1c	Ma-	-e-	per	pa-	Chri-	2e/	Ma-	-e-	per	pa-	Chri-
+2	.	.	.	.	.	.	2B\	.	.	.	.	.	.	.	.	.	.	.	2d/	.	.	.	.	.
+2	.	.	.	.	.	.	2c\	.	.	.	.	.	1A	.	.	.	.	.	2e/	.	.	.	.	.
+4	4GG/	.	.	.	.	.	2d\	.	.	.	.	.	.	.	.	.	.	.	2f/	.	.	.	.	.
+4	4FF/	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+1	1EE	.	.	.	.	.	1e	-ter	-lis	te	-ra	-sto	1d	-ter	-lis	te	-ra	-sto	1g	-ter	-lis	te	-ra	-sto
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+1	1FF	-ter	-lis	te	-ra	-sto	1d	al-	o-	pre-	tu-	de-	1a	al-	o-	pre-	tu-	de-	1f	al-	o-	pre-	tu-	de-
+1	1GG	al-	o-	pre-	tu-	de-	1d	.	.	.	.	.	1b-	.	.	.	.	.	0e	.	.	.	.	.
+1	1AA	.	.	.	.	.	1c#	.	.	.	.	.	1a	.	.	.	.	.	.	.	.	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+0.	0.D	-ma,	-re,	-ces,	-tum:	-cus,	0.d	-ma,	-re,	-ces,	-tum:	-cus,	0.a	-ma,	-re,	-ces,	-tum:	-cus,	0.d	-ma,	-re,	-ces,	-tum:	-cus,
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+1	1D	at-	fun-	qui	ut	Spi-	1A	at-	fun-	qui	ut	Spi-	1f	at-	fun-	qui	ut	Spi-	0f	at-	fun-	qui	ut	Spi-
+1	1AA	.	.	.	.	.	1c	.	.	.	.	.	1c	.	.	.	.	.	.	.	.	.	.	.
+1	[1C	-que	-da	pro	vi-	-ri-	1G	-que	-da	pro	vi-	-ri-	1e	-que	-da	pro	vi-	-ri-	1e	-que	-da	pro	vi-	-ri-
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+1	1C]	.	.	.	.	.	1e	sem-	nos	no-	-den-	-tu-	1e	sem-	nos	no-	-den-	-tu-	0g	sem-	nos	no-	-den-	-tu-
+1	1BB	sem-	nos	no-	-den-	-tu-	1d	.	.	.	.	.	0g	.	.	.	.	.	.	.	.	.	.	.
+1	1C#	-per	in	-bis	-tes	-i	1e	.	.	.	.	.	.	.	.	.	.	.	1a	-per	in	-bis	-tes	-i
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+1.	1.D	Vir-	pa-	na-	Ie-	San-	1.f	-per	in	-bis	-tes	-i	0.f	-per	in	-bis	-tes	-i	1.d	Vir-	pa-	na-	Ie-	San-
+2	2C/	.	.	.	.	.	2e\	Vir-	pa-	na-	Ie-	San-	.	.	.	.	.	.	2e/	.	.	.	.	.
+2	2AA/	.	.	.	.	.	2c\	.	.	.	.	.	.	.	.	.	.	.	1f	.	.	.	.	.
+2	2BB/	.	.	.	.	.	2d\	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+2	1C	.	.	.	.	.	2e\	.	.	.	.	.	1g	Vir-	pa-	na-	Ie-	San-	1e	.	.	.	.	.
+2	.	.	.	.	.	.	2c\	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+1	1FF	.	.	.	.	.	1c	.	.	.	.	.	1a	.	.	.	.	.	0d	.	.	.	.	.
+1	1GG	.	.	.	.	.	1B	.	.	.	.	.	1g	.	.	.	.	.	.	.	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+1	1C	-go,	-ce,	-tus,	-sum	-cto,	1c	-go,	-ce,	-tus,	-sum	-cto,	1g	-go,	-ce,	-tus,	-sum	-cto,	1c	-go,	-ce,	-tus,	-sum	-cto,
+1	1C	fe-	mu-	tu-	sem-	tri-	1G	fe-	mu-	tu-	sem-	tri-	1g	fe-	mu-	tu-	sem-	tri-	1e	fe-	mu-	tu-	sem-	tri-
+1	1AA	-lix	-tans	-lit	-per	-bus	1A	-lix	-tans	-lit	-per	-bus	1c	-lix	-tans	-lit	-per	-bus	1f#	-lix	-tans	-lit	-per	-bus
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+2	2GG/	cae-	He-	es-	col-	ho-	2B\	cae-	He-	es-	col-	ho-	1d	cae-	He-	es-	col-	ho-	1.g	cae-	He-	es-	col-	ho-
+2	2GG/	-li	-vae	-se	-lae-	-nor	2A/	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+2	2GG/	por-	no-	tu-	-te-	u-	2B\	.	.	.	.	.	1g	-li	-vae	-se	-lae-	-nor	.	.	.	.	.	.
+2	2AA/	.	.	.	.	.	2c\	.	.	.	.	.	.	.	.	.	.	.	2f/	.	.	.	.	.
+2	1BB-	.	.	.	.	.	1d	-li	-vae	-se	-lae-	-nor	2f/	por-	no-	tu-	-te-	u-	2d/	-li	-vae	-se	-lae-	-nor
+2	.	.	.	.	.	.	.	.	.	.	.	.	2g/	.	.	.	.	.	2e/	.	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+1	1FF	.	.	.	.	.	1d	por-	no-	tu-	-te-	u-	1a	.	.	.	.	.	1f	por-	no-	tu-	-te-	u-
+1	1GG	.	.	.	.	.	1d	.	.	.	.	.	1b-	.	.	.	.	.	0e	.	.	.	.	.
+1	1AA	.	.	.	.	.	1c#	.	.	.	.	.	1a	.	.	.	.	.	.	.	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+0.	0.D	-ta.	-men.	-us.	.	-nus.	0.d	-ta.	-men.	-us.	.	-nus.	0.a	-ta.	-men.	-us.	.	-nus.	0.d	-ta.	-men.	-us.	.	-nus.
+==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!OTL: Ave maris stella 
+!!!COM: Leszczyński, Władysław
+!!!CDT: 1618/1680-09-24
+!!!TXO: Latin
+!!!ODT: 
+!!!ARL: Archiwum Kapituły Katedralne na Wawelu
+!!!voices:	4
+!!title: @{OTL}, @{GTL}, ed. @{ENC}
+!!!pag:
+!!!GTL: 
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-03-06
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

@@ -1,0 +1,83 @@
+!!!COM: Anonymous
+!!!OTL@@LAT: Decantemus hodie
+!!!OTL@@POL: Śpiewajmy dziś krzykliwie
+!!!TXO: Polish/Latin
+!!!ODT: 
+!!!GTL: Hymnbook L 1642(a)
+!!!ARL: Biblioteka Diecezjalna w Sandomierzu 
+!!!voices:	3
+**kern	**text	**kern	**text	**kern	**text
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Canto II	*	*I"Canto I	*
+=1-	=1-	=1-	=1-	=1-	=1-
+*clefF4	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*
+*met(c|)	*	*met(c|)	*	*met(c|)	*
+*M2/2	*	*M2/2	*	*M2/2	*
+2G\	De-	2g/	De-	2g/	De-
+2G\	-can-	2b\	-can-	2dd\	-can-
+=2	=2	=2	=2	=2	=2
+2G\	-te-	2b\	-te-	2dd\	-te-
+2G\	-mus	2b\	-mus	2dd\	-mus
+=3	=3	=3	=3	=3	=3
+2C/	ho-	2cc\	ho-	2ee\	ho-
+2D\	-di-	2b\	-di-	2dd\	-di-
+=4	=4	=4	=4	=4	=4
+1GG	-e	1g	-e	1b	-e
+=5	=5	=5	=5	=5	=5
+2G\	Re-	2g/	Re-	2g/	Re-
+2G\	-gi	2b\	-gi	2dd\	-gi
+=6	=6	=6	=6	=6	=6
+2G\	re-	2b\	re-	2dd\	re-
+2G\	-gum	2b\	-gum	2dd\	-gum
+=7	=7	=7	=7	=7	=7
+2C/	glo-	2cc\	glo-	2ee\	glo-
+2D\	-ri-	2b\	-ri-	2dd\	-ri-
+=8	=8	=8	=8	=8	=8
+1GG	-ae	1g	-ae	1b	-ae
+=9||	=9||	=9||	=9||	=9||	=9||
+4G\	Qui	4g/	Qui	4b\	Qui
+4D\	est	4f#/	est	4a/	est
+4G\	na-	4g/	na-	4b\	na-
+4F#\	-tus	4a/	-tus	4cc\	-tus
+=10	=10	=10	=10	=10	=10
+4G\	no-	4g/	no-	4b\	no-
+4D\	-bis	4f#/	-bis	4a/	-bis
+4G\	da-	4g/	da-	4b\	da-
+4F#\	-tus	4a/	-tus	4cc\	-tus
+=11	=11	=11	=11	=11	=11
+2G\	in	2g/	in	2b\	in
+2D\	mun-	2f#/	mun-	2a/	mun-
+=12	=12	=12	=12	=12	=12
+1GG	-do	1g	-do	1g	-do
+=13	=13	=13	=13	=13	=13
+4G\	Qui	4g/	Qui	4b\	Qui
+4D\	pro-	4f#/	pro-	4a/	pro-
+4G\	-stra-	4g/	-stra-	4b\	-stra-
+4F#\	-vit	4a/	-vit	4cc\	-vit
+=14	=14	=14	=14	=14	=14
+4G\	su-	4g/	su-	4b\	su-
+4D\	-pe-	4f#/	-pe-	4a/	-pe-
+4G\	-ra-	4g/	-ra-	4b\	-ra-
+4F#\	-vit	4a/	-vit	4cc\	-vit
+=15	=15	=15	=15	=15	=15
+2G\	in	2g/	in	2b\	in
+2D\	mun-	2f#/	mun-	2a/	mun-
+=16	=16	=16	=16	=16	=16
+[1GG	-do.	[1g	-do.	[1g	-do.
+=17	=17	=17	=17	=17	=17
+1GG]	.	1g]	.	1g]	.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!GTL: Hymnbook L 1642(a)
+!!!EFL: 32/34
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-01-21 
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Translated from MusicXML and edited by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}

@@ -1,0 +1,68 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL: Salve Regina stella matutina
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook B
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+!!!RDF*pag: 20v-21r
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: dr Marcin Konik
+!!!END: 2015-04/2015-05
+!!!EED: dr Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!title: @{OTL}, @{GTL}: p. @{RDF*pag}, ed. @{ENC}
+!!muse2ps: z14jc180F
+**kern
+*staff1
+*I"[Canto]
+*oclefG2
+*clefG2
+*M2/1
+=-
+!LO:TX:a:t=no meter indication
+2.dd
+4cc#
+4dd
+4ee
+2.ff
+4ee
+2dd
+1dd
+1cc#
+2dd
+2cc#
+2dd
+2cc#
+2.dd
+4dd
+2dd
+2cc
+1a
+1b
+2r
+2dd
+2cc#
+=-
+!!Original pagebreak
+2dd
+2.ee
+4dd
+2ee
+2ff
+2dd
+2cc#
+1.dd
+4cc
+4b
+1cc#
+!LO:TX:a:t=longa
+0dd
+==
+*-

@@ -1,0 +1,338 @@
+**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Tenore	*	*I"Alto	*	*I"Soprano II	*	*I"Soprano I	*
+=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
+*clefGv2	*	*clefGv2	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*
+*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
+[1F	Tam-	[1f	Tam-	[1a	Tam-	[1cc	Tam-
+=2	=2	=2	=2	=2	=2	=2	=2
+1F]	.	1f]	.	1a]	.	1cc]	.
+=3	=3	=3	=3	=3	=3	=3	=3
+[1A	-quam	1f	-quam	[1a	.	[1cc	.
+=4	=4	=4	=4	=4	=4	=4	=4
+1A]	.	1e	.	1a]	.	1cc]	.
+=5	=5	=5	=5	=5	=5	=5	=5
+[1c	ad	2r	.	2g/	.	1ee	-quam
+.	.	[2g\	ad	2cc\	-quam	.	.
+=6	=6	=6	=6	=6	=6	=6	=6
+2c\]	.	2g\]	.	2g/	ad	2gg\	ad
+2c\	la-	2a\	la-	[2cc\	la-	2ee\	la-
+=7	=7	=7	=7	=7	=7	=7	=7
+1d	-tro-	2f\	-tro-	4cc\]	.	1ff	-tro-
+.	.	.	.	8b/L	.	.	.
+.	.	.	.	8a/J	.	.	.
+.	.	4e\	.	2b\	-tro-	.	.
+.	.	4d\	.	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8
+1c	-nem	1g	.	1cc	-nem	1ee	-nem
+=9	=9	=9	=9	=9	=9	=9	=9
+1c	ex-	2e\	-nem	2r	.	2r	.
+.	.	2e\	ex-	2g/	ex-	2cc\	ex-
+=10	=10	=10	=10	=10	=10	=10	=10
+1c	-i-	1e	-i-	1g	-i-	1cc	-i-
+=11	=11	=11	=11	=11	=11	=11	=11
+!!linebreak:original
+2G/	-stis	2d\	-stis	2g/	-stis	2b\	-stis
+2A/	cum	2c\	cum	2e/	cum	2cc\	cum
+=12	=12	=12	=12	=12	=12	=12	=12
+2.F/	gla-	2.c\	gla-	2.f/	gla-	2.a/	gla-
+4F/	-di-	4c\	-di-	4f/	-di-	4a/	-di-
+=13	=13	=13	=13	=13	=13	=13	=13
+2F/	-is	2c\	-is	2f/	-is	2a/	-is
+2E/	et	2e\	et	2g/	et	2b\	et
+=14	=14	=14	=14	=14	=14	=14	=14
+2.A/	fu-	2.c\	fu-	2.e/	fu-	2.cc\	fu-
+4A/	-sti-	4c\	-sti-	4f/	-sti-	4cc\	-sti-
+=15	=15	=15	=15	=15	=15	=15	=15
+1G	-bus	1d	-bus	1g	-bus	1b	-bus
+=16	=16	=16	=16	=16	=16	=16	=16
+1c	com-	1e	com-	1g	com-	2r	.
+.	.	.	.	.	.	[2cc\	com-
+=17	=17	=17	=17	=17	=17	=17	=17
+1F	-pre-	1f	-pre-	1a	-pre-	2cc\]	.
+.	.	.	.	.	.	2cc\	-pre-
+=18	=18	=18	=18	=18	=18	=18	=18
+1A	-hen-	1c	-hen-	2.e/	-hen-	1cc	-hen-
+.	.	.	.	4e/	-de-	.	.
+=19	=19	=19	=19	=19	=19	=19	=19
+1G	-de-	1e	-de-	[1g	-re	2b\	-de-
+.	.	.	.	.	.	[2cc\	-re
+=20	=20	=20	=20	=20	=20	=20	=20
+1G	-re	1d	-re	1g]	.	4cc\]	.
+.	.	.	.	.	.	8b/L	.
+.	.	.	.	.	.	8a/J	.
+.	.	.	.	.	.	2b\	.
+=21	=21	=21	=21	=21	=21	=21	=21
+[1C	me:	[1c	me:	[1g	me:	[1cc	me:
+=22	=22	=22	=22	=22	=22	=22	=22
+1C]	.	1c]	.	1g]	.	1cc]	.
+!!linebreak:original
+=23||	=23||	=23||	=23||	=23||	=23||	=23||	=23||
+!!linebreak:original
+[1F	Quo-	[1c	Quo-	[1f	Quo-	[1a	Quo-
+=24	=24	=24	=24	=24	=24	=24	=24
+1F]	.	1c]	.	1f]	.	1a]	.
+=25	=25	=25	=25	=25	=25	=25	=25
+[1A	-ti-	[1c	-ti-	[1e	-ti-	[1a	-ti-
+=26	=26	=26	=26	=26	=26	=26	=26
+2A/]	.	2c\]	.	2e/]	.	2a/]	.
+2A/	-di-	2c\	-di-	2e/	-di-	2a/	-di-
+=27	=27	=27	=27	=27	=27	=27	=27
+1A	-e	1c	-e	1e	-e	2a/	-e
+.	.	.	.	.	.	[2cc\	a-
+=28	=28	=28	=28	=28	=28	=28	=28
+1G	a-	1d	a-	1g	a-	2cc\]	.
+.	.	.	.	.	.	2b\	-pud
+=29	=29	=29	=29	=29	=29	=29	=29
+1c	-pud	1e	-pud	1g	-pud	[1cc	vos
+=30	=30	=30	=30	=30	=30	=30	=30
+1F	vos	1f	vos	1a	vos	1cc]	.
+=31	=31	=31	=31	=31	=31	=31	=31
+1B-	e-	1f	e-	1b-	e-	1dd	e-
+=32	=32	=32	=32	=32	=32	=32	=32
+2B-i\	-ram	2f\	-ram	2b-\	-ram	2dd\	-ram
+2B-\	in	2f\	in	2b-\	in	2dd\	in
+=33	=33	=33	=33	=33	=33	=33	=33
+1G	tem-	1g	tem-	1b-i	tem-	1dd	tem-
+=34	=34	=34	=34	=34	=34	=34	=34
+!!pagebreak:original
+1A	-plo	1e	-plo	1a	-plo	1cc	-plo
+=35	=35	=35	=35	=35	=35	=35	=35
+1F	do-	1f	do-	1a	do-	1cc	do-
+=36	=36	=36	=36	=36	=36	=36	=36
+1c	-cens,	1e	-cens,	1g	-cens,	1cc	-cens,
+=37	=37	=37	=37	=37	=37	=37	=37
+2r	.	2r	.	2r	.	2r	.
+2A/	et	2e\	et	2a/	et	2cc\	et
+=38	=38	=38	=38	=38	=38	=38	=38
+2A/	non	2e\	non	2a/	non	2cc\	non
+2d\	me	2f\	me	2a/	me	2dd\	me
+=39	=39	=39	=39	=39	=39	=39	=39
+2c\	te-	2g\	te-	2cc\	te-	2ee\	te-
+2A/	-nu-	2c\	-nu-	2cc\	-nu-	2ff\	-nu-
+=40	=40	=40	=40	=40	=40	=40	=40
+1B-	-i-	1d	-i-	2f/	-i-	1dd	-i-
+.	.	.	.	2g/	.	.	.
+=41	=41	=41	=41	=41	=41	=41	=41
+2A/	-stis:	1e	-stis:	1a	-stis:	2cc#\	-stis:
+2A/	et	.	.	.	.	2cc#\	et
+=42	=42	=42	=42	=42	=42	=42	=42
+2B-\	ec-	1r	.	2r	.	2dd\	ec-
+2A/	-ce	.	.	2a/	et	2cc#\	-ce
+=43	=43	=43	=43	=43	=43	=43	=43
+2G/	fla-	1r	.	2b-\	ec-	2dd\	fla-
+2F/	-gel-	.	.	2a/	-ce	2ff\	-gel-
+=44	=44	=44	=44	=44	=44	=44	=44
+[1c	-la-	1r	.	2g/	fla-	2ee\	-la-
+.	.	.	.	2a/	-gel-	[2ff\	.
+=45	=45	=45	=45	=45	=45	=45	=45
+!!linebreak:original
+1c]	.	1r	.	1g	-la-	2ff\]	.
+.	.	.	.	.	.	2ee\	.
+=46	=46	=46	=46	=46	=46	=46	=46
+1F	-tum	1r	.	1a	-tum	1ff	-tum
+=47	=47	=47	=47	=47	=47	=47	=47
+2r	.	2r	.	2r	.	2r	.
+[2B-\	du-	[2f\	du-	[2b-\	du-	[2dd\	du-
+=48	=48	=48	=48	=48	=48	=48	=48
+2B-\]	.	2f\]	.	2b-\]	.	2dd\]	.
+2F/	-ci-	2f\	-ci-	2a/	-ci-	2cc\	-ci-
+=49	=49	=49	=49	=49	=49	=49	=49
+[1F	-tis	[1f	-tis	[1a	-tis	[1cc	-tis
+=50	=50	=50	=50	=50	=50	=50	=50
+1F]	.	1f]	.	1a]	.	1cc]	.
+=51	=51	=51	=51	=51	=51	=51	=51
+2c\	ad	2e\	ad	2g/	ad	2cc\	ad
+2A/	cru-	2a\	cru-	2cc\	cru-	2ee\	cru-
+=52	=52	=52	=52	=52	=52	=52	=52
+2d\	-ci-	2f\	-ci-	2a/	-ci-	2dd\	-ci-
+2d\	-fi-	2f\	-fi-	2f/	-fi-	2b\	-fi-
+=53	=53	=53	=53	=53	=53	=53	=53
+[1c	-gen-	[1e	-gen-	[1g	-gen-	[1cc	-gen-
+=54	=54	=54	=54	=54	=54	=54	=54
+1c]	.	1e]	.	1g]	.	1cc]	.
+=55	=55	=55	=55	=55	=55	=55	=55
+[1F	-dum.	[1f	-dum.	[1a	-dum.	[1cc	-dum.
+=56	=56	=56	=56	=56	=56	=56	=56
+1F]	.	1f]	.	1a]	.	1cc]	.
+!!linebreak:original
+=57||	=57||	=57||	=57||	=57||	=57||	=57||	=57||
+!!linebreak:original
+1r	.	[1f	Cum-	1r	.	1r	.
+=58	=58	=58	=58	=58	=58	=58	=58
+1r	.	2f\]	.	1r	.	[1cc	Cum-
+.	.	2e\	-que	.	.	.	.
+=59	=59	=59	=59	=59	=59	=59	=59
+1r	.	2f\	in-	1r	.	2cc\]	.
+.	.	2g\	-je-	.	.	2b\	-que
+=60	=60	=60	=60	=60	=60	=60	=60
+1r	.	2a\	-cis-	1r	.	2cc\	in-
+.	.	2f\	-sent	.	.	2dd\	-je-
+=61	=61	=61	=61	=61	=61	=61	=61
+1r	.	2g\	ma-	1r	.	2ee\	-cis-
+.	.	2e\	-nus	.	.	2cc\	-sent
+=62	=62	=62	=62	=62	=62	=62	=62
+1r	.	2f\	in	1r	.	2dd\	ma-
+.	.	[2g\	Je-	.	.	2b\	-nus
+=63	=63	=63	=63	=63	=63	=63	=63
+1r	.	4g\]	.	1r	.	2dd\	in
+.	.	4g\	.	.	.	.	.
+.	.	2e\	.	.	.	[2cc\	Je-
+=64	=64	=64	=64	=64	=64	=64	=64
+1r	.	1d	.	1r	.	4cc\]	.
+.	.	.	.	.	.	8b/L	.
+.	.	.	.	.	.	8a/J	.
+.	.	.	.	.	.	2b\	.
+=65	=65	=65	=65	=65	=65	=65	=65
+1r	.	2c\	-sum,	1ee	et	2cc\	-sum,
+.	.	2c\	et	.	.	2cc\	et
+=66	=66	=66	=66	=66	=66	=66	=66
+1r	.	2g\	te-	2dd\	te-	2b\	te-
+.	.	2c\	-nu-	2ee\	-nu-	2cc\	-nu-
+=67	=67	=67	=67	=67	=67	=67	=67
+1r	.	2f\	-is-	2cc\	-is-	2a/	-is-
+.	.	2d\	-sent	2dd\	-sent	2b\	-sent
+=68	=68	=68	=68	=68	=68	=68	=68
+!!pagebreak:original
+1r	.	1c	e-	1ee	e-	1cc	e-
+=69	=69	=69	=69	=69	=69	=69	=69
+1r	.	1g	-um,	1dd	-um,	1b	-um,
+=70	=70	=70	=70	=70	=70	=70	=70
+1r	.	1r	.	1r	.	2r	.
+.	.	.	.	.	.	[2dd\	di-
+=71	=71	=71	=71	=71	=71	=71	=71
+1r	.	1g	di-	1b	di-	2dd\]	.
+.	.	.	.	.	.	[2ee\	-xit
+=72	=72	=72	=72	=72	=72	=72	=72
+1r	.	1a	-xit	1cc	-xit	2ee\]	.
+.	.	.	.	.	.	[2cc\	di-
+=73	=73	=73	=73	=73	=73	=73	=73
+1r	.	1f	ad	1a	ad	2cc\]	.
+.	.	.	.	.	.	[2dd\	-xit
+=74	=74	=74	=74	=74	=74	=74	=74
+1r	.	2g\	e-	2b\	e-	2dd\]	.
+.	.	4f\	.	[2cc\	.	[2ee\	ad
+.	.	4e\	.	.	.	.	.
+=75	=75	=75	=75	=75	=75	=75	=75
+1r	.	1a	.	2cc\]	.	2ee\]	.
+.	.	.	.	4b\	.	4dd\	.
+.	.	.	.	4a/	.	4cc\	.
+=76	=76	=76	=76	=76	=76	=76	=76
+1r	.	1g	.	1b	.	1dd	e-
+=77	=77	=77	=77	=77	=77	=77	=77
+1r	.	[1c	-os.	[1cc	-os.	[1ee	-os.
+=78	=78	=78	=78	=78	=78	=78	=78
+1r	.	1c]	.	1cc]	.	1ee]	.
+!!linebreak:original
+=79||	=79||	=79||	=79||	=79||	=79||	=79||	=79||
+[1F	Quo-	[1c	Quo-	[1f	Quo-	[1a	Quo-
+=80	=80	=80	=80	=80	=80	=80	=80
+1F]	.	1c]	.	1f]	.	1a]	.
+=81	=81	=81	=81	=81	=81	=81	=81
+[1A	-ti-	[1c	-ti-	[1e	-ti-	[1a	-ti-
+=82	=82	=82	=82	=82	=82	=82	=82
+2A/]	.	2c\]	.	2e/]	.	2a/]	.
+2A/	-di-	2c\	-di-	2e/	-di-	2a/	-di-
+=83	=83	=83	=83	=83	=83	=83	=83
+1A	-e	1c	-e	1e	-e	2a/	-e
+.	.	.	.	.	.	[2cc\	a-
+=84	=84	=84	=84	=84	=84	=84	=84
+1G	a-	1d	a-	1g	a-	2cc\]	.
+.	.	.	.	.	.	2b\	-pud
+=85	=85	=85	=85	=85	=85	=85	=85
+1c	-pud	1e	-pud	1g	-pud	[1cc	vos
+=86	=86	=86	=86	=86	=86	=86	=86
+1F	vos	1f	vos	1a	vos	1cc]	.
+=87	=87	=87	=87	=87	=87	=87	=87
+1B-	e-	1f	e-	1b-	e-	1dd	e-
+=88	=88	=88	=88	=88	=88	=88	=88
+2B-i\	-ram	2f\	-ram	2b-\	-ram	2dd\	-ram
+2B-\	in	2f\	in	2b-\	in	2dd\	in
+=89	=89	=89	=89	=89	=89	=89	=89
+1G	tem-	1g	tem-	1b-i	tem-	1dd	tem-
+=90	=90	=90	=90	=90	=90	=90	=90
+1A	-plo	1e	-plo	1a	-plo	1cc	-plo
+=91	=91	=91	=91	=91	=91	=91	=91
+1F	do-	1f	do-	1a	do-	1cc	do-
+=92	=92	=92	=92	=92	=92	=92	=92
+!!linebreak:original
+1c	-cens,	1e	-cens,	1g	-cens,	1cc	-cens,
+=93	=93	=93	=93	=93	=93	=93	=93
+2r	.	2r	.	2r	.	2r	.
+2A/	et	2e\	et	2a/	et	2cc\	et
+=94	=94	=94	=94	=94	=94	=94	=94
+2A/	non	2e\	non	2a/	non	2cc\	non
+2d\	me	2f\	me	2a/	me	2dd\	me
+=95	=95	=95	=95	=95	=95	=95	=95
+2c\	te-	2g\	te-	2cc\	te-	2ee\	te-
+2A/	-nu-	2c\	-nu-	2cc\	-nu-	2ff\	-nu-
+=96	=96	=96	=96	=96	=96	=96	=96
+1B-	-i-	1d	-i-	2f/	-i-	1dd	-i-
+.	.	.	.	2g/	.	.	.
+=97	=97	=97	=97	=97	=97	=97	=97
+2A/	-stis:	1e	-stis:	1a	-stis:	2cc#\	-stis:
+2A/	et	.	.	.	.	2cc#\	et
+=98	=98	=98	=98	=98	=98	=98	=98
+2B-\	ec-	1r	.	2r	.	2dd\	ec-
+2A/	-ce	.	.	2a/	et	2cc#\	-ce
+=99	=99	=99	=99	=99	=99	=99	=99
+2G/	fla-	1r	.	2b-\	ec-	2dd\	fla-
+2F/	-gel-	.	.	2a/	-ce	2ff\	-gel-
+=100	=100	=100	=100	=100	=100	=100	=100
+[1c	-la-	1r	.	2g/	fla-	2ee\	-la-
+.	.	.	.	2a/	-gel-	[2ff\	.
+=101	=101	=101	=101	=101	=101	=101	=101
+1c]	.	1r	.	1g	-la-	2ff\]	.
+.	.	.	.	.	.	2ee\	.
+=102	=102	=102	=102	=102	=102	=102	=102
+1F	-tum	1r	.	1a	-tum	1ff	-tum
+=103	=103	=103	=103	=103	=103	=103	=103
+!!pagebreak:original
+2r	.	2r	.	2r	.	2r	.
+[2B-\	du-	[2f\	du-	[2b-\	du-	[2dd\	du-
+=104	=104	=104	=104	=104	=104	=104	=104
+2B-\]	.	2f\]	.	2b-\]	.	2dd\]	.
+2F/	-ci-	2f\	-ci-	2a/	-ci-	2cc\	-ci-
+=105	=105	=105	=105	=105	=105	=105	=105
+[1F	-tis	[1f	-tis	[1a	-tis	[1cc	-tis
+=106	=106	=106	=106	=106	=106	=106	=106
+1F]	.	1f]	.	1a]	.	1cc]	.
+=107	=107	=107	=107	=107	=107	=107	=107
+2c\	ad	2e\	ad	2g/	ad	2cc\	ad
+2A/	cru-	2a\	cru-	2cc\	cru-	2ee\	cru-
+=108	=108	=108	=108	=108	=108	=108	=108
+2d\	-ci-	2f\	-ci-	2a/	-ci-	2dd\	-ci-
+2d\	-fi-	2f\	-fi-	2f/	-fi-	2b\	-fi-
+=109	=109	=109	=109	=109	=109	=109	=109
+[1c	-gen-	[1e	-gen-	[1g	-gen-	[1cc	-gen-
+=110	=110	=110	=110	=110	=110	=110	=110
+1c]	.	1e]	.	1g]	.	1cc]	.
+=111	=111	=111	=111	=111	=111	=111	=111
+[1F	-dum.	[1f	-dum.	[1a	-dum.	[1cc	-dum.
+=112	=112	=112	=112	=112	=112	=112	=112
+1F]	.	1f]	.	1a]	.	1cc]	.
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!OTL: Tamquam ad latronem 
+!!!COM: Ingegneri, Marc' Antonio
+!!!CDT: ca. 1535/36-1592-07-01
+!!!TXO: Latin
+!!!ODT: 
+!!!ARL: Klasztor OO. Paulinów na Jasnej Górze
+!!!voices:	5
+!!title: @{OTL}, @{GTL}, ed. @{ENC}
+!!!pag:
+!!!GTL: Responsoria in Hebdomada majore
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-0m-dd
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

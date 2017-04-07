@@ -1,0 +1,85 @@
+!!!COM: Anonymous
+!!!OTL@@LAT: Natus est parvulus
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook L 1642(a)
+!!!ARL: Biblioteka Diecezjalna w Sandomierzu 
+!!!voices:	3
+**kern	**text	**kern	**text	**kern	**text
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Canto II	*	*I"Canto I	*
+=1-	=1-	=1-	=1-	=1-	=1-
+*clefF4	*	*clefG2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*
+*met(c|)	*	*met(c|)	*	*met(c|)	*
+*M2/2	*	*M2/2	*	*M2/2	*
+2F\	Na-	2a/	Na-	2cc\	Na-
+4F\	-tus	4a/	-tus	4cc\	-tus
+4G\	est	4b-\	est	4b-\	est
+=2	=2	=2	=2	=2	=2
+2F\	par-	2cc\	par-	2a/	par-
+4F\	-vu-	4cc\	-vu-	4a/	-vu-
+4BB-/	-lus	4b-\	-lus	4b-\	-lus
+=3	=3	=3	=3	=3	=3
+2F\	ho-	2a/	ho-	2cc\	ho-
+2C/	-di-	2g/	-di-	2cc\	-di-
+=4	=4	=4	=4	=4	=4
+1F	-e	1a	-e	1f	-e
+=5	=5	=5	=5	=5	=5
+2F\	Con-	2a/	Con-	2cc\	Con-
+4F\	-tra	4a/	-tra	4cc\	-tra
+4G\	iu-	4b-\	iu-	4b-\	iu-
+=6	=6	=6	=6	=6	=6
+2F\	-di-	2cc\	-di-	2a/	-di-
+4F\	-ci-	4cc\	-ci-	4a/	-ci-
+4BB-/	-um	4b-\	-um	4b-\	-um
+=7	=7	=7	=7	=7	=7
+2F\	na-	2a/	na-	2cc\	na-
+2C/	-tu-	2g/	-tu-	2cc\	-tu-
+=8	=8	=8	=8	=8	=8
+1F	-rae	1a	-rae	1f	-rae
+=9||	=9||	=9||	=9||	=9||	=9||
+2C/	Plau-	2g/	Plau-	2cc\	Plau-
+4C/	-di-	4g/	-di-	4cc\	-di-
+4GG/	-te	4bni\	-te	4dd\	-te
+=10	=10	=10	=10	=10	=10
+2C/	co-	2cc\	co-	2ee\	co-
+4C/	-mi-	4cc\	-mi-	4ee\	-mi-
+4G\	-ter	4bni\	-ter	4dd\	-ter
+=11	=11	=11	=11	=11	=11
+2C/	psal-	2g/	psal-	2gg\	psal-
+4C/	-li-	4g/	-li-	4gg\	-li-
+4GG/	-te	4bni\	-te	4ff\	-te
+=12	=12	=12	=12	=12	=12
+2C/	su͜ a-	2cc\	su͜ a-	2ee\	su͜ a-
+4C/	-vi-	4cc\	-vi-	4ee\	-vi-
+4G\	-ter	4bni\	-ter	4dd\	-ter
+=13	=13	=13	=13	=13	=13
+2C/	co-	2g/	co-	2gg\	co-
+4C/	-mi-	4g/	-mi-	4gg\	-mi-
+4GG/	-ter	4bn\	-ter	4ff\	-ter
+=14	=14	=14	=14	=14	=14
+2C/	su͜ a-	2cc\	su͜ a-	2ee\	su͜ a-
+4C/	-vi-	4cc\	-vi-	4ee\	-vi-
+4G\	-ter	4bni\	-ter	4dd\	-ter
+=15	=15	=15	=15	=15	=15
+2C/	Do-	2g/	Do-	2cc\	Do-
+2GG/	-mi-	2g/	-mi-	2bni\	-mi-
+=16	=16	=16	=16	=16	=16
+[1C	-no.	[1g	-no.	[1cc	-no.
+=17	=17	=17	=17	=17	=17
+1C]	.	1g]	.	1cc]	.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!GTL: Hymnbook L 1642(a)
+!!!EFL: 30/34
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-01-19 
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Translated from MusicXML and edited by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}

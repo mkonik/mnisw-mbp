@@ -1,0 +1,69 @@
+!!!COM: Anonymous 
+!!!LYR: 
+!!!OTL@@POL: Bądź wiesioła Panno czysta
+!!!PPR:
+!!!PDT:
+!!!PPP:
+!!!ENC: dr Marcin Konik
+!!!END: 2015-03-11
+!!!YOO:
+!!title: @{OTL}, @{GTL}, ed. @{ENC}
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!EED: Marcin Konik
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+**kern	**kern	**kern
+*staff3	*staff2	*staff1
+*clefF4	*clefG2	*clefG2
+*k[]	*k[]	*k[]
+*M2/1	*M2/1	*M2/1
+=1-	=1-	=1-
+1A	1A	1a
+2G	2e	2b
+2E	2e	2b
+=2	=2	=2
+1C	1g	1cc
+2G	2b	2ee
+2A	2cc	[2ee
+=3	=3	=3
+1F	1a	2ee]
+.	.	2dd
+1E	1b	1ee
+=4	=4	=4
+2r	2r	2r
+2AA	2a	2ee
+2AA	2a	2ee
+2AA	2f#	2cc
+=5	=5	=5
+1E	1g	1b
+2.G	2.b	2.ee
+4E	4g	4cc
+=6	=6	=6
+2F	2a	2dd
+2E	1g	1cc
+1D	.	.
+.	2f#	2b
+=7	=7	=7
+1C	1g	1cc
+1E	1g	2.ee
+.	.	4dd
+=8	=8	=8
+2F	2a	2cc
+1D	1f	1b
+2F	2a	2a
+=9	=9	=9
+1E	2.g	2.cc
+.	4e	4a
+2D	2f#	2b
+2C	[2e	[2a
+=10	=10	=10
+1BB	4e]	4a]
+.	4e-	4g#
+.	4e-	4g#
+.	4c#	4f#
+1AA	1e	1a
+==	==	==
+*-	*-	*-

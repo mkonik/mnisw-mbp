@@ -1,0 +1,92 @@
+!!!COM: Anonymous
+!!!OTL@@POL: Któż mi doda gorzkich łez
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook L 1642
+!!!ARL: Biblioteka Diecezjalna w Sandomierzu 
+!!!voices:	4
+**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Canto III	*	*I"Canto II	*	*I"Canto I	*
+=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
+*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
+*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*
+*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
+1D	Kt&oacute;ż	1f	Kt&oacute;ż	1a	Kt&oacute;ż	1dd	Kt&oacute;ż
+=2	=2	=2	=2	=2	=2	=2	=2
+2AA/	mi	2e/	mi	2a/	mi	2cc\	mi
+2FF/	do-	2f/	do-	2a/	do-	2a/	do-
+=3	=3	=3	=3	=3	=3	=3	=3
+2G\	-da	2d/	-da	2g/	-da	2b-\	-da
+2E\	gorz-	2g/	gorz-	2g/	gorz-	2cc\	gorz-
+=4	=4	=4	=4	=4	=4	=4	=4
+1D	-kich	1d	-kich	4f/	-kich	1a	-kich
+.	.	.	.	4e/	.	.	.
+.	.	.	.	2f/	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5
+1GG	łez	1d	łez	1g	łez	1b-	łez
+=6	=6	=6	=6	=6	=6	=6	=6
+2r	.	2r	.	2r	.	2r	.
+[2D\	u-	[2f/	u-	[2a/	u-	[2dd\	u-
+=7	=7	=7	=7	=7	=7	=7	=7
+2D\]	.	2f/]	.	2a/]	.	2dd\]	.
+2AA/	-sta-	2e/	-sta-	2a/	-sta-	2cc\	-sta-
+=8	=8	=8	=8	=8	=8	=8	=8
+2BB-/	-wnie	4d/	-wnie	4f/	-wnie	2b-\	-wnie
+.	.	4e/	.	4g/	.	.	.
+2FF/	pły-	2f/	pły-	4a/	pły-	2a/	pły-
+.	.	.	.	4f/	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9
+1C	-ną-	4e/	-ną-	1g	-ną-	1g	-ną-
+.	.	4d/	.	.	.	.	.
+.	.	2e/	.	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10
+1FF	-cych	1f	-cych	1f	-cych	1a	-cych
+=11	=11	=11	=11	=11	=11	=11	=11
+1D	Kto	1a	Kto	1dd	Kto	1ff	Kto
+=12	=12	=12	=12	=12	=12	=12	=12
+2AA/	mi	2a/	mi	2cc\	mi	2ee\	mi
+2C/	źr&oacute;-	2g/	źr&oacute;-	2cc\	źr&oacute;-	2ee\	źr&oacute;-
+=13	=13	=13	=13	=13	=13	=13	=13
+2GG/	-dła	2g/	-dła	2b-\	-dła	2dd\	-dła
+2D\	do-	2f/	do-	2a/	do-	2dd\	do-
+=14	=14	=14	=14	=14	=14	=14	=14
+1AA	-star-	1e	-star-	1g	-star-	4dd\	-star-
+.	.	.	.	.	.	8cc#i\L	.
+.	.	.	.	.	.	8bni\J	.
+.	.	.	.	.	.	2cc#\	.
+=15	=15	=15	=15	=15	=15	=15	=15
+1D	-czy	1f	-czy	1a	-czy	1dd	-czy
+=16	=16	=16	=16	=16	=16	=16	=16
+2r	.	2r	.	2r	.	2r	.
+[2F\	w&oacute;d	[2f/	w&oacute;d	[2a/	w&oacute;d	[2cc\	w&oacute;d
+=17	=17	=17	=17	=17	=17	=17	=17
+2F\]	.	2f/]	.	2a/]	.	2cc\]	.
+2C/	nie	2g/	nie	2g/	nie	4cc\	nie
+.	.	.	.	.	.	4b-\	.
+=18	=18	=18	=18	=18	=18	=18	=18
+2D\	u-	2d/	u-	2f/	u-	2a/	u-
+2AA/	-sta-	2e/	-sta-	2a/	-sta-	2a/	-sta-
+=19	=19	=19	=19	=19	=19	=19	=19
+1D	-ją-	2f/	-ją-	1a	-ją-	1dd	-ją-
+.	.	4e/	.	.	.	.	.
+.	.	4d/	.	.	.	.	.
+=20	=20	=20	=20	=20	=20	=20	=20
+[1AA	-cych.	[1e	-cych.	[1a	-cych.	[1cc#i	-cych.
+=21	=21	=21	=21	=21	=21	=21	=21
+1AA]	.	1e]	.	1a]	.	1cc#]	.
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!GTL: Hymnbook L 1642
+!!!EFL: 6/39
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-02-13 
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Translated from MusicXML and edited by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}

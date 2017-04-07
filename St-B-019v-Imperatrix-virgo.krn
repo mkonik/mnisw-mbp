@@ -1,0 +1,91 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL: Imperatrix virgo gloriosa
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook B
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+!!!RDF*pag: 19v-20r
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: dr Marcin Konik
+!!!END: 2015-04/2015-05
+!!!EED: dr Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!title: @{OTL}, @{GTL}: p. @{RDF*pag}, ed. @{ENC}
+!!muse2ps: z14jc180F
+**kern
+*staff1
+*I"[Canto]
+*oclefC1
+*clefG2
+*k[b-]
+!*met(c|)
+*M2/1
+=-
+!LO:TX:a:t=no meter indication
+1f
+1e
+2.d
+4e
+2f
+2g
+1.a
+2g
+2f
+2e
+2f
+2d
+2f
+2e
+2f
+2g
+1e
+2c
+2d
+1e;
+2b-
+2cc
+2dd
+=-
+!!Original pagebreak
+2cc
+1b-
+1cc
+2b-
+2g
+2a
+2b-
+2cc
+1a
+2g
+1a
+2cc
+2b-
+2cc
+2a
+1g
+1e
+2f
+2e
+2d
+2f
+2e
+1d
+2c
+1d
+2f
+2e
+2f
+2g
+1e
+2c
+2d
+0e;
+==
+*-

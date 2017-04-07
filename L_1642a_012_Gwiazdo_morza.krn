@@ -1,0 +1,99 @@
+!!!COM: Anonymous
+!!!OTL@@: Gwiadzo morza głębokiego
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook L 1642(a)
+!!!ARL: Biblioteka Diecezjalna w Sandomierzu 
+!!!voices:	3
+**kern	**text	**kern	**text	**kern	**text
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Canto II	*	*I"Canto I	*
+=1-	=1-	=1-	=1-	=1-	=1-
+*clefF4	*	*clefG2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*
+*met(c|)	*	*met(c|)	*	*met(c|)	*
+*M2/2	*	*M2/2	*	*M2/2	*
+1G	Gwia-	1g	Gwia-	1g	Gwia-
+=2	=2	=2	=2	=2	=2
+2G\	.	4b-\	-zdo	4dd\	-zdo
+.	.	4a/	.	4cc\	.
+2G\	mo-	4b-\	mo-	4dd\	mo-
+.	.	4cc\	.	4ee\	.
+=3	=3	=3	=3	=3	=3
+2D\	-rza	2dd\	-rza	2ff#\	-rza
+[2G\	głę-	2b-\	głę-	[2gg\	głę-
+=4	=4	=4	=4	=4	=4
+4G\]	.	2g/	.	4gg\]	.
+4A\	.	.	.	4ff\	.
+4B-\	-bo-	2dd\	-bo-	4ee\	-bo-
+4G\	.	.	.	4dd\	.
+=5	=5	=5	=5	=5	=5
+1A	-kie-	1cc#	-kie-	1ee	-kie-
+=6	=6	=6	=6	=6	=6
+1D	-go	1dd	-go	1dd	-go
+=7	=7	=7	=7	=7	=7
+1G	Ma-	1b-	Ma-	1dd	Ma-
+=8	=8	=8	=8	=8	=8
+2G\	-tko	2g/	-tko	2b-\	-tko
+2F\	Bo-	2a/	Bo-	2cc\	Bo-
+=9	=9	=9	=9	=9	=9
+2BB-/	-ga	2b-\	-ga	2dd\	-ga
+[2F\	naj-	[2a/	naj-	[2cc\	naj-
+=10	=10	=10	=10	=10	=10
+2F\]	.	4a/]	.	4cc\]	.
+.	.	4g/	.	4b-\	.
+2G\	-wyż-	4f#i/	-wyż-	4a/	-wyż-
+.	.	4g/	.	4g/	.
+=11	=11	=11	=11	=11	=11
+1D	-sze-	1f#	-sze-	1a	-sze-
+=12	=12	=12	=12	=12	=12
+1GG	-go	1g	-go	1g	-go
+=13	=13	=13	=13	=13	=13
+=	=	=	=	=	=
+1G	Pa-	1g	Pa-	1b-	Pa-
+=14	=14	=14	=14	=14	=14
+2G\	-nien-	2g/	-nien-	2b-\	-nien-
+2F\	-ko	2a/	-ko	2cc\	-ko
+=15	=15	=15	=15	=15	=15
+2D\	bądź	2b-\	bądź	2dd\	bądź
+[2C/	po-	[2cc\	po-	[2ee-\	po-
+=16	=16	=16	=16	=16	=16
+4C/]	.	2cc\]	.	4ee-\]	.
+4D\	.	.	.	4dd\	.
+4E-\	-zdro-	2b-\	-zdro-	4cc\	-zdro-
+4BB-/	.	.	.	4b-\	.
+=17	=17	=17	=17	=17	=17
+1F	-wio-	1a	-wio-	1cc	-wio-
+=18	=18	=18	=18	=18	=18
+1BB-	-na	1b-	-na	1dd	-na
+=19	=19	=19	=19	=19	=19
+1D	Fur-	1f#	Fur-	1a	Fur-
+=20	=20	=20	=20	=20	=20
+2G\	-tko	2g/	-tko	2b-\	-tko
+2F\	raj-	2a/	raj-	2cc\	raj-
+=21	=21	=21	=21	=21	=21
+2BB-/	-ska	2b-\	-ska	2dd\	-ska
+[2F\	o-	[2a/	o-	[2cc\	o-
+=22	=22	=22	=22	=22	=22
+2F\]	.	2a/]	.	2cc\]	.
+2G\	-two-	2g/	-two-	2b-\	-two-
+=23	=23	=23	=23	=23	=23
+1D	-rzo-	1f#	-rzo-	1a	-rzo-
+=24	=24	=24	=24	=24	=24
+[1GG	-na.	[1g	-na.	[1g	-na.
+=25	=25	=25	=25	=25	=25
+1GG]	.	1g]	.	1g]	.
+==:|!	==:|!	==:|!	==:|!	==:|!	==:|!
+*-	*-	*-	*-	*-	*-
+!!!GTL: Hymnbook L 1642(a)
+!!!EFL: 12/34
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-01-08 
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Translated from MusicXML and edited by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}

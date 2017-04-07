@@ -1,0 +1,207 @@
+!!!COM: Leszczyński, Władysław
+!!!CDT: 1616-1680
+!!!TXO: Latin
+!!!OTL@@LAT: Agnus Dei 
+!!!ODT: 
+!!!ARL: Klasztor OO. Paulinów na Jasnej Górze
+!!!voices:	4
+!!title: @{OTL}, @{GTL}, ed. @{ENC}
+!!!pag:
+!!!GTL: Missa cum Credo per Octavas
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!!END: 2015-02-13
+!!!YOO:
+**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*clefF4	*	*clefGv2	*	*clefG2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
+*M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
+=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
+1%2G	A-	1%2B-	A-	1%2d	A-	1%2g	A-
+1D	-gnus	1A	-gnus	1d	-gnus	1f	-gnus
+=2	=2	=2	=2	=2	=2	=2	=2
+1.G	De-	1.B-	De-	1.g	De-	1.g	De-
+2A\	.	2c\	.	2f/	.	2a/	.
+1B-	-i	1d	-i	2d/	-i	1b-	-i
+.	.	.	.	2e/	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3
+1%2F	qui	1%2c	qui	1%2f	qui	1%2a	qui
+1E	tol-	1B-	tol-	1g	tol-	1g	tol-
+=4	=4	=4	=4	=4	=4	=4	=4
+1%2.F	-lis	1%2.c	-lis	1%2.f	-lis	1%2.a	-lis
+=5	=5	=5	=5	=5	=5	=5	=5
+1%2B-	qui	1%2d	qui	1%2d	qui	1b-	qui
+.	.	.	.	.	.	1b-	tol-
+1F	tol-	1c	tol-	1f	tol-	1a	-lis
+=6	=6	=6	=6	=6	=6	=6	=6
+1%2G	-lis	1%2B-	-lis	1%2d	-lis	1g	pec-
+.	.	.	.	.	.	1g	-ca-
+1D	pec-	1d	pec-	1d	pec-	1f	-ta
+=7	=7	=7	=7	=7	=7	=7	=7
+1BB-	-ca-	1B-	-ca-	1d	-ca-	1b-	mun-
+1C	-ta	2A/	-ta	1e-	-ta	2a/	.
+.	.	2G/	.	.	.	1g	.
+1D	mun-	1A	mun-	1d	mun-	.	.
+.	.	.	.	.	.	2f#/	.
+=8	=8	=8	=8	=8	=8	=8	=8
+1%2.GG	-di	1%2.G	-di	1%2.d	-di	1%2.g	-di
+=9	=9	=9	=9	=9	=9	=9	=9
+1%2F	mi-	1%2c	mi-	1%2f	mi-	1%2a	mi-
+1D	-se-	1B-	-se-	1f	-se-	1b-	-se-
+=10	=10	=10	=10	=10	=10	=10	=10
+1%2C	-re-	1%2c	-re-	1%2e	-re-	1%2cc	-re-
+1F	-re	1A	-re	1f	-re	1a	-re
+=11	=11	=11	=11	=11	=11	=11	=11
+1BB-	no-	1F	no-	1d	no-	1b-	no-
+1%2C	.	1%2G	.	1%2e	.	1%2g	.
+=12	=12	=12	=12	=12	=12	=12	=12
+1%2.FF	-bis	1%2.A	-bis	1%2.f	-bis	1%2.a	-bis
+=13	=13	=13	=13	=13	=13	=13	=13
+1%2BB-	A-	1%2d	A-	1%2d	A-	1%2f	A-
+1FF	-gnus	1c	-gnus	1f	-gnus	1a	-gnus
+=14	=14	=14	=14	=14	=14	=14	=14
+1%2BB-	De-	1%2d	De-	1%2d	De-	1%2f	De-
+1FF	-i	1c	-i	1f	-i	1a	-i
+=15	=15	=15	=15	=15	=15	=15	=15
+1%2C	A-	1%2G	A-	1%2e	A-	1%2cc	A-
+1C	-gnus	1G	-gnus	1e	-gnus	1cc	-gnus
+=16	=16	=16	=16	=16	=16	=16	=16
+1%2D	De-	1%2A	De-	1%2f	De-	1%2a	De-
+1AA	.	1A	.	1f	.	1cc	.
+=17	=17	=17	=17	=17	=17	=17	=17
+1%2BB-	-qui	1%2d	-qui	1%2d	-qui	1%2b-	-qui
+1C	tol-	2c\	tol-	1e	tol-	1g	tol-
+.	.	2B-\	.	.	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18
+1%2.FF 1%2.F	-lis	1%2.A	-lis	1%2.f	-lis	1%2.a	-lis
+=19	=19	=19	=19	=19	=19	=19	=19
+1%2C	qui	1G	qui	1%2e	qui	1%2cc	qui
+.	.	1G	tol-	.	.	.	.
+1F	.	1A	-lis	1f	.	1a	.
+=20	=20	=20	=20	=20	=20	=20	=20
+1%2D	tol-	1%2B-	pec-	1%2f	tol-	1%2f	tol-
+1C	.	1c	-ca-	1e	-lis	1g	.
+=21	=21	=21	=21	=21	=21	=21	=21
+1%2FF	-pec-	1%2c	-ta	2d/	pec-	1%2a	-pec-
+.	.	.	.	2c/	-ca-	.	.
+.	.	.	.	2d/	.	.	.
+.	.	.	.	2e/	.	.	.
+1GG	-ca-	1d	pec-	2f/	.	1b-	-ca-
+.	.	.	.	2d/	-ta	.	.
+=22	=22	=22	=22	=22	=22	=22	=22
+1AA	-ta	1c	-ca-	1%2f	mun-	1a	-ta
+1BB-	mun-	2B-\	-ta	.	.	1%2g	mun-
+.	.	2A/	.	.	.	.	.
+1C	.	1G	mun-	1e	.	.	.
+=23	=23	=23	=23	=23	=23	=23	=23
+1%2.FF	-di	1%2.A	-di	1%2.f	-di	1%2.a	-di
+=24	=24	=24	=24	=24	=24	=24	=24
+1%2F	mi-	1%2c	mi-	1%2c	mi-	1%2f	mi-
+1E	-se-	1d	-se-	1c	-se-	1g	-se-
+=25	=25	=25	=25	=25	=25	=25	=25
+1.D	-re-	1%2A	-re-	1.f	-re-	1%2a	-re-
+2C/	.	.	.	2e/	.	.	.
+1BB-	-re	1B-	-re	1d	-re	1b-	-re
+=26	=26	=26	=26	=26	=26	=26	=26
+1AA	no-	1%2A	no-	1%2f	no-	1a	no-
+1%2C	.	.	.	.	.	1%2g	.
+.	.	1G	.	1e	.	.	.
+=27	=27	=27	=27	=27	=27	=27	=27
+1%2.FF	-bis	1%2.F	-bis	1%2.f	-bis	1%2.a	-bis
+=28	=28	=28	=28	=28	=28	=28	=28
+1%2C	A-	1%2G	A-	1%2e	A-	1%2cc	A-
+1F	-gnus	1A	-gnus	1f	-gnus	1a	-gnus
+=29	=29	=29	=29	=29	=29	=29	=29
+1%2C	De-	1%2G	De-	1%2e	De-	1%2cc	De-
+1FF	-i	1A	-i	1f	-i	1a	-i
+=30	=30	=30	=30	=30	=30	=30	=30
+1%2D	qui	1%2B-	qui	1%2f	qui	1%2f	qui
+1C	tol-	1c	tol-	1e	tol-	1g	tol-
+=31	=31	=31	=31	=31	=31	=31	=31
+1%2.F	-lis	1%2.c	-lis	1%2.f	-lis	1%2.a	-lis
+=32	=32	=32	=32	=32	=32	=32	=32
+1%2F	pec-	1%2A	qui	1f	qui	1%2f	qui
+.	.	.	.	1f	tol-	.	.
+1C	-ca-	1B-	tol-	1e	-lis	1g	tol-
+=33	=33	=33	=33	=33	=33	=33	=33
+1%2F	.	1%2c	-lis	1%2f	pec-	1%2a	-lis
+1G	-ta	1B-	pec-	1e	-ca-	1b-	pec-
+=34	=34	=34	=34	=34	=34	=34	=34
+1A	mun-	1.F	-ca-	1%2f	-ta	1.a	-ca-
+1B-	.	.	.	.	.	.	.
+.	.	2F/	-ta	.	.	2a/	-ta
+1c	.	1G	mun-	1e	mun-	1g	mun-
+=35	=35	=35	=35	=35	=35	=35	=35
+1%2.F	-di	1%2.F	-di	1%2.f	-di	1%2.a	-di
+=36	=36	=36	=36	=36	=36	=36	=36
+1%2F	do-	1%2c	do-	1%2f	do-	1%2f	do-
+1E	-na	1c	-na	1g	-na	1g	-na
+=37	=37	=37	=37	=37	=37	=37	=37
+1%2F	no-	1%2c	no-	1%2f	no-	1%2a	no-
+1C	-bis	1d	-bis	1f	-bis	1b-	-bis
+=38	=38	=38	=38	=38	=38	=38	=38
+1%2F	pa-	1%2c	pa-	1a	pa-	1%2a	pa-
+.	.	.	.	1%2g	.	.	.
+1C	.	1B-	.	.	.	1g	.
+=39	=39	=39	=39	=39	=39	=39	=39
+1%2.F	-cem	1%2.c	-cem	1%2.f	-cem	1%2.a	-cem
+=40	=40	=40	=40	=40	=40	=40	=40
+1%2F	do-	1%2A	do-	1%2c	do-	1%2cc	do-
+1F	-na	1A	-na	1c	-na	1cc	-na
+=41	=41	=41	=41	=41	=41	=41	=41
+1%2G	no-	1%2G	no-	1.d	no-	1%2b-	no-
+.	.	.	.	2e/	.	.	.
+1A	-bis	1F	-bis	2f/	-bis	1a	-bis
+.	.	.	.	2g/	.	.	.
+=42	=42	=42	=42	=42	=42	=42	=42
+1A	pa-	1c	pa-	1a	pa-	1a	pa-
+1%2c	.	2B-\	.	1%2g	.	1%2g	.
+.	.	2A/	.	.	.	.	.
+.	.	1G	.	.	.	.	.
+=43	=43	=43	=43	=43	=43	=43	=43
+1F	-cem	1A	-cem	1a	-cem	1a	-cem
+1B-	do-	1B-	do-	1d	do-	1dd	do-
+1B-	-na	1B-	-na	1d	-na	1dd	-na
+=44	=44	=44	=44	=44	=44	=44	=44
+1%2F	no-	1%2A	no-	1%2f	no-	1%2cc	no-
+1G	-bis	1G	-bis	1d	-bis	1b-	-bis
+=45	=45	=45	=45	=45	=45	=45	=45
+1%2D	pa-	1%2F#	pa-	1%2d	pa-	1%2a	pa-
+1G	.	1G	.	1d	-cem	1g	.
+=46	=46	=46	=46	=46	=46	=46	=46
+1.C	-do-	1.G	-do-	1.c	do-	1.ee-	-do-
+2C/	-na	2G/	-na	2c/	-na	2ee-\	-na
+2G\	no-	2B-\	no-	2d/	no-	2dd\	no-
+2G\	-bis	2B-\	-bis	2d/	-bis	2dd\	-bis
+=47	=47	=47	=47	=47	=47	=47	=47
+1%2.C	pa-	1.G	pa-	1%2.g	pa-	1.cc	pa-
+.	.	2F/	.	.	.	2dd\	.
+.	.	2G/	.	.	.	1ee-	.
+.	.	2A/	.	.	.	.	.
+=48	=48	=48	=48	=48	=48	=48	=48
+1GG	-cem	1c	-cem	1f	-cem	1dd	-cem
+2G\	do-	2B-\	do-	2g/	do-	1dd	do-
+2A\	.	2c\	.	2f/	.	.	.
+1B-	-na	1d	-na	2e/	-na	1dd	-na
+.	.	.	.	2d/	.	.	.
+=49	=49	=49	=49	=49	=49	=49	=49
+1%2F	no-	1%2c	no-	1%2f	no-	1%2a	no-
+1G	-bis	1B-	-bis	1d	-bis	1b-	-bis
+=50	=50	=50	=50	=50	=50	=50	=50
+1C	pa-	1G	pa-	1%2e-	pa-	1cc	pa-
+1%2D	.	1%2A	.	.	.	1%2dd	.
+.	.	.	.	1d	.	.	.
+=51	=51	=51	=51	=51	=51	=51	=51
+1%2.GG	-cem	1%2.G	.	1%2.d	.	1%2.dd	.
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-

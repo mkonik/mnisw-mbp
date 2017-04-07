@@ -1,0 +1,318 @@
+**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Tenore	*	*I"Alto	*	*I"Soprano II	*	*I"Soprano I	*
+=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
+*clefGv2	*	*clefGv2	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*
+*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
+[1c	Te-	[1e	Te-	[1g	Te-	[1cc	Te-
+=2	=2	=2	=2	=2	=2	=2	=2
+2c\]	.	2e\]	.	2g/]	.	2cc\]	.
+2G/	-ne-	2d\	-ne-	2g/	-ne-	2b\	-ne-
+=3	=3	=3	=3	=3	=3	=3	=3
+1G	-brae	1d	-brae	1g	-brae	1b	-brae
+=4	=4	=4	=4	=4	=4	=4	=4
+[1A	fa-	[1c	fa-	[1e	fa-	[1a	fa-
+=5	=5	=5	=5	=5	=5	=5	=5
+2A/]	.	2c\]	.	2e/]	.	2a/]	.
+2A/	-ctae	2c\	-ctae	2e/	-ctae	2a/	-ctae
+=6	=6	=6	=6	=6	=6	=6	=6
+1E	sunt,	1B	sunt,	1e	sunt,	1g#	sunt,
+=7	=7	=7	=7	=7	=7	=7	=7
+2r	.	1r	.	2d/	dum	1a	dum
+[2A/	dum	.	.	2f/	cru-	.	.
+=8	=8	=8	=8	=8	=8	=8	=8
+2A/]	.	1e	dum	4c/	-ci-	2cc\	cru-
+.	.	.	.	4d/	.	.	.
+2c\	cru-	.	.	2e/	-fi-	4g/	-ci-
+.	.	.	.	.	.	4a/	-fi-
+=9	=9	=9	=9	=9	=9	=9	=9
+2.G/	-ci-	1g	cru-	[1d	-xis-	1b-	-xis-
+4A/	-fi-	.	.	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10
+1B-	-xis-	4d\	-ci-	1d]	.	1f	-sent
+.	.	4e\	-fi-	.	.	.	.
+.	.	[2f\	-xis-	.	.	.	.
+=11	=11	=11	=11	=11	=11	=11	=11
+!!linebreak:original
+1F	-sent	2f\]	.	1c	-sent	1a	Je-
+.	.	2f\	-sent	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12
+1G	Je-	1d	Je-	1g	Je-	1b-	.
+=13	=13	=13	=13	=13	=13	=13	=13
+2A/	-sum	2c\	-sum	2e/	-sum	2a/	-sum
+2A/	Ju-	2c\	Ju-	2e/	Ju-	2a/	Ju-
+=14	=14	=14	=14	=14	=14	=14	=14
+1E	-dae-	1B	-dae-	1e	-dae-	1g#	-dae-
+=15	=15	=15	=15	=15	=15	=15	=15
+1A	-i:	1c#	-i:	1e	-i:	1a	-i:
+=16	=16	=16	=16	=16	=16	=16	=16
+2r	.	2r	.	2r	.	2r	.
+2A/	et	2c#\	et	2e/	et	2a/	et
+=17	=17	=17	=17	=17	=17	=17	=17
+2A/	cir-	2c#\	cir-	2e/	cir-	2a/	cir-
+2A/	-ca	2c#\	-ca	2e/	-ca	2a/	-ca
+=18	=18	=18	=18	=18	=18	=18	=18
+2A/	ho-	2c#i\	ho-	2e/	ho-	2a/	ho-
+2A/	-ram	2c#\	-ram	2e/	-ram	2a/	-ram
+=19	=19	=19	=19	=19	=19	=19	=19
+1G	no-	1d	no-	1g	no-	1b-	no-
+=20	=20	=20	=20	=20	=20	=20	=20
+[1F	-nam	1f	.	1c	-nam	1a	.
+=21	=21	=21	=21	=21	=21	=21	=21
+1F]	.	1f	-nam	[1cc	ex-	[1a	-nam
+=22	=22	=22	=22	=22	=22	=22	=22
+!!linebreak:original
+[1f	ex-	1r	.	2cc\]	.	1a]	.
+.	.	.	.	2b-\	-cla-	.	.
+=23	=23	=23	=23	=23	=23	=23	=23
+2f\]	.	[1d	ex-	2a/	-ma-	1r	.
+2e\	-cla-	.	.	2g/	-vit	.	.
+=24	=24	=24	=24	=24	=24	=24	=24
+2d\	-ma-	2d\]	.	2f/	Je-	[1a	ex-
+2c#\	-vit	2e\	-cla-	2e/	-sus	.	.
+=25	=25	=25	=25	=25	=25	=25	=25
+1d	Je-	1f	-ma-	[1a	Je-	2a/]	.
+.	.	.	.	.	.	2b\	-cla-
+=26	=26	=26	=26	=26	=26	=26	=26
+[1A	-sus	2e\	-vit	2a/]	.	2cc\	-ma-
+.	.	[2d\	Je-	4g/	.	2dd\	-vit
+.	.	.	.	4f/	.	.	.
+=27	=27	=27	=27	=27	=27	=27	=27
+1A]	.	2d\]	.	1e	.	1ee	Je-
+.	.	2c\	-sus	.	.	.	.
+=28	=28	=28	=28	=28	=28	=28	=28
+[1d	vo-	[1f	vo-	2d/	-sus	2a/	-sus
+.	.	.	.	[2a/	vo-	[2dd\	vo-
+=29	=29	=29	=29	=29	=29	=29	=29
+2d\]	.	2f\]	.	2a/]	.	2dd\]	.
+2d\	-ce	2f\	-ce	2a/	-ce	[2ff\	-ce
+=30	=30	=30	=30	=30	=30	=30	=30
+1c	ma-	1g	ma-	1cc	ma-	2ff\]	.
+.	.	.	.	.	.	2ee\	ma-
+=31	=31	=31	=31	=31	=31	=31	=31
+1F	-gna:	1a	-gna:	1cc	-gna:	1ff	-gna:
+=32	=32	=32	=32	=32	=32	=32	=32
+2r	.	2r	.	2r	.	2r	.
+[2B-\	De-	[2f\	De-	[2b-\	De-	[2dd\	De-
+=33	=33	=33	=33	=33	=33	=33	=33
+!!pagebreak:original
+2B-\]	.	2f\]	.	2b-\]	.	2dd\]	.
+2G/	-us	2g\	-us	2b-\	-us	2dd\	-us
+=34	=34	=34	=34	=34	=34	=34	=34
+[1B-	me-	1f	me-	2.b-\	me-	[1dd	me-
+.	.	.	.	8a/L	.	.	.
+.	.	.	.	8g/J	.	.	.
+=35	=35	=35	=35	=35	=35	=35	=35
+1B-]	.	1d	.	2g/	.	1dd]	.
+.	.	.	.	2g/	-us,	.	.
+=36	=36	=36	=36	=36	=36	=36	=36
+1A	.	1e	.	1a	me-	[1cc#	-us,
+=37	=37	=37	=37	=37	=37	=37	=37
+1A	-us,	1e	-us,	1a	-us,	1cc#]	.
+=38	=38	=38	=38	=38	=38	=38	=38
+2r	.	2r	.	2r	.	2r	.
+2d\	ut	2f\	ut	[2a/	ut	2dd\	ut
+=39	=39	=39	=39	=39	=39	=39	=39
+2A/	quid	2e\	.	2a/]	.	2cc\	quid
+[2c\	de-	2e\	quid	[2g/	quid	[2cc\	de-
+=40	=40	=40	=40	=40	=40	=40	=40
+2c\]	.	2e\	de-	2g/]	.	2cc\]	.
+2A/	-re-	2f\	-re-	2a/	de-	2cc\	-re-
+=41	=41	=41	=41	=41	=41	=41	=41
+2c\	-li-	2e\	-li-	2g/	-re-	2cc\	-li-
+2A/	-qui-	2f#\	-qui-	2a/	-li-	2cc\	-qui-
+=42	=42	=42	=42	=42	=42	=42	=42
+1G	-sti	1g	-sti	2d/	-qui-	1b-	-sti
+.	.	.	.	2e/	-sti	.	.
+=43	=43	=43	=43	=43	=43	=43	=43
+[1F	me?	[1c	me?	[1f	me?	[1a	me?
+=44	=44	=44	=44	=44	=44	=44	=44
+1F]	.	1c]	.	1f]	.	1a]	.
+!!linebreak:original
+=45||	=45||	=45||	=45||	=45||	=45||	=45||	=45||
+!!linebreak:original
+1c	Et	1g	Et	1cc	Et	1ee	Et
+=46	=46	=46	=46	=46	=46	=46	=46
+2c\	in-	2g\	in-	2cc\	in-	2ee\	in-
+2G/	-cli-	2g\	-cli-	2b\	-cli-	2dd\	-cli-
+=47	=47	=47	=47	=47	=47	=47	=47
+2A/	-na-	2e\	-na-	2a/	-na-	2cc\	-na-
+2E/	-to	2e\	-to	2g/	-to	2b\	-to
+=48	=48	=48	=48	=48	=48	=48	=48
+[1F	ca-	[1c	ca-	[1f	ca-	[1a	ca-
+=49	=49	=49	=49	=49	=49	=49	=49
+2F/]	.	2c\]	.	2f/]	.	2a/]	.
+2C/	-pi-	2c\	-pi-	2e/	-pi-	2g/	-pi-
+=50	=50	=50	=50	=50	=50	=50	=50
+1C	-te,	1c	-te,	1e	-te,	1g	-te,
+=51	=51	=51	=51	=51	=51	=51	=51
+2r	.	2r	.	2r	.	2r	.
+2F/	e-	2c\	e-	2f/	e-	2a/	e-
+=52	=52	=52	=52	=52	=52	=52	=52
+2F/	-mi-	2c\	-mi-	2f/	-mi-	2a/	-mi-
+2C/	-sit	2c\	-sit	2e/	-sit	2g/	-sit
+=53	=53	=53	=53	=53	=53	=53	=53
+[1D	spi-	[1A	spi-	[1d	spi-	[1f	spi-
+=54	=54	=54	=54	=54	=54	=54	=54
+2D/]	.	2A/]	.	2d/]	.	2f/]	.
+2D/	-ri-	2A/	-ri-	2d/	-ri-	2f/	-ri-
+=55	=55	=55	=55	=55	=55	=55	=55
+[1A	-tum.	[1A	-tum.	[1c#	-tum.	[1e	-tum.
+=56	=56	=56	=56	=56	=56	=56	=56
+1A]	.	1A]	.	1c#]	.	1e]	.
+!!linebreak:original
+=57||	=57||	=57||	=57||	=57||	=57||	=57||	=57||
+!!linebreak:original
+1r	.	1r	.	[1a	Ex-	1r	.
+=58	=58	=58	=58	=58	=58	=58	=58
+1r	.	1r	.	2a/]	.	1r	.
+.	.	.	.	[2dd\	-cla-	.	.
+=59	=59	=59	=59	=59	=59	=59	=59
+1r	.	1r	.	2dd\]	.	[1a	Ex-
+.	.	.	.	2cc\	-mans	.	.
+=60	=60	=60	=60	=60	=60	=60	=60
+1r	.	1r	.	1ff	Je-	2a/]	.
+.	.	.	.	.	.	[2dd\	-cla-
+=61	=61	=61	=61	=61	=61	=61	=61
+1r	.	1r	.	1ee	-sus	2dd\]	.
+.	.	.	.	.	.	2cc\	-mans
+=62	=62	=62	=62	=62	=62	=62	=62
+1r	.	1d	Ex-	2a/	vo-	1ff	Je-
+.	.	.	.	2b\	-ce	.	.
+=63	=63	=63	=63	=63	=63	=63	=63
+1r	.	[1a	-cla-	2.cc\	ma-	1ee	-sus
+.	.	.	.	4dd\	.	.	.
+=64	=64	=64	=64	=64	=64	=64	=64
+1r	.	2a\]	.	4ee\	.	1cc	vo-
+.	.	.	.	8dd\L	.	.	.
+.	.	.	.	8ee\J	.	.	.
+.	.	2f\	.	[2ff\	.	.	.
+=65	=65	=65	=65	=65	=65	=65	=65
+1r	.	1b-	.	4ff\]	.	1dd	-ce
+.	.	.	.	4ee\	.	.	.
+.	.	.	.	[2dd\	.	.	.
+=66	=66	=66	=66	=66	=66	=66	=66
+1r	.	1a	-mans	2dd\]	.	2.ee\	ma-
+.	.	.	.	2cc\	-gna,	.	.
+.	.	.	.	.	.	8dd\L	.
+.	.	.	.	.	.	8ee\J	.
+=67	=67	=67	=67	=67	=67	=67	=67
+!!pagebreak:original
+1r	.	2f\	vo-	2a/	ma-	2ff\	.
+.	.	2g\	-ce	2b\	.	4ee\	.
+.	.	.	.	.	.	4dd\	.
+=68	=68	=68	=68	=68	=68	=68	=68
+1r	.	[1a	ma-	4cc\	.	1ff	.
+.	.	.	.	4a/	.	.	.
+.	.	.	.	[2dd\	.	.	.
+=69	=69	=69	=69	=69	=69	=69	=69
+1r	.	1a]	.	2dd\]	.	[1ee	-gna,
+.	.	.	.	4cc#\	.	.	.
+.	.	.	.	4b\	.	.	.
+=70	=70	=70	=70	=70	=70	=70	=70
+1r	.	1a	-gna,	1cc#	-gna,	1ee]	.
+=71	=71	=71	=71	=71	=71	=71	=71
+1r	.	1r	.	1r	.	1r	.
+=72	=72	=72	=72	=72	=72	=72	=72
+1r	.	[1d	a-	[1dd	a-	[1ff	a-
+=73	=73	=73	=73	=73	=73	=73	=73
+1r	.	1d]	.	1dd]	.	1ff]	.
+=74	=74	=74	=74	=74	=74	=74	=74
+1r	.	1a	-it:	1cc#	-it:	1ee	-it:
+=75	=75	=75	=75	=75	=75	=75	=75
+1r	.	2r	.	1r	.	2r	.
+.	.	2a\	in	.	.	2cc\	in
+=76	=76	=76	=76	=76	=76	=76	=76
+1r	.	1a	ma-	1ee	in	1cc	ma-
+=77	=77	=77	=77	=77	=77	=77	=77
+1r	.	2a\	-nus	1ee	ma-	2cc\	-nus
+.	.	[2a\	tu-	.	.	[2cc\	tu-
+=78	=78	=78	=78	=78	=78	=78	=78
+!!linebreak:original
+1r	.	2a\]	.	2ee\	-nus	2cc\]	.
+.	.	2g#\	-as	[2ee\	tu-	2b\	-as
+=79	=79	=79	=79	=79	=79	=79	=79
+1r	.	2a\	Do-	2ee\]	.	2cc\	Do-
+.	.	2f\	-mi-	2dd\	-as	2a/	-mi-
+=80	=80	=80	=80	=80	=80	=80	=80
+1r	.	2e\	-ne	2ee\	Do-	1g	-ne
+.	.	2e\	com-	2cc\	-mi-	.	.
+=81	=81	=81	=81	=81	=81	=81	=81
+1r	.	1g	-men-	1b	-ne	2r	.
+.	.	.	.	.	.	2b\	com-
+=82	=82	=82	=82	=82	=82	=82	=82
+1r	.	2f#\	-do	2a/	com-	2dd\	-men-
+.	.	[2g\	spi-	[2dd\	-men-	2b\	-do
+=83	=83	=83	=83	=83	=83	=83	=83
+1r	.	1g]	.	2dd\]	.	1b	spi-
+.	.	.	.	2dd\	-do	.	.
+=84	=84	=84	=84	=84	=84	=84	=84
+1r	.	1e	-ri-	1g	spi-	2r	.
+.	.	.	.	.	.	2cc\	-ri-
+=85	=85	=85	=85	=85	=85	=85	=85
+1r	.	2.f\	-tum	1a	-ri-	1cc	-tum
+.	.	4e\	.	.	.	.	.
+=86	=86	=86	=86	=86	=86	=86	=86
+1r	.	1d	me-	[1dd	-tum	1ff	me-
+=87	=87	=87	=87	=87	=87	=87	=87
+1r	.	[1a	-um.	2dd\]	.	[1ee	-um.
+.	.	.	.	4cc#\	me-	.	.
+.	.	.	.	4b\	.	.	.
+=88	=88	=88	=88	=88	=88	=88	=88
+1r	.	1a]	.	1cc#	-um.	1ee]	.
+=89||	=89||	=89||	=89||	=89||	=89||	=89||	=89||
+!!linebreak:original
+1c	Et	1g	Et	1cc	Et	1ee	Et
+=90	=90	=90	=90	=90	=90	=90	=90
+2c\	in-	2g\	in-	2cc\	in-	2ee\	in-
+2G/	-cli-	2g\	-cli-	2b\	-cli-	2dd\	-cli-
+=91	=91	=91	=91	=91	=91	=91	=91
+2A/	-na-	2e\	-na-	2a/	-na-	2cc\	-na-
+2E/	-to	2e\	-to	2g/	-to	2b\	-to
+=92	=92	=92	=92	=92	=92	=92	=92
+[1F	ca-	[1c	ca-	[1f	ca-	[1a	ca-
+=93	=93	=93	=93	=93	=93	=93	=93
+2F/]	.	2c\]	.	2f/]	.	2a/]	.
+2C/	-pi-	2c\	-pi-	2e/	-pi-	2g/	-pi-
+=94	=94	=94	=94	=94	=94	=94	=94
+1C	-te,	1c	-te,	1e	-te,	1g	-te,
+=95	=95	=95	=95	=95	=95	=95	=95
+2r	.	2r	.	2r	.	2r	.
+2F/	e-	2c\	e-	2f/	e-	2a/	e-
+=96	=96	=96	=96	=96	=96	=96	=96
+2F/	-mi-	2c\	-mi-	2f/	-mi-	2a/	-mi-
+2C/	-sit	2c\	-sit	2e/	-sit	2g/	-sit
+=97	=97	=97	=97	=97	=97	=97	=97
+[1D	spi-	[1A	spi-	[1d	spi-	[1f	spi-
+=98	=98	=98	=98	=98	=98	=98	=98
+2D/]	.	2A/]	.	2d/]	.	2f/]	.
+2D/	-ri-	2A/	-ri-	2d/	-ri-	2f/	-ri-
+=99	=99	=99	=99	=99	=99	=99	=99
+[1A	-tum.	[1A	-tum.	[1c#	-tum.	[1e	-tum.
+=100	=100	=100	=100	=100	=100	=100	=100
+1A]	.	1A]	.	1c#]	.	1e]	.
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!OTL: Tenebrae factae sunt 
+!!!COM: Ingegneri, Marc' Antonio
+!!!CDT: ca. 1535/36-1592-07-01
+!!!TXO: Latin
+!!!ODT: 
+!!!ARL: Klasztor OO. Paulinów na Jasnej Górze
+!!!voices:	5
+!!title: @{OTL}, @{GTL}, ed. @{ENC}
+!!!pag:
+!!!GTL: Responsoria in Hebdomada majore
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-0m-dd
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

@@ -1,0 +1,96 @@
+!!!COM: Anonymous
+!!!OTL@@LAT: Salve cordis gaudium
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook L 1642
+!!!ARL: Biblioteka Diecezjalna w Sandomierzu 
+!!!voices:	3
+**kern	**text	**kern	**text	**kern	**text
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Canto II	*	*I"Canto I	*
+=1-	=1-	=1-	=1-	=1-	=1-
+*clefF4	*	*clefG2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*
+*met(c|)	*	*met(c|)	*	*met(c|)	*
+*M2/2	*	*M2/2	*	*M2/2	*
+2.C/	Sal-	2.cc\	Sal-	2.ee-i\	Sal-
+4BB-/	-ve	4dd\	-ve	4ff\	-ve
+=2	=2	=2	=2	=2	=2
+2E-\	cor-	2ee-\	cor-	2gg\	cor-
+2C/	-dis	2cc\	-dis	2ee-i\	-dis
+=3	=3	=3	=3	=3	=3
+2.G\	gau-	2.bn\	gau-	2.dd\	gau-
+4G\	-di-	4a/	-di-	4cc\	-di-
+=4	=4	=4	=4	=4	=4
+1G	-um	1bni	-um	1dd	-um
+=5	=5	=5	=5	=5	=5
+2C/	sal-	2cc\	sal-	2ee-i\	sal-
+2C/	-ve	2cc\	-ve	2ee-\	-ve
+=6	=6	=6	=6	=6	=6
+1GG	Je-	1bni	Je-	1dd	Je-
+=7	=7	=7	=7	=7	=7
+1C	-su	1cc	-su	1cc	-su
+=8	=8	=8	=8	=8	=8
+2.GG/	Pe-	2.g/	Pe-	2.b-\	Pe-
+4GG/	-cto-	4a/	-cto-	4cc\	-cto-
+=9	=9	=9	=9	=9	=9
+2BB-/	-ris	2b-\	-ris	2dd\	-ris
+2GG/	in-	2g/	in-	2b-\	in-
+=10	=10	=10	=10	=10	=10
+2.D\	-cen-	2.f#/	-cen-	2.a/	-cen-
+4D\	-di-	4f#/	-di-	4g/	-di-
+=11	=11	=11	=11	=11	=11
+1D	-um	1f#i	-um	1a	-um
+=12	=12	=12	=12	=12	=12
+2GG/	sal-	2g/	sal-	2b-\	sal-
+2GG/	-ve	2g/	-ve	2b-\	-ve
+=13	=13	=13	=13	=13	=13
+1D	Je-	1f#	Je-	1a	Je-
+=14	=14	=14	=14	=14	=14
+1GG	-su	1g	-su	1g	-su
+=15	=15	=15	=15	=15	=15
+2.C/	A-	2.cc\	A-	2.ee-\	A-
+4BB-/	-ni-	4dd\	-ni-	4ff\	-ni-
+=16	=16	=16	=16	=16	=16
+2E-\	-mae	2ee-\	-mae	2gg\	-mae
+2C/	prae-	2cc\	prae-	2ee-i\	prae-
+=17	=17	=17	=17	=17	=17
+2.G\	-si-	2.bn\	-si-	2.dd\	-si-
+4G\	-di-	4a/	-di-	4cc\	-di-
+=18	=18	=18	=18	=18	=18
+1GG	-um	1bni	-um	1dd	-um
+=19	=19	=19	=19	=19	=19
+2C/	sal-	2cc\	sal-	2ee-i\	sal-
+2C/	-ve	2cc\	-ve	2ee-\	-ve
+=20	=20	=20	=20	=20	=20
+1GG	Je-	2cc\	Je-	1dd	Je-
+.	.	2bni\	.	.	.
+=21	=21	=21	=21	=21	=21
+1C	-su	1cc	-su	1cc	-su
+=22||	=22||	=22||	=22||	=22||	=22||
+=	=	=	=	=	=
+2.BB-/	Bo-	2.dd\	Bo-	2.ff\	Bo-
+4BB-/	-ne	4dd\	-ne	4ff\	-ne
+=23	=23	=23	=23	=23	=23
+2C/	sal-	2cc\	sal-	2ee-i\	sal-
+2C/	-ve	2cc\	-ve	2ee-\	-ve
+=24	=24	=24	=24	=24	=24
+1GG	Je-	1bni	Je-	1dd	Je-
+=25	=25	=25	=25	=25	=25
+[1C	-su.	[1cc	-su.	[1cc	-su.
+=26	=26	=26	=26	=26	=26
+1C]	.	1cc]	.	1cc]	.
+==:|!	==:|!	==:|!	==:|!	==:|!	==:|!
+*-	*-	*-	*-	*-	*-
+!!!GTL: Hymnbook L 1642
+!!!EFL: 32/39
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-02-22 
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Translated from MusicXML and edited by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}

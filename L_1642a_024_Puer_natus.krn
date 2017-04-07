@@ -1,0 +1,76 @@
+!!!COM: Anonymous
+!!!OTL@@LAT: Puer natus in Betleem
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook L 1642(a)
+!!!ARL: Biblioteka Diecezjalna w Sandomierzu 
+!!!voices:	3
+**kern	**text	**kern	**text	**kern	**text
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Canto II	*	*I"Canto I	*
+=1-	=1-	=1-	=1-	=1-	=1-
+*clefF4	*	*clefG2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*
+*M3/1	*	*M3/1	*	*M3/1	*
+1r	.	1r	.	1r	.
+1r	.	1r	.	1r	.
+1G	Pu-	1g	Pu-	1g	Pu-
+=2	=2	=2	=2	=2	=2
+0G	-er	0g	-er	0g	-er
+1G	na-	1g	na-	1g	na-
+=3	=3	=3	=3	=3	=3
+0F	-tus	0a	-tus	0cc	-tus
+1F	in	1a	in	1cc	in
+=4	=4	=4	=4	=4	=4
+1BB-	Beth-	1b-	Beth-	1dd	Beth-
+1F	.	1a	.	1cc	.
+1G	-le-	1g	-le-	1b-	-le-
+=5	=5	=5	=5	=5	=5
+0.D	-em	0.f#i	-em	0.a	-em
+=6	=6	=6	=6	=6	=6
+0BB-	in	0b-	na-	0dd	na-
+1C	.	1cc	-tus	1ee-	-tus
+=7	=7	=7	=7	=7	=7
+1D	Beth-	1b-	in	1dd	in
+0F	-le-	1.a	Beth-	1.cc	Beth-
+.	.	2a/	-le-	2cc\	-le-
+=8	=8	=8	=8	=8	=8
+0BB-	-em	0b-	-em	0b-	-em
+1BB-	un-	1b-	un-	1dd	un-
+=9	=9	=9	=9	=9	=9
+0BB-	-de	0b-	-de	0dd	-de
+1BB-	gau-	1b-	gau-	1dd	gau-
+=10	=10	=10	=10	=10	=10
+0FF	-det	0a	-det	0cc	-det
+1GG	Je-	1b-	Je-	1dd	Je-
+=11	=11	=11	=11	=11	=11
+1C	-ru-	1g	-ru-	1b-	-ru-
+0D	-sa-	0f#	-sa-	0a	-sa-
+=12	=12	=12	=12	=12	=12
+0GG	-lem	0g	-lem	0g	-lem
+1G	un-	1g	un-	1b-	un-
+=13	=13	=13	=13	=13	=13
+0D	-de	0f#i	-de	0a	-de
+1G	gau-	1g	gau-	1b-	gau-
+=14	=14	=14	=14	=14	=14
+0F	-det	0a	-det	0cc	-det
+1BB-	Je-	1b-	Je-	1dd	Je-
+=15	=15	=15	=15	=15	=15
+1C	-ru-	1g	-ru-	1b-	-ru-
+0D	-sa-	0f#i	-sa-	0a	-sa-
+=16	=16	=16	=16	=16	=16
+0.GG	-lem.	0.g	-lem.	0.g	-lem.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!GTL: Hymnbook L 1642(a)
+!!!EFL: 24/34
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-01-17 
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Translated from MusicXML and edited by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
