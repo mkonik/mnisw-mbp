@@ -1,6 +1,8 @@
-!!!COM: Bielski, Joachim 
-!!!LYR: 
-!!!OTL: Piesn Nowa o szczesliwey potrzebie pod Byczynam [...]
+!!!COM: Bielski, Joachim
+!!!CDT: ~1550–1599
+!!!ODT: ~1588
+!!!LYR:
+!!!OTL: Piesn Nowa o szczesliwey potrzebie pod Byczynam
 !!!PPR: Siebeneicher, Jakób
 !!!PDT: 1588
 !!!PPP: Kraków
@@ -8,7 +10,7 @@
 !!!END: 2015-03-15
 !!!YOO: Polish National Library
 !!!RDF**kern: i=editorial accidental
-!!title: @{OTL}, year @{PDT}, ed. @{ENC}
+!!title: @{CDT}, @{OTL}, ed. @{ENC}
 !!!YEM: Creative Commons CC/BY/NC/SA 4.0
 !!!EED: Marcin Konik
 !!!ONB: Encoded in vim by Marcin Konik
@@ -69,5 +71,5 @@
 1A	.	1e	1a
 .	2c#	.	.
 1D;	1d;	1f#;	1a;
-==	==	==	==
+=:|	=:|	=:|	=:|
 *-	*-	*-	*-

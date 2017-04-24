@@ -1,0 +1,90 @@
+!!!COM: Anonymous
+!!!CDT: fl. XVI c. [?]
+!!!ODT: ~1551
+!!!OTL: Napis nad grobem zacney Krolowey Barbary Radziwiłłówny
+!!!TXO: Polish
+!!!voices: 4
+!!!pag:
+!!!EFL:
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2014-12-01
+!!!EED: Marcin Konik
+!!!EEV:
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!muse2ps: z14jc180F
+!!title: @{CDT}, @{OTL}, ed. @{ENC}
+**kern	**kern	**kern	**kern
+*staff4	*staff3	*staff2	*staff1
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[b-]	*k[b-]	*k[b-]	*k[b-]
+*M2/1	*M2/1	*M2/1	*M2/1
+=1-	=1-	=1-	=1-
+1D	1d	1f	1a
+2A	2c#	2e	2a
+2D	2d	2f	2a
+=2	=2	=2	=2
+1A	1c	4e	1cc
+.	.	4d	.
+.	.	4e	.
+.	.	4f#	.
+2G	2d	2g	2b-
+2F	[2f	[2a	2a
+=3	=3	=3	=3
+1B-	2f]	2a]	1dd
+.	4e	2g	.
+.	4d	.	.
+1A	2f	1a	1cc
+.	2e	.	.
+=4	=4	=4	=4
+2r	2r	2r	2r
+2A	2c	2e	2cc
+2G	2d	2g	2b-
+2A	2c#	2e	2a
+=5	=5	=5	=5
+1D	1d	1f	1a
+2F	2A	2f	2a
+2C	2c	2e	2g
+=6	=6	=6	=6
+1D	1A	1d	1f
+1AA	1A	1c#	1e
+=7	=7	=7	=7
+2r	2r	2r	2r
+2AA	2A	2c#	2e
+2D	2A	2d	2f
+2AA	2A	2c#	2e
+=8	=8	=8	=8
+1D	1A	1d	1f
+1BB-	1B-	1d	1f
+=9	=9	=9	=9
+1C	1G	2c	1e
+.	.	2.c	.
+1GG	1G	.	1d
+.	.	4B	.
+.	.	2B	.
+=10	=10	=10	=10
+1C	1G	1c	1e
+2r	2r	2r	2r
+2C	2c	2G	2e
+=11	=11	=11	=11
+2D	2A	2d	2f
+2AA	2A	2c	2e
+2BB-	2F	2B-	2d
+2FF	2A	2c	2f
+=12	=12	=12	=12
+1GG	2.G	1B-	2e
+.	.	.	2.d
+.	4F	.	.
+1AA	1E	1A	.
+.	.	.	8c#L
+.	.	.	8BJ
+.	.	.	2c#
+=13	=13	=13	=13
+0D	0D	0A	0d
+==	==	==	==
+*-	*-	*-	*-

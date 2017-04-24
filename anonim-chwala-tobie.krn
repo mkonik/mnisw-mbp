@@ -1,0 +1,115 @@
+!!!COM: Anonymous
+!!!CDT: fl. XV c. 1st half [?]
+!!!ODT: XV c.
+!!!OTL: Chwała tobie gospodynie
+!!!TXO: Polish
+!!!voices: 3
+!!!pag:
+!!!EFL:
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-01-01
+!!!EED: Marcin Konik
+!!!EEV:
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!muse2ps: z14jc180F
+!!title: @{CDT}, @{OTL}, ed. @{ENC}
+**kern	**kern	**kern
+*part3	*part2	*part1
+*staff3	*staff2	*staff1
+*oclefC4	*oclefC4	*oclefC2
+*clefF4	*clefGv2	*clefG2
+*k[]	*k[]	*k[]
+*M2/1	*M2/1	*M2/1
+=1-	=1-	=1-
+1C	2c	1cc
+.	1c	.
+1F	.	1cc
+.	2f	.
+=2	=2	=2
+1G	2e	1b-i
+.	2d	.
+1F	1f	2a
+.	.	2f
+=3	=3	=3
+1c	1e	2g
+.	.	2a
+2A	2c	2f
+[2B-i	[2d	[2g
+=4	=4	=4
+2B-i]	2d]	2g]
+2A	1c	1f
+1G	.	.
+.	2B	2e
+=5	=5	=5
+0F	1c	0f
+.	2d	.
+.	2c	.
+=6	=6	=6
+1F	1f	1a
+1c	2e	2g
+.	2c	[2cc
+=7	=7	=7
+1d	1G	2cc]
+.	.	2b
+2c	2A	2cc
+[2f	[2F	[2dd
+=8	=8	=8
+2f]	2F]	2dd]
+2e	1g	1cc
+1d	.	.
+.	[2f	[2b-i
+=9	=9	=9
+2c	2f]	2b-i]
+2A	1e	1a
+1B-i	.	.
+.	2d	2g
+=10	=10	=10
+1A	1e	1a
+1r	1c	1cc
+=11	=11	=11
+1c	1A	1cc
+1c	1F	1a
+=12	=12	=12
+1A	1D	1f
+[1F	1c	2r
+.	.	2c
+=13	=13	=13
+1F]	1A	2d
+.	.	2f
+1G	1B-i	2e
+.	.	[2d
+=14	=14	=14
+2F	2A	2d]
+2E	1G	1c
+1D	.	.
+.	2F	2B
+=15	=15	=15
+1C	1G	1c
+2r	1c	2cc
+2C	.	2cc
+=16	=16	=16
+2F	2A	2cc
+2G	2G	2b-i
+1A	1F	2cc
+.	.	2a
+=17	=17	=17
+1B-i	1G	2g
+.	.	2b-i
+1c	1C	2a
+.	.	[2g
+=18	=18	=18
+2.A	2D	2g]
+.	2E	1f
+4F	.	.
+1G	1C	.
+.	.	2e
+=19	=19	=19
+0F	0c	0f
+==	==	==
+*-	*-	*-
